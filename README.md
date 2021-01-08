@@ -73,68 +73,68 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 1
 
 #### Tuesday 1/19
-Course introduction
-Listening exercise
+- Course introduction
+- Listening exercise
 
 #### Thursday 1/21
-Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
-Begin [Soundmaps](projects/0_soundmaps.md)
+- Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
+- Begin [Soundmaps](projects/0_soundmaps.md)
 
 ### Week 2
 
 #### Tuesday 1/26
-Reading due: [Brandon Labelle, "Auditory Relations"](readings/labelle_auditory_relations.pdf)
-Soundmaps critique
-Introduction to acoustics
+- Reading due: [Brandon Labelle, "Auditory Relations"](readings/labelle_auditory_relations.pdf)
+- Soundmaps critique
+- Introduction to acoustics
 
 #### Thursday 1/28
-Artist presentations 1 and 2
-Reading due: [Murray Schafer, _The Soundscape_ (introduction)](schafer_soundscape.pdf)
-Introduction to recording
-Begin [Exercise 1-1](exercises/1-1.md)
+- Artist presentations 1 and 2
+- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](schafer_soundscape.pdf)
+- Introduction to recording
+- Begin [Exercise 1-1](exercises/1-1.md)
 
 ### Week 3
 
 #### Tuesday 2/2
-Reading due: [Bernie Krause, "The Niche Hypothesis"](readings/krause_niche_hypothesis.pdf)
-Listen to Exercise 1-1
-Introduction to audio editing
-Begin [Exercise 1-2](exercises/1-2.md)
+- Reading due: [Bernie Krause, "The Niche Hypothesis"](readings/krause_niche_hypothesis.pdf)
+- Listen to Exercise 1-1
+- Introduction to audio editing
+- Begin [Exercise 1-2](exercises/1-2.md)
 
 #### Thursday 2/4
-Artist presentation 3
-Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
-Listen to Exercise 1-2
-Audio editing questions / review
+- Artist presentation 3
+- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
+- Listen to Exercise 1-2
+- Audio editing questions / review
 
 
 ### Week 4
 
 #### Tuesday 2/9
-Reading due: [Christoph Cox, "Interview with Christina Kubisch"](readings/cox_kubisch.pdf)
-Building contact mics and pickup coils
-Begin [Exercise 1-3](exercises/1-3.md)
+- Reading due: [Christoph Cox, "Interview with Christina Kubisch"](readings/cox_kubisch.pdf)
+- Building contact mics and pickup coils
+- Begin [Exercise 1-3](exercises/1-3.md)
 
 #### Thursday 2/11
-Artists presentations 4 and 5
-Listen to Exercise 1-3
-Contact mic and pickup coil review and questions
-Begin [Soundscapes](projects/1_soundscapes.md) project
+- Artists presentations 4 and 5
+- Listen to Exercise 1-3
+- Contact mic and pickup coil review and questions
+- Begin [Soundscapes](projects/1_soundscapes.md) project
 
 ### Week 5
 
 #### Tuesday 2/16
-Soundscapes project, preliminary critique
+- Soundscapes project, preliminary critique
 
 #### Thursday 2/18
-Artist presentations 6 and 7
-Work day
+- Artist presentations 6 and 7
+- Work time
 
 
 ### Week 6
 
 #### Tuesday 2/23
-Soundscapes project, final crit
+- Soundscapes project, final crit
 
 #### Thursday 2/25
 **BREAK: NO CLASS**
@@ -143,41 +143,41 @@ Soundscapes project, final crit
 ### Week 7
 
 #### Tuesday 3/2
-Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
-Introduction to Pure Data (Pd)
-[Exercise 2-0](exercises/2-0.md) in class
-Begin [Exercise 2-1](exercises/2-1.md)
+- Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
+- Introduction to Pure Data (Pd)
+- [Exercise 2-0](exercises/2-0.md) in class
+- Begin [Exercise 2-1](exercises/2-1.md)
 
 #### Thursday 3/4
-Artist presentation 8
-Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
-Listen to Exercise 2-1
-Introduction to sequencing
-Begin [Exercise 2-2](exercises/2-2.md)
+- Artist presentation 8
+- Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
+- Listen to Exercise 2-1
+- Introduction to sequencing
+- Begin [Exercise 2-2](exercises/2-2.md)
 
 ### Week 8
 
 #### Tuesday 3/9
-Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
-Listen to Exercise 2-2
-Introduction to samples
+- Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
+- Listen to Exercise 2-2
+- Introduction to samples
 
 #### Thursday 3/11
-Artist presentation 9
-Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
-Samples, continued
-Begin [Exercise 2-3](exercises/2-3.md)
+- Artist presentation 9
+- Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
+- Samples, continued
+- Begin [Exercise 2-3](exercises/2-3.md)
 
 ### Week 9
 
 #### Tuesday 3/16
-Listen to Exercise 3-3
-Questions and review
-Begin [Synthesis](projects/2_synthesis.md) project
+- Listen to Exercise 3-3
+- Questions and review
+- Begin [Synthesis](projects/2_synthesis.md) project
 
 #### Thursday 3/18
-Artist presentations 10 and 11
-Work day
+- Artist presentations 10 and 11
+- Work day
 
 ### Week 10
 
@@ -185,56 +185,56 @@ Work day
 **BREAK: NO CLASS**
 
 #### Thursday 3/25
-Artist presentation 11
-Synthesis project, preliminary critique
+- Artist presentation 11
+- Synthesis project, preliminary critique
 
 ### Week 11
 
 #### Tuesday 3/30
-Soundscapes project, final critique
+- Soundscapes project, final critique
 
 #### Thursday 4/1
-Artist presentation 12
-Reading due: [Bernhard Leitner, Sound Architecture](readings/leitner_sound_architecture.pdf)
-Introduction to audio levels
-Begin [Exercise 3-1](exercises/3-1.md)
+- Artist presentation 12
+- Reading due: [Bernhard Leitner, Sound Architecture](readings/leitner_sound_architecture.pdf)
+- Introduction to audio levels
+- Begin [Exercise 3-1](exercises/3-1.md)
 
 ### Week 12
 
 #### Tuesday 4/6
-Reading due: [Vijay Iyer, "On Improvisation, Temporality, and Embodied Experience"](readings/iyer_improvisation.pdf)
-Review Exercise 3-1
-Begin [Situated Sound](projects/3_situated_sound.md)
+- Reading due: [Vijay Iyer, "On Improvisation, Temporality, and Embodied Experience"](readings/iyer_improvisation.pdf)
+- Review Exercise 3-1
+- Begin [Situated Sound](projects/3_situated_sound.md)
 
 #### Thursday 4/8
-Artist presentations 13 and 14
-Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
-Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
-Situated Sound, check-in
+- Artist presentations 13 and 14
+- Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
+- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
+- Situated Sound, check-in
 
 ### Week 13
 
 #### Tuesday 4/13
-Situated Sound, final critique
+- Situated Sound, final critique
 
 #### Thursday 4/15
-Begin [Final project](projects/4_final_project.md)
+- Begin [Final project](projects/4_final_project.md)
 
 ### Week 14
 
 #### Tuesday 4/20
-Final project, present proposals
+- Final project, present proposals
 
 #### Thursday 4/22
-Work day
+- Work day
 
 ### Week 15
 
 #### Tuesday 4/27
 <!-- Evaluations -->
-Final project, preliminary critique
+- Final project, preliminary critique
 
 ### Exam Week
 
 #### Tuesday 5/4
-8:30–11:30 Final critique, Hoffman Gallery
+- 8:30–11:30 Final critique, Hoffman Gallery
