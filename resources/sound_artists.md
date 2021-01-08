@@ -1,0 +1,67 @@
+## A randomized selection of sound artists
+- Laurie Spiegel
+- Martin Howse
+- R. Luke DuBois
+- Kelly Dobson
+- Nandita Kumar
+- Rafael Lozano-Hemmer
+- Carlos Garcia
+- Afroditi Psarra
+- Daito Manabe
+- Pinar Yoldas
+- Ben Rubin
+- Mendi & Keith Obadike
+- LoVid
+- Onyx Ashanti
+- Carsten Nicolai
+- Wesley Goatley
+- Tahir Hemphill
+- Ali Momeni
+- Janet Cardiff
+- Jamie Allen
+- Ryoji Ikeda
+- Taeyoon Choi
+- Christian Marclay
+- Daphne Oram
+
+
+- Alvin Lucier
+- La Monte Young
+- Tony Conrad
+
+- Tarek Atoui
+- Jacob Kierkegaard
+- Christine Sun Kim
+- Maria Chavez
+- Ernst Karel
+- Zimoun
+- Marcel Zaes
+- Andrea Polli
+- Seth Cluett
+- Jez Riley French
+- Maryanne Amacher
+- Laurie Anderson
+- William Basinski
+- Florian Hecker
+- Susan Philipsz
+- Christian Marclay
+- Marina Rosenfeld
+- Lawrence Abu Hamdan
+- MSHR
+- Raven Chacon
+- Samson Young
+- Eli Keszler
+- Carsten Nicolai
+- Asha Tamirisa
+- John Cage
+- Marcus Fischer
+- Bernhard Leitner
+- Paula Matthusen
+- Max Neuhaus
+- Steve Reich
+- David Dunn
+- Chris Watson
+- Hildegard Westerkamp
+- Scanner
+- BJ Nilsen
+- Francis Alÿs

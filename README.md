@@ -12,26 +12,32 @@ This course explores sound as a medium of art-making with a rich history and rad
 
 
 #### Objectives:
-- Cultivate an ability to think abstractly in terms of algorithms
-- Understand the underlying structures of contemporary digital tools
-- Survey contemporary artists working formally with code and digital media
-- Build a foundation for expanding into other areas of media art practice
-- Gain proficiency programming in the Python programming language
+- Incorporate sound and listening into studio practice
+- Gain proficiency with audio recording, editing, and synthesis technology and techniques
+- Survey contemporary artists working with sound as a medium
+- Consider contemporary culture through sound-based epistemologies
 
 
 ## Assignments and Grading
 
-### Sketches
-This course is built around open-ended code "sketches" that progress through a series of formal qualities associated with digital media: **algorithm**, **encoding**, **indeterminacy**, **nonlinearity**, **recombination**, **interface**, **emergence**, and **glitch**. In addition, each sketch introduces and makes use of a new programming topic, such as the use of variables and loops. We will begin each one during class time, and you will (usually) complete them as homework. All work will be submit online through [Google Classroom](https://classroom.google.com/u/0/c/MTE4NTU1MDI3MTIz) in the form specified by the assignment. Sketches must include a title and a [3-sentence description](resources/description_guidelines.md) and will be [critiqued](resources/crit_guidelines.md) during class.
+### Projects
+This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence description](resources/description_guidelines.md) must be included with each project. Cumulatively, the projects account for 80% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
 
-Sketches cumulatively account for 90% of your final grade. In order to receive credit for your sketch, you must upload it *before* the class when it is due—no late work is accepted, as it will be graded during the crit. Sketches will be evaluated on both concept and craft.
+### Exercises
+Due the next class session
 
-### Survey presentations
-Each student will give a 10-minute presentation on an artist working in digital media. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. The presentation should end with a couple of questions posed to the class for discussion that relate to the technique or themes of the artist's work. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1nggDB1bS2JwEHQEd68H1AvLbPs22qDmSZV5r_P9cJYI/edit#gid=0) on an artist chosen from [a list](resources/digital_media_artists.md) on a first-come, first-served basis. These presentations make up 10% of your final grade.
+### Artist presentations
+Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. The presentation should end with a couple of questions posed to the class for discussion that relate to the technique or themes of the artist's work. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](resources/sound_artists.md) on a first-come, first-served basis. These presentations make up 10% of your final grade.
+
+### Reading
+
+
+### Participation
+Grades will be given once in the middle of the semester and once at the end based on a subjective evaluation of participation. Cumulatively, these are worth 10% your final grade.
 
 
 ### COVID-19 Alterations
-This course will be entirely online for Fall 2020 to provide a consistent experience and accommodate immunocompromised members of the community.
+This course will be primarily taught online for Spring 2020 to help safeguard our community. Note that students attending via Zoom must have their camera turned on (failure to do so will affect your participation grade). If you have an extenuating circumstance that affects your ability to have the camera turned on, email me and we will discuss. Office hours available online and in-person, by appointment.
 
 
 ## Policies
@@ -43,13 +49,13 @@ It is my intent to lead a course that serves students from diverse backgrounds a
 The version of this syllabus posted online will be updated periodically and is the definitive version. It is your responsibility to consult it and stay up-to-date.
 
 ### Laptop Use
-Work for this course should be done on a personal laptop—recent hardware and MacOS is preferred (Windows and Linux are also fine; Chromebooks will not work). If you do not have access to a laptop, email me and we will make arrangements for you to borrow a machine.
+A personal laptop is required for some work for this course. Recent hardware and MacOS is preferred; Windows and Linux are also fine, Chromebooks will not work. If you do not have access to a laptop, email me and we will make arrangements for you to borrow a machine.
 
-### Open Studio
-All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205.
+<!-- ### Open Studio
+All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205. -->
 
 ### Course Fee
-There is a course fee automatically paid through student accounts when registered for this class. The fee helps cover software licensing and sensor hardware. However, open source software will be used whenever possible.
+There is a course fee automatically paid through student accounts when registered for this class. The fee helps cover electronics and software licensing. However, open source software will be used whenever possible.
 
 ### Accommodations
 If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation  to the Student Support Services Office in Albany Quadrangle (x7192). Staff in the SSSO will notify me of the accommodations for which you are eligible; please also make an appointment to discuss with me personally.  
@@ -58,7 +64,7 @@ If you have a disability that may impact your academic performance, you may requ
 Please refer to the policy on [Academic Integrity](https://docs.lclark.edu/undergraduate/policiesprocedures/academicintegrity/) available on the College's 'Policies and Procedures' webpage. The work submitted in Digital Media courses must be conceived of and programmed by you. While learning from and incorporating code from other sources is a natural part of programming (e.g. [Stack Overflow](https://stackoverflow.com/) and [OpenProcessing](https://www.openprocessing.org)), you must demonstrate understanding and intentionality in your work, and you may not copy and paste others' code wholesale. Always credit your inspirations and be confident in your original concepts.
 
 ### Land Acknowledgement
-The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Clackamas, Tumwater, Watalala bands of the Chinook, the Tualatin Kalapuya, and other indigenous nations of the Columbia River, and we are here because of the sacrifices forced upon them. Furthermore, we are at an institution named after white colonizers in a city with a racist history. As artists working in Digital Media, we must be aware of and resist the many ways computation capitalizes upon and perpetuates violence toward marginalized people.
+The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Clackamas, Tumwater, Watalala bands of the Chinook, the Tualatin Kalapuya, and other indigenous nations of the Columbia River, and we are here because of the sacrifices forced upon them. Furthermore, we are at an institution named after white colonizers in a city with a racist history. As artists working with technology, we must be aware of and resist the many ways our tools have been used to capitalize upon and perpetuate violence toward marginalized people.
 &nbsp;  
 &nbsp;  
 
@@ -66,156 +72,169 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 ### Week 1
 
-#### Tuesday 9/1
-- Introduction
-- In-class Sketch #0: Algorithm
-- **Homework for next class**: [Get set up](getting_started.md) with Python Mode for Processing
+#### Tuesday 1/19
+Course introduction
+Listening exercise
 
-#### Thursday 9/3
-- Begin [Sketch #1: Encoding Space](units/1_encoding/description.md)
-- Drawing with coordinates
-
+#### Thursday 1/21
+Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
+Begin [Soundmaps](projects/0_soundmaps.md)
 
 ### Week 2
 
-#### Tuesday 9/8
-- Explanation of [artist descriptions](resources/description_guidelines.md)
-- Review, questions, and work time
+#### Tuesday 1/26
+Reading due: [Brandon Labelle, "Auditory Relations"](readings/labelle_auditory_relations.pdf)
+Soundmaps critique
+Introduction to acoustics
 
-#### Thursday 9/10
-- Explanation of [crit guidelines](resources/crit_guidelines.md)
-- Crit Sketch #1
-
+#### Thursday 1/28
+Artist presentations 1 and 2
+Reading due: [Murray Schafer, _The Soundscape_ (introduction)](schafer_soundscape.pdf)
+Introduction to recording
+Begin [Exercise 1-1](exercises/1-1.md)
 
 ### Week 3
 
-#### Tuesday 9/15
-- Begin [Sketch #2: Indeterminacy](units/2_indeterminacy/description.md)
-- Random parameters and loops
+#### Tuesday 2/2
+Reading due: [Bernie Krause, "The Niche Hypothesis"](readings/krause_niche_hypothesis.pdf)
+Listen to Exercise 1-1
+Introduction to audio editing
+Begin [Exercise 1-2](exercises/1-2.md)
 
-#### Thursday 9/17
-- Review, questions, and work time
-- Artist presentations 1
+#### Thursday 2/4
+Artist presentation 3
+Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
+Listen to Exercise 1-2
+Audio editing questions / review
 
 
 ### Week 4
 
-#### Tuesday 9/22
-- Sharing in-progress work, questions, and work time
-- Artist presentations 2
+#### Tuesday 2/9
+Reading due: [Christoph Cox, "Interview with Christina Kubisch"](readings/cox_kubisch.pdf)
+Building contact mics and pickup coils
+Begin [Exercise 1-3](exercises/1-3.md)
 
-#### Thursday 9/24
-- Crit Sketch #2
-- **Homework for next class**: play [Zork](https://playclassic.games/games/adventure-dos-games-online/play-zork-great-underground-empire-online/play)
-
+#### Thursday 2/11
+Artists presentations 4 and 5
+Listen to Exercise 1-3
+Contact mic and pickup coil review and questions
+Begin [Soundscapes](projects/1_soundscapes.md) project
 
 ### Week 5
 
-#### Tuesday 9/29
-<!-- - Begin [Sketch #3: Nonlinearity](units/3_nonlinearity/description.md)
-- Strings, variables, conditionals, and custom functions -->
-- Cancelled
+#### Tuesday 2/16
+Soundscapes project, preliminary critique
 
-#### Thursday 10/1
-<!-- - Review, questions, and work time
-- Artist presentations 3 -->
-- Begin [Sketch #3: Nonlinearity](units/3_nonlinearity/description.md)
-- Strings, variables, conditionals, and custom functions
+#### Thursday 2/18
+Artist presentations 6 and 7
+Work day
 
 
 ### Week 6
 
-#### Tuesday 10/6
-<!-- - Sharing in-progress work, questions, and work time
-- Artist presentations 4 -->
-- Sharing in-progress work, questions, and work time
-- Artist presentations 3
+#### Tuesday 2/23
+Soundscapes project, final crit
 
-#### Thursday 10/8
-<!-- - Crit Sketch #3 -->
-- Sharing in-progress work, questions, and work time
-- Artist presentations 4
+#### Thursday 2/25
+**BREAK: NO CLASS**
 
 
 ### Week 7
 
-#### Tuesday 10/13
-- Crit Sketch #4
-- Begin [Sketch #4: Recombination](units/4_recombination/description.md)
-- Arrays
+#### Tuesday 3/2
+Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
+Introduction to Pure Data (Pd)
+[Exercise 2-0](exercises/2-0.md) in class
+Begin [Exercise 2-1](exercises/2-1.md)
 
-#### Thursday 10/15
-- Review, questions, and work time
-- Artist presentations 5
-
+#### Thursday 3/4
+Artist presentation 8
+Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
+Listen to Exercise 2-1
+Introduction to sequencing
+Begin [Exercise 2-2](exercises/2-2.md)
 
 ### Week 8
 
-#### Tuesday 10/20
-- Sharing in-progress work, questions, and work time
-- Artist presentations 6
+#### Tuesday 3/9
+Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
+Listen to Exercise 2-2
+Introduction to samples
 
-#### Thursday 10/22
-- Crit Sketch #4
-
+#### Thursday 3/11
+Artist presentation 9
+Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
+Samples, continued
+Begin [Exercise 2-3](exercises/2-3.md)
 
 ### Week 9
 
-#### Tuesday 10/27
-- Begin [Sketch #5: Interface](units/5_interface/description.md)
-- Using the mouse and keyboard, variable math
+#### Tuesday 3/16
+Listen to Exercise 3-3
+Questions and review
+Begin [Synthesis](projects/2_synthesis.md) project
 
-#### Thursday 10/29
-- Review, questions, and work time
-- Artist presentations 7
-
+#### Thursday 3/18
+Artist presentations 10 and 11
+Work day
 
 ### Week 10
 
-#### Tuesday 11/3
-- Sharing in-progress work, questions, and work time
-- Artist presentations 8
+#### Tuesday 3/23
+**BREAK: NO CLASS**
 
-#### Thursday 11/5
-- Crit Sketch #5
-
+#### Thursday 3/25
+Artist presentation 11
+Synthesis project, preliminary critique
 
 ### Week 11
 
-#### Tuesday 11/10
-- Begin [Sketch #6: Animation](https://github.com/brianhouse/ART112/blob/master/units/6_animation/description.md)
-<!-- [Sketch #6: Emergence](units/6_emergence/description.md) -->
-- Objects and animation
+#### Tuesday 3/30
+Soundscapes project, final critique
 
-#### Thursday 11/12
-- Make-up presentations
-- Review, questions, and work time
-
+#### Thursday 4/1
+Artist presentation 12
+Reading due: [Bernhard Leitner, Sound Architecture](readings/leitner_sound_architecture.pdf)
+Introduction to audio levels
+Begin [Exercise 3-1](exercises/3-1.md)
 
 ### Week 12
 
-#### Tuesday 11/17
-- Sharing in-progress work, questions, and work time
+#### Tuesday 4/6
+Reading due: [Vijay Iyer, "On Improvisation, Temporality, and Embodied Experience"](readings/iyer_improvisation.pdf)
+Review Exercise 3-1
+Begin [Situated Sound](projects/3_situated_sound.md)
 
-#### Thursday 11/19
-- Crit Sketch #6
+#### Thursday 4/8
+Artist presentations 13 and 14
+Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
+Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
+Situated Sound, check-in
 
 ### Week 13
 
-#### Tuesday 12/1
-- Begin [Sketch #7: Glitch](units/7_glitch/description.md)
-- Deconstructing bytes
+#### Tuesday 4/13
+Situated Sound, final critique
 
-#### Thursday 12/3
-- Review, questions, and work time
-
+#### Thursday 4/15
+Begin [Final project](projects/4_final_project.md)
 
 ### Week 14
 
-#### Tuesday 12/8
-- Course evaluations
-- Crit Sketch #7
-- Start final print
+#### Tuesday 4/20
+Final project, present proposals
 
-### Finals Week
-- Final prints due
+#### Thursday 4/22
+Work day
+
+### Week 15
+
+#### Tuesday 4/27
+<!-- Evaluations -->
+Final project, preliminary critique
+
+### Exam Week
+
+#### Tuesday 5/4
+8:30–11:30 Final critique, Hoffman Gallery
