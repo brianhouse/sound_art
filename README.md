@@ -1,9 +1,11 @@
-# ART 327 SPECIAL TOPICS: SOUND ART
+# ART 327: SOUND ART
 
-Tuesday / Thursday 1:00–3:30PM, Fields 205 and [https://zoom.us/my/digitalmediastudio](https://zoom.us/my/digitalmediastudio)  
-Course materials on [Google Classroom](https://classroom.google.com/u/0/c/MTE4NTU1MDI3MTIz)
+Tuesday / Thursday 1:00–3:30PM  
+Fields 205 and [https://zoom.us/my/digitalmediastudio](https://zoom.us/my/digitalmediastudio)  
+Course materials on [Google Classroom](https://classroom.google.com/u/0/c/MjQ5ODQ3NDYzODE3)
 
-Prof. Brian House (he/him/his), [brianhouse@lclark.edu](mailto:brianhouse@lclark.edu)  
+Prof. Brian House (he/him/his)   
+[brianhouse@lclark.edu](mailto:brianhouse@lclark.edu), [https://brianhouse.net](https://brianhouse.net)  
 Office hours by appointment
 
 
@@ -11,7 +13,7 @@ Office hours by appointment
 This course explores sound as a medium of art-making with a rich history and radical potential within contemporary culture. Techniques covered will include non-musical scores, field recording, basic computer-based audio manipulation, and building lo-fi electronics for experimental sound synthesis. Accompanying readings draw from acoustic ecology, critical sound studies, afro-futurism, and media theory to contextualize collective exploration. Students will be expected to create studio-based art for critique. No musical experience is required.
 
 
-#### Objectives:
+#### Objectives
 - Incorporate sound and listening into studio practice
 - Gain proficiency with audio recording, editing, and synthesis technology and techniques
 - Survey contemporary artists working with sound as a medium
