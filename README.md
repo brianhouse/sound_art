@@ -172,7 +172,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 9
 
 #### Tuesday 3/16
-- Listen to Exercise 3-3
+- Listen to Exercise 2-3
 - Questions and review
 - Begin [Synthesis](projects/2_synthesis.md) project
 
