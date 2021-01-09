@@ -22,21 +22,20 @@ This course explores sound as a medium of art-making with a rich history and rad
 
 ## Assignments and Grading
 
-### Projects
-This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence description](resources/description_guidelines.md) must be included with each project. Cumulatively, the projects account for 80% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
+### Artist presentations
+Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](resources/sound_artists.md) on a first-come, first-served basis. This presentation is 10% of your final grade.
 
 ### Exercises
-Due the next class session
-
-### Artist presentations
-Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. The presentation should end with a couple of questions posed to the class for discussion that relate to the technique or themes of the artist's work. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](resources/sound_artists.md) on a first-come, first-served basis. These presentations make up 10% of your final grade.
+Exercises are short assignments to help you get a handle on new techniques. In most cases, they are due for the class session following the one in which they are introduced. Cumulatively, they make up 10% of your final grade.
 
 ### Reading
-
+Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready (post one online before class begins, worth 5% of your final grade).
 
 ### Participation
-Grades will be given once in the middle of the semester and once at the end based on a subjective evaluation of participation. Cumulatively, these are worth 10% your final grade.
+Grades will be given once in the middle of the semester and once at the end based on a subjective evaluation of in-class participation. Cumulatively, these are worth 25% your final grade.
 
+### Projects
+This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence statement](resources/statement_guidelines.md) must be included with each project. Cumulatively, the projects account for 50% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### COVID-19 Alterations
 This course will be primarily taught online for Spring 2020 to help safeguard our community. Note that students attending via Zoom must have their camera turned on (failure to do so will affect your participation grade). If you have an extenuating circumstance that affects your ability to have the camera turned on, email me and we will discuss. Office hours available online and in-person, by appointment.
@@ -76,7 +75,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 1/19
 - Course introduction
-- Listening exercise
+- [Listening exercise](exercises/0.md)
 
 #### Thursday 1/21
 - Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
@@ -118,7 +117,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Begin [Exercise 1-3](exercises/1-3.md)
 
 #### Thursday 2/11
-- Artists presentations 4 and 5
+- Artist presentations 4 and 5
 - Listen to Exercise 1-3
 - Contact mic and pickup coil review and questions
 - Begin [Soundscapes](projects/1_soundscapes.md) project
@@ -187,7 +186,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 **BREAK: NO CLASS**
 
 #### Thursday 3/25
-- Artist presentation 11
+- Artist presentation 12
 - Synthesis project, preliminary critique
 
 ### Week 11
@@ -196,8 +195,8 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Soundscapes project, final critique
 
 #### Thursday 4/1
-- Artist presentation 12
-- Reading due: [Bernhard Leitner, Sound Architecture](readings/leitner_sound_architecture.pdf)
+- Artist presentation 13
+- Reading due: [Bernhard Leitner, "Sound Architecture"](readings/leitner_sound_architecture.pdf)
 - Introduction to audio levels
 - Begin [Exercise 3-1](exercises/3-1.md)
 
@@ -209,9 +208,8 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Begin [Situated Sound](projects/3_situated_sound.md)
 
 #### Thursday 4/8
-- Artist presentations 13 and 14
-- Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
-- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
+- Artist presentations 14
+- Reading due: [Seth Kim-Cohen, _In the Blink of an Ear_ (introduction)](kim-cohen_blink_of_an_ear.pdf)
 - Situated Sound, check-in
 
 ### Week 13
@@ -220,6 +218,8 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Situated Sound, final critique
 
 #### Thursday 4/15
+- Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
+- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
 - Begin [Final project](projects/4_final_project.md)
 
 ### Week 14
