@@ -1,12 +1,6 @@
 ## A randomized selection of sound artists
 - Laurie Spiegel
 - Martin Howse
-- R. Luke DuBois
-- Kelly Dobson
-- Nandita Kumar
-- Rafael Lozano-Hemmer
-- Carlos Garcia
-- Afroditi Psarra
 - Daito Manabe
 - Pinar Yoldas
 - Ben Rubin
@@ -19,16 +13,14 @@
 - Ali Momeni
 - Janet Cardiff
 - Jamie Allen
+- Emeka Ogboh
 - Ryoji Ikeda
 - Taeyoon Choi
 - Christian Marclay
 - Daphne Oram
-
-
 - Alvin Lucier
 - La Monte Young
 - Tony Conrad
-
 - Tarek Atoui
 - Jacob Kierkegaard
 - Christine Sun Kim
@@ -65,3 +57,16 @@
 - Scanner
 - BJ Nilsen
 - Francis Alÿs
+- Jacek Smolicki
+- R. Luke DuBois
+- Kelly Dobson
+- Nandita Kumar
+- Rafael Lozano-Hemmer
+- Carlos Garcia
+- Afroditi Psarra
+- Judy Dunaway
+- Ed Osborn
+- Harry Bertoia
+- Stephen Vitiello
+- Tristan Perich
+- Jana Winderen

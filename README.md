@@ -23,13 +23,13 @@ This course explores sound as a medium of art-making with a rich history and rad
 ## Assignments and Grading
 
 ### Artist presentations
-Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](resources/sound_artists.md) on a first-come, first-served basis. This presentation is 10% of your final grade.
+Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](resources/sound_artists.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
 
 ### Exercises
 Exercises are short assignments to help you get a handle on new techniques. In most cases, they are due for the class session following the one in which they are introduced. Cumulatively, they make up 10% of your final grade.
 
 ### Reading
-Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready (post one online before class begins, worth 5% of your final grade).
+Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready. Posting a short response (1-3 sentences) online before class begins will be worth 5% of your final grade (asking a question about something you didn't understand is an excellent use of a post).
 
 ### Participation
 Grades will be given once in the middle of the semester and once at the end based on a subjective evaluation of in-class participation. Cumulatively, these are worth 25% your final grade.
@@ -56,7 +56,7 @@ A personal laptop is required for some work for this course. Recent hardware and
 All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205. -->
 
 ### Course Fee
-There is a course fee automatically paid through student accounts when registered for this class. The fee helps cover electronics and software licensing. However, open source software will be used whenever possible.
+There is a course fee automatically paid through student accounts when registered for this class. The fee helps cover hardware. Open source software will be used whenever possible.
 
 ### Accommodations
 If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation  to the Student Support Services Office in Albany Quadrangle (x7192). Staff in the SSSO will notify me of the accommodations for which you are eligible; please also make an appointment to discuss with me personally.  
@@ -79,6 +79,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 1/21
 - Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
+- Introduction to acoustics
 - Begin [Soundmaps](projects/0_soundmaps.md)
 
 ### Week 2
@@ -86,7 +87,6 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Tuesday 1/26
 - Reading due: [Brandon Labelle, "Auditory Relations"](readings/labelle_auditory_relations.pdf)
 - Soundmaps critique
-- Introduction to acoustics
 
 #### Thursday 1/28
 - Artist presentations 1 and 2
@@ -209,7 +209,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 4/8
 - Artist presentations 14
-- Reading due: [Seth Kim-Cohen, _In the Blink of an Ear_ (introduction)](kim-cohen_blink_of_an_ear.pdf)
+- Reading due: [Seth Kim-Cohen, _In the Blink of an Ear_ (introduction)](readings/kim-cohen_blink_of_an_ear.pdf)
 - Situated Sound, check-in
 
 ### Week 13
@@ -239,4 +239,4 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Exam Week
 
 #### Tuesday 5/4
-- 8:30–11:30 Final critique, Hoffman Gallery
+- 8:30–11:30 Final critique, Arnold Gallery
