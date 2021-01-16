@@ -54,6 +54,8 @@ A personal laptop is required for some work for this course. Recent hardware and
 
 <!-- ### Open Studio
 All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205. -->
+### Access to Fields 205
+You will be able to access the Digital Media Studio in Fields to work on particular exercises and assignments. For the time being, access will be limited to four students at a time, and you must [review and agree](https://docs.google.com/forms/d/e/1FAIpQLSe2F3DdzrJFarp6PHDNTiMcMuWFY1zn53x_PomGA6RuybCEVg/viewform) to the Fields guidelines. Hours are 6AM–midnight, and you will need to swipe your card. Only one person can work at a set of tables at a time, and you must use the equipment specifically allocated for you—there will be no tool sharing.
 
 ### Course Fee
 There is a course fee automatically paid through student accounts when registered for this class. The fee helps cover hardware. Open source software will be used whenever possible.
