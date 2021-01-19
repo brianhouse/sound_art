@@ -99,14 +99,14 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 3
 
 #### Tuesday 2/2
-- Reading due: [Bernie Krause, "The Niche Hypothesis"](readings/krause_niche_hypothesis.pdf)
+- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
 - Listen to Exercise 1-1
 - Introduction to audio editing
 - Begin [Exercise 1-2](exercises/1-2.md)
 
 #### Thursday 2/4
 - Artist presentation 3
-- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
+- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](readings/lopez_schizophonia_vs_sonore.pdf)
 - Listen to Exercise 1-2
 - Audio editing questions / review
 
