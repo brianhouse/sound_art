@@ -70,3 +70,4 @@
 - Stephen Vitiello
 - Tristan Perich
 - Jana Winderen
+- Erik DeLuca
