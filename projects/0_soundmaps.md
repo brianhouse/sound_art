@@ -1,6 +1,6 @@
 # Soundmaps
 
-For this project, you will visually represent your sonic environment.
+For this (short) project, you will visually represent your sonic environment.
 
 You may choose any stationary location or walkable area: a room indoors, a spot in the forest, a path through campus, the grocery store, etc (but no virtual or online spaces).
 
@@ -46,4 +46,5 @@ Wadada Leo Smith, _Kashala_ (2011)
 ---
 
 ![](media/0_schorn_nebula.jpg)
+
 Brian Schorn, _Nebula_ (2017)
