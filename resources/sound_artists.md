@@ -71,3 +71,4 @@
 - Tristan Perich
 - Jana Winderen
 - Erik DeLuca
+- Gilles Aubry

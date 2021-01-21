@@ -1,9 +1,10 @@
-- stuff to equipment checkout (add USB)
-- copy Urban/Country
+the syllabus is the class plan. alaways talk about what to do for next class
+
+- figure out equipment checkout
 //
-[set up soldering irons at each table]
-[shit I need fans]
-[need to order jacks too]
+- Schafer Soundscape
+- Introduction to recording
+- Exercise 1-1
 //
 - Reading notes
     - background points on the author (+ sound files)
@@ -12,6 +13,11 @@
 - Exercise descriptions
 - Project descriptions
 //
-- scan the Iyer
-//
 - security access to 205 (form to Alison)
+
+
+////
+settings:
+48/96
+LIMITER
+LOW-CUT 40
