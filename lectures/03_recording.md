@@ -125,13 +125,9 @@ This recorder has two built-in omnidirectional microphones. This is good, becaus
 
 Before you begin recording, make sure it's set to the right format. Press the "menu" button, find "record," and choose _____.
 
-There are a few other settings we're going to want to turn on. The first of these is a "LOW-CUT" filter at 40 Hz. Find it here _____.
+There's another setting we're going to want to turn on. The first of these is a "LOW-CUT" filter at 40 Hz. Find it here _____.
 
 What this does is cut out all frequencies below 40 Hz. Why would we do this? Because most of the sound in that range that this recorder is going to pick up is wind and your hand moving the recorder. LOW-CUT helps us reduce that rumble and make our recordings more clear. (There's a couple other options for frequencies—the higher you go, the more unwanted low sound is cut out, but the more wanted sound you may miss.)
-
-The second option is the "LIMITER." We talked about dynamic range. A limiter prevents sounds that are too loud from creating distortion—the recorder will attempt to round them off at the maximum amplitude it can handle. It still might not sound good, but it can help prevent recordings from being ruined.
-
-*** test this ***
 
 When you hit the record button, the record light begins to flash. **It is not yet recording**. You can hear the mic input in your headphones, but to start recording, you have to hit record a second time (the record light becomes solid).
 

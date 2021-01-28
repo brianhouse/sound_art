@@ -88,7 +88,17 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 1/26
 - Reading due: [Brandon Labelle, "Auditory Relations"](readings/labelle_auditory_relations.pdf)
+<!-- intro to crit -->
 - Soundmaps critique
+<!-- 5 mins each
+- explain the nature of your site
+- how you chose to represent it
+- comment on at least two other people
+-->
+<!--
+- presentation reminder
+- need headphones
+- pick up audio recorder -->
 
 #### Thursday 1/28
 - Artist presentations 1 and 2
@@ -99,14 +109,14 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 3
 
 #### Tuesday 2/2
-- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
+- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](readings/lopez_schizophonia_vs_sonore.pdf)
 - Listen to Exercise 1-1
 - Introduction to audio editing
 - Begin [Exercise 1-2](exercises/1-2.md)
 
 #### Thursday 2/4
 - Artist presentation 3
-- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](readings/lopez_schizophonia_vs_sonore.pdf)
+- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
 - Listen to Exercise 1-2
 - Audio editing questions / review
 
