@@ -74,8 +74,6 @@ WAV is predominant—you should use it exclusively. It's equivalent in the visua
 
 The other formats are all methods of digital compression—ie, they make the file size smaller, especially for the purpose of distributing over the internet. MP3s and other formats are _lossy_, which means they degrade the original quality in some way (and how intelligently they degrade it and with what biases is the difference between them). The visual equivalent of these file types are JPGs, GIFs, PNGs, etc.
 
-#### TL;DR
-
 The best format for our purposes is going to be a **48kHz 24-bit WAV**.
 
 
@@ -123,16 +121,18 @@ One last thing to consider with microphones is wind, whether outside or coming o
 
 This recorder has two built-in omnidirectional microphones. This is good, because it's going to pick up everything around it with a consistent stereo image. But it also means we don't have a lot of options when it comes to playing with mic placement.
 
-Before you begin recording, make sure it's set to the right format. Press the "menu" button, find "record," and choose _____.
+Before you begin recording, make sure it's set to the right format. Press the "MENU" button, choose "REC SETTING", set the "FORMAT" to "WAV 24bit" and set the "SAMPLE" to "48k".
 
-There's another setting we're going to want to turn on. The first of these is a "LOW-CUT" filter at 40 Hz. Find it here _____.
+There's another setting we're going to want to turn on. This is "LOW CUT", also under "REC SETTING", which should be set to "40Hz".
 
 What this does is cut out all frequencies below 40 Hz. Why would we do this? Because most of the sound in that range that this recorder is going to pick up is wind and your hand moving the recorder. LOW-CUT helps us reduce that rumble and make our recordings more clear. (There's a couple other options for frequencies—the higher you go, the more unwanted low sound is cut out, but the more wanted sound you may miss.)
 
 When you hit the record button, the record light begins to flash. **It is not yet recording**. You can hear the mic input in your headphones, but to start recording, you have to hit record a second time (the record light becomes solid).
 
-The reason for this intermediate stage is so you can set the gain. The meter on the display shows the level in dBs. The meter is in dBs. Note that they are negative—they are relative to the full scale gain level. ____**  By pressing the ____ and _______ keys, you change the gain. You want to have a solid signal, but you don't want the signal to hit the upper limit (which results in the _peak_ light turning red).
+The reason for this intermediate stage is so you can set the gain, or "INPUT LEVEL" on this recorder. The meter on the display shows the sound level in dBs. Note that they are this is relative to the maximum amplitude that can be recorded. By pressing the "|<<" and ">>|" keys, you change the gain (**be careful not to confuse this with the headphone volume**, "VOL", which is controlled with the "+" and "-" keys).
+
+You want to have a strong signal, which means that the sound level reaches -12db or so, but you don't want the signal to hit the upper limit (which results in the _peak_ light turning red). For best results, **don't change the gain after you start recording**.
 
 ### Transferring files
 
-Plug the recorder into your computer using the USB cable. You'll see a folder named _____ inside the disk that appears, with your WAV files. Copy these to your computer before working with them further.
+While it is off, plug the recorder into your computer using the USB cable. You'll have the options "BUS POWER", "SD CARD READER", and "AUDIO I/F"—choose "SD CARD READER" to access the recorded files. You'll should see the device appear as a disk on your computer and folder inside, "MUSIC", that contains your WAV files. Copy these to your computer before working with them further.

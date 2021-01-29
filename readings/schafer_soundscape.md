@@ -9,7 +9,7 @@ Born 1933
 - His writings, particularly the book of which we just read the intro, inspired the development of the field of _acoustic ecology_
 - Other practitioners associated with the origins of acoustic ecology include Barry Truax (computer musician known for developing real-time granular synthesis), Hildegard Westerkamp (who we'll hear from), and Bernie Krause (particularly the biophony)
 - Interrelation between geophysical, biological, anthropogenic sounds
-- Gave rise to the concept of "noise pollution" and intersects with environmentalist and environmental justice
+- Gave rise to the concept of "noise pollution" and intersects with environmentalism and environmental justice
 
 
 The Soundscape
@@ -69,3 +69,21 @@ Schizophonia
 - when a sound is separated from its source
 - recordings
 - calls into question Sound in the age of mechanical reproduction (does it lose its aura? do we have to construct an apparatus around the aura?)
+
+
+
+///
+
+Ann, modernist architecture
+
+Colin, how do we go about _removing_ sounds? --> yes, apply aesthetics to industrial noise
+
+Elias, music of age reflects the government, but it's so varied now
+western culture fixated on melody rather than rhythm [is that true?]
+
+john wallent, amplifier worship [Earth]
+
+
+michael, [Archaeoacoustics]
+
+zander, value judgments, what is a 'bad' sound
