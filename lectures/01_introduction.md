@@ -6,7 +6,7 @@
 - Name / pronouns / animal sound
 
 ## Exercise
-- [0.md](exercises/0.md)
+- [0.md](../exercises/0.md)
 
 ## lecture-ish
 - The exercise leads to a more fundamental question, which is, what is sound?
