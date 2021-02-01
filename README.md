@@ -118,19 +118,21 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Artist presentation 3
 - Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
 - Listen to Exercise 1-2
-- Audio editing questions / review
+- Audio editing: sequencing and spatialization
+- Begin [Exercise 1-3](exercises/1-3.md)
 
 
 ### Week 4
 
 #### Tuesday 2/9
 - Reading due: [Christoph Cox, "Interview with Christina Kubisch"](readings/cox_kubisch.pdf)
+- Listen to Exercise 1-3
 - Building contact mics and pickup coils
-- Begin [Exercise 1-3](exercises/1-3.md)
+- Begin [Exercise 1-4](exercises/1-4.md)
 
 #### Thursday 2/11
 - Artist presentations 4 and 5
-- Listen to Exercise 1-3
+- Listen to Exercise 1-4
 - Contact mic and pickup coil review and questions
 - Begin [Soundscapes](projects/1_soundscapes.md) project
 
