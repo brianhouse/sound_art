@@ -1,6 +1,5 @@
 # Editing
 
-
 There are two mediums in which we can edit audio—magnetic tape, and digital. Many of the artists we've talked about so far have used tape, and to edit tape means literally cutting it and taping the pieces back together. We're going to do things digitally, using Audacity.
 
 Audacity is an open source program and is free to use. In some ways, it is clunkier than commercial production software, but it is also super powerful and can do things that other programs cannot. It is not intended to be a music production tool like Logic or Protools or GarageBand or whatever, but is about directly manipulating recordings and really inherits this model from tape editing.
