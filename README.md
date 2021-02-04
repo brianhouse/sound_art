@@ -110,14 +110,14 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 2/2
 - Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](readings/lopez_schizophonia_vs_sonore.pdf)
-- Listen to Exercise 1-1
+- Exercise 1-1 due
 - Introduction to audio editing
 - Begin [Exercise 1-2](exercises/1-2.md)
 
 #### Thursday 2/4
 - Artist presentation 3
 - Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
-- Listen to Exercise 1-2
+- Exercise 1-2 due
 - Audio editing: sequencing and spatialization
 - Begin [Exercise 1-3](exercises/1-3.md)
 
@@ -126,20 +126,21 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 2/9
 - Reading due: [Christoph Cox, "Interview with Christina Kubisch"](readings/cox_kubisch.pdf)
-- Listen to Exercise 1-3
+- Exercise 1-3 due
 - Building contact mics and pickup coils
 - Begin [Exercise 1-4](exercises/1-4.md)
 
 #### Thursday 2/11
 - Artist presentations 4 and 5
-- Listen to Exercise 1-4
+- Exercise 1-4 due
+- Listen to Exercise 1-3
 - Contact mic and pickup coil review and questions
 - Begin [Soundscapes](projects/1_soundscapes.md) project
 
 ### Week 5
 
 #### Tuesday 2/16
-- Soundscapes project, preliminary critique
+- Soundscapes project: everyone discusses their ideas and/or shares progress, preliminary experiments
 
 #### Thursday 2/18
 - Artist presentations 6 and 7

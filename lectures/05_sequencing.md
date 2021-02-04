@@ -24,10 +24,12 @@ As a starting point, the "- +" control on the left side of each track controls t
 
 For more fine-tuned control, and in order to create gradual volume transitions, we'll use the envelope tool. By clicking, holding, and dragging up and down on a clip, you can see how the amplitude of the waveform is adjusted. By just clicking once, you'll create a new control point, and either side of that point can be adjusted independently. To remove a control point, simply drag it outside the track.
 
+By crafting envelopes, you aren't limited by the dynamics of your recordings, and you can expressively control how they are presented to the listener.
+
 
 ## Spatialization
 
-If audio on two different tracks overlaps, you will hear them at the same time. However, you don't need to hear them in the space.
+If audio on two different tracks overlaps, you will hear them at the same time. However, you don't need to hear them in the space. Amplitude envelopes can create a sense of foreground and background and movement between the two. But we can also control side-to-side positioning and movement in the stereo field.
 
 Just like with volume, we have an overall _pan_ control on the left of the track ("L R"). However, we do not have a panning curve in Audacity.
 
@@ -61,7 +63,7 @@ bonus: how is analog reverb produced?
 
 ### Audio rate manipulation
 
-There are a few more additional techniques that mimic what is possible with magnetic tape. The first is changing the playback speed of a track. Click on the track name, and select "Rate" -- you'll see a list of standard sample rates, and an option to supply your own.
+There are a few more additional techniques that mimic what is possible with magnetic tape. The first is changing the playback speed of a track. Click on the track name, and select "Rate"—you'll see a list of standard sample rates, and an option to supply your own.
 
 If you recorded your audio at 48kHz, selecting 16kHz will play back the audio at 1/3 the speed. It will be both slower and lower in pitch. Play around with different track modifications and listen to what they do to the sound.
 

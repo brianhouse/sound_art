@@ -10,7 +10,9 @@ all their initial recordings are going to be too distant, because we've been doi
 
 add screenshots to lecture notes so they can properly review
 
+sequencing -> arranging
+
 
 ### new
 
-I think using casettes / magnetic tape would be awesome. what would that take? preexisting tapes, or record onto tape?
+using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware
