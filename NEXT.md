@@ -5,12 +5,15 @@ really need to cover spatial aspects of listening in the acoustics section, how 
 recording lecture needs more A/V
 
 it's not just about self-noise, it's about room tone
+ie, still talk about self-noise, but the exercise is "noise floor"
 
-all their initial recordings are going to be too distant, because we've been doing far away listening
+all their initial recordings are going to be too distant, because we've been doing far away listening --> have a "close listening" exercise? with the mic?
 
 add screenshots to lecture notes so they can properly review
 
 sequencing -> arranging
+
+listening to 1-3 in class was great, but didnt have a Kubisch discussion (might not be a issue with all in-person class (though will have to rotate with the soldering stations))
 
 
 ### new
