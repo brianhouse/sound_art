@@ -15,6 +15,9 @@ sequencing -> arranging
 
 listening to 1-3 in class was great, but didnt have a Kubisch discussion (might not be a issue with all in-person class (though will have to rotate with the soldering stations))
 
+have a 3Cs rubric?
+
+feels like maybe too much time on soundscape-type stuff? we'll see. maybe thats what gets reduced to play with tape.
 
 ### new
 

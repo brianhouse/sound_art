@@ -15,7 +15,7 @@ This course explores sound as a medium of art-making with a rich history and rad
 
 #### Objectives
 - Incorporate sound and listening into studio practice
-- Gain proficiency with audio recording, editing, and synthesis technology and techniques
+- Gain proficiency with audio recording, editing, and real-time synthesis technology and techniques
 - Survey contemporary artists working with sound as a medium
 - Consider contemporary culture through sound-based epistemologies
 
@@ -118,7 +118,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Artist presentation 3
 - Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
 - Exercise 1-2 due
-- Audio editing: sequencing and spatialization
+- Audio sequencing and spatialization
 - Begin [Exercise 1-3](exercises/1-3.md)
 
 
@@ -160,7 +160,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 3/2
 - Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
-- Introduction to Pure Data (Pd)
+- Introduction to Pure Data (Pd) and digital synthesis
 - [Exercise 2-0](exercises/2-0.md) in class
 - Begin [Exercise 2-1](exercises/2-1.md)
 
@@ -168,7 +168,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Artist presentation 8
 - Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
-- Introduction to sequencing
+- Introduction to real-time sequencing
 - Begin [Exercise 2-2](exercises/2-2.md)
 
 ### Week 8
@@ -176,12 +176,12 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Tuesday 3/9
 - Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
 - Listen to Exercise 2-2
-- Introduction to samples
+- Introduction to sample manipulation
 
 #### Thursday 3/11
 - Artist presentation 9
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
-- Samples, continued
+- Sample manipulation, continued
 - Begin [Exercise 2-3](exercises/2-3.md)
 
 ### Week 9
@@ -189,7 +189,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Tuesday 3/16
 - Listen to Exercise 2-3
 - Questions and review
-- Begin [Synthesis](projects/2_synthesis.md) project
+- Begin [Systems](projects/2_systems.md) project
 
 #### Thursday 3/18
 - Artist presentations 10 and 11
@@ -202,12 +202,12 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 3/25
 - Artist presentation 12
-- Synthesis project, preliminary critique
+- Systems project, preliminary critique
 
 ### Week 11
 
 #### Tuesday 3/30
-- Soundscapes project, final critique
+- Systems project, final critique
 
 #### Thursday 4/1
 - Artist presentation 13
