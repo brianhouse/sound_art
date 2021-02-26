@@ -213,6 +213,18 @@ Note that this becomes a branching process: any number box can be replaced with 
 
 Note that the numbers in your boxes aren't saved with the patch! If you find a combination you like, write them down or take a screenshot, or supply them as default values for each of the oscillators.
 
+**SAVE YOUR WORK** Pd does nothing for you in the way of automatically saving things, and it is prone to crash (never set a font to size 0, for instance).
+
+
+## Using musical pitches
+
+Though no music theory is required here, if you want to use musical notes (even-temperment), Pd can convert to MIDI pitch numbers to frequencies and back. MIDI pitches are just the notes of an even-tempered piano labeled from 0–127. `mtof` converts this number to a frequency, and `ftom` converts it back.
+
+I also made an Object called piano to help you determine those pitches, or just to connect and fool around with notes.
+
+If you want to use just-intonation or microtonal systems ... you'll have to program it yourself.
+
+![](media/06_15_musical_notes.png)
 
 ## Getting help
 
