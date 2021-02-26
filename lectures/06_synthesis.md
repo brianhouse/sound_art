@@ -7,7 +7,15 @@ The most basic building blocks for audio systems are synthesis (the creation of 
 
 ## Pure Data (Pd)
 
-There are many ways that artists and musicians have produced electronic sound, from hardware synthesizers like those produced by Moog and Buchla to software platforms like Ableton or MainStage. We're going to be using a visual control-flow programming language. Unlike most programming languages, this type of programming doesn't use code, but a graphical layout of functions and operators. It's a common approach for working with multimedia, including languages like vvvv, Isadora, and Quartz Composer. Max/MSP is the first and most influential of these, which was originally developed by the researcher Miller Puckette and now powers the effects in Abelton Live. After Max became a commercial product, Puckette created a free and open-source version called Pure Data, or Pd, which is what we will use to build our sounds from scratch.
+There are many ways that artists and musicians have produced electronic sound, from hardware modular synthesizers like those produced by Moog and Buchla to software platforms like Ableton or MainStage.
+
+We're going to be using a visual control-flow programming language. Unlike most programming languages, this type of programming doesn't use code, but a graphical layout of functions and operators. It's a common approach for working with multimedia, including languages like vvvv, Isadora, and Quartz Composer. Max/MSP is the first and most influential of these, which was originally developed by the researcher Miller Puckette and now powers the effects in Abelton Live. After Max became a commercial product, Puckette created a free and open-source version called Pure Data, or Pd, which is what we will use to build our sounds from scratch.
+
+We could do the exact same thing with electronics, store-bought modules, or pre-made software, but this approach demonstrates the fundamentals (and it's free). In addition, Pd can not only run on your computer, but phones and electronic devices, so it's used to make effects for those as well.
+
+Fair warning: I'm also new to Pd (I work in Max if I need to use a control-flow language), so I may be a little clumsy and confused by the differences.
+
+Because this is a complicated topic, I've written up my notes, which I'll share afterwards, so that you'll have a reference.
 
 
 ## Installation
@@ -119,7 +127,9 @@ Add an Object box to a new patch, and type `osc~`. This is a sine-wave oscillato
 
 ![](media/06_07_pd_osc.png)
 
-Next, connect a number box upstream, and a `dac~` object downstream. Connect the outlet of `osc~` to both inlets on `dac~`, which is a "digital-analog converter" that interfaces with your sound card (the two inlets are for the right and left channels). Note that you can distinguish audio connections from data connections by their thicker lines.
+Next, connect a number box upstream, and a `dac~` object downstream. Connect the outlet of `osc~` to both inlets on `dac~`, which is a "digital-analog converter" that interfaces with your sound card (the two inlets are for the right and left channels). Note that you can distinguish audio connections from control connections by their thicker lines.
+
+Because `dac~` just sends things straight to your speakers without any chance to control the volume, in the interest of protecting our ears, I made an Object called `output~` that we're going to use instead. `output~` has a volume control, a mute button, and it also lets you record a wave file: click the checkbox on to start recording, and again to turn it off. The file should show up in your Pd folder (does this work for Windows users?).
 
 ![](media/06_08_pd_audio.png)
 
@@ -179,16 +189,35 @@ While AM synthesis changes the amplitude of another signal, Frequency Modulation
 Here, the frequency that we give to `osc~` is determined by another `osc~` which sweeps over a given range. Varying these parameters results in complex waveforms.
 
 
-## Complex oscillators
+## Filters and Subtractive Synthesis
 
-Note that this becomes a branching process: any number box can be replaced with another oscillator of some kind, whether it serves as a frequency modulator or an amplitude modulator. Combined, you can produce some dynamic sounds.
+There's another important "oscillator" that we've left out: `noise~`. Unlike the others, `noise~` produces random energy across the audio spectrum, aka "white noise":
 
-![](media/06_13_complex_.png)
+![](media/06_14_noise.png)
+
+`noise~` opens up the possibility of approaching synthesis from the opposite direction: instead of adding oscillators together to create complex sounds, what if we start from a maximally complex sound and _subtract_ frequencies to get what we want?
+
+In order to do that, we'll need a **filter**. We've used filters a bit already in Audacity. Here, we are going to use an object called `vcf~` (voltage-controlled filter, in a nod to the electronics equivalent).
+
+`vcf~` takes two parameters: a center frequency, and a "Q" or "resonance" value. When you send `noise~` (or any other audio signal) through `vcf~`, it filters out everything except the frequencies within a range of the center frequency as determined by the Q.
+
+![](media/06_14_filters.png)
+
+(In this example, I've created two sliders, one with a range of 50–5000, and one with a (reversed!) range of 10–1, which I've set in the properties)
+
+## Building complex oscillating systems
+
+Note that this becomes a branching process: any number box can be replaced with another oscillator of some kind, whether it serves as a frequency modulator, an amplitude modulator, or to modulate the frequency of a filter. Combined, you can produce some dynamic sounds.
+
+![](media/06_13_complex.png)
+
+Note that the numbers in your boxes aren't saved with the patch! If you find a combination you like, write them down or take a screenshot, or supply them as default values for each of the oscillators.
 
 
-## Subtractive Synthesis
+## Getting help
 
+Command/Control-click on any object, and in addition to setting certain properties, you can pull up a help window that describes how to use an Object and gives an example of how to connect it.
 
-# volume knob
-# help menu
-# midi notes
+Additionally, under the "Help" menu, you can access the official Pd documentation, which is also available online here: [https://puredata.info/docs/manuals/pd/](https://puredata.info/docs/manuals/pd/)
+
+Much of what I've written here is based on the "FLOSS Manuals" entry for Pd: [http://write.flossmanuals.net/pure-data/introduction2/](http://write.flossmanuals.net/pure-data/introduction2/)

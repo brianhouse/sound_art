@@ -161,38 +161,39 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Tuesday 3/2
 - Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
 - Introduction to Pure Data (Pd) and digital synthesis
-- [Exercise 2-0](exercises/2-0.md) in class
 - Begin [Exercise 2-1](exercises/2-1.md)
 
 #### Thursday 3/4
 - Artist presentation 8
 - Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
-- Introduction to real-time sequencing
+- Real-time sequencing
 - Begin [Exercise 2-2](exercises/2-2.md)
 
 ### Week 8
 
 #### Tuesday 3/9
 - Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
-- Listen to Exercise 2-2
-- Introduction to sample manipulation
+- Listen to Exercise 2-2 <!-- want to do this, but not much time? do in week 9? -->
+- Sample manipulation
+- Begin [Exercise 2-3](exercises/2-3.md)
 
 #### Thursday 3/11
 - Artist presentation 9
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
-- Sample manipulation, continued
-- Begin [Exercise 2-3](exercises/2-3.md)
+- Listen to Exercise 2-3
+- Audio input and recording
+- Begin [Exercise 2-4](exercises/2-4.md)
 
 ### Week 9
 
 #### Tuesday 3/16
-- Listen to Exercise 2-3
-- Questions and review
+- Arduino workshop
 - Begin [Systems](projects/2_systems.md) project
 
 #### Thursday 3/18
 - Artist presentations 10 and 11
+- Listen to Exercises
 - Work day
 
 ### Week 10
