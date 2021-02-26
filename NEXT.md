@@ -19,6 +19,9 @@ have a 3Cs rubric?
 
 feels like maybe too much time on soundscape-type stuff? we'll see. maybe thats what gets reduced to play with tape.
 
+future: assign particular presentations on pieces
+cardiff, cage, lucier, etc. might be more productive then letting them pick in terms of covering the basics
+
 ### new
 
 using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware
