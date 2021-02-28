@@ -95,7 +95,7 @@ This simple setup demonstrates the fundamental way that Pd and all control flow 
 
 ![](media/06_06_pd_messages.png)
 
-Now, make a Message using Command/Control-2. Once again, Messages are distinguished from other types of boxes by a different shape. Attach it to print, switch from edit mode to playback mode, click it, and look at the log.
+Now, make a Message using Command/Control-2. Messages can be numbers, or they can be text ("symbols"), but they can't be changed with the mouse like Numbers can. Once again, Messages are distinguished from other types of boxes by a different shape. Attach it to print, switch from edit mode to playback mode, click it, and look at the log.
 
 Beyond these basic types, the "Put" menu also includes some interface elements. Foremost among these is the "bang" -- select it from the menu, and then move it around on the screen. Connect it to the inlets on both the Number box and the Message box:
 
@@ -113,7 +113,7 @@ In playback mode, enter some numbers into the top two Number boxes, and hit the 
 
 Note that if you change the number in the left Number box, the result updates, but not if you change the number in the right Number box. In Pd, only a change or a bang in the left inlet triggers the operation.
 
-Instead of always using both inlets, you can add a default value as a parameter of many Objects. This works differently depending on the object, but for add it's like this:
+Instead of always using both inlets, you can add a default value as a parameter of operator Objects like `+` and `*`:
 
 ![](media/06_06_pd_math_2.png)
 
@@ -155,7 +155,7 @@ Congratulations, you've made your first synthesizer! (Make sure to save it).
 
 ## Oscillators
 
-All synthesis starts with oscillators. `osc~` is a perfect sine wave. However, there are other shapes that we can use. For example, replace `osc~` with `saw~`, `sqr~`, or `tri~` in your patch and play with the results (these are also externals we installed—look inside those files to see how they are made).
+All synthesis starts with oscillators. `osc~` is a perfect sine wave that oscillates between -1 and 1. However, there are other shapes that we can use. For example, replace `osc~` with `saw~`, `sqr~`, or `tri~` in your patch and play with the results (these are also externals we installed—look inside those files to see how they are made).
 
 ## Additive Synthesis
 
@@ -169,15 +169,15 @@ Try making two oscillators with very close frequencies—you'll hear "beating", 
 
 ## AM Synthesis and LFOs
 
-Similarly, multiplication creates even wilder waveforms by combining two or more simple oscillators—essentially, one oscillator modulates the amplitude (volume) of the other. Traditionally, `phasor~` is used as a modulator. It is similar to `saw~`, but instead moving between the full signal range of -1 to 1, it oscillates from 0 to 1 (zero volume to full volume).
+Similarly, multiplication creates even wilder waveforms by combining two or more simple oscillators—essentially, one oscillator modulates the amplitude (volume) of the other. Traditionally, `phasor~` is used as a modulator. It is similar to `saw~`, but instead moving between the full signal range of -1 to 1, it oscillates from 0 to 1. When multiplied with the signal from `osc~`, this becomes an amplitude adjustment—from zero volume to full (1) volume.
 
 ![](media/06_11_am_synthesis.png)
 
-If you set the `phasor~` down close to 20 Hz, you'll notice you get a pulsation effect. To smooth it out and make it into a "tremolo" instead, we can use an `osc~` as a modulator instead of `phasor~`. However, since `osc~` moves between -1 and 1, we'll add 1 and divide by 2 to get it to work like
+If you set the `phasor~` down close to 20 Hz, you'll notice you get a pulsation effect. To smooth it out and make it into a "tremolo" instead, we can use an `cyc~` as a modulator instead of `phasor~`. Like `phasor~`, `cyc~`, moves between 0 and 1 instead of -1 and 1, but it does it with a sine shape instead of a sawtooth:
 
 ![](media/06_11_tremolo_.png)
 
-Using `osc~` in this way is known as a Low-Frequency Oscillator, or LFO. Even though it cannot be heard directly, LFOs can change the character of other sounds.
+Using `cyc~` in this way is known as a Low-Frequency Oscillator, or LFO. Even though it cannot be heard directly, LFOs can change the character of other sounds.
 
 
 ## FM Synthesis
@@ -186,7 +186,7 @@ While AM synthesis changes the amplitude of another signal, Frequency Modulation
 
 ![](media/06_12_fm_synthesis_.png)
 
-Here, the frequency that we give to `osc~` is determined by another `osc~` which sweeps over a given range. Varying these parameters results in complex waveforms.
+Here, the frequency that we give to `osc~` is determined by another `osc~`. This second oscillator moves between -1 and 1 at 1000 times a second, which when multiplied by 2000 is between -2000 and 2000 at 1000 times a second. The frequency we give to the first oscillator thus becomes a center frequency around which the waveform rapidly oscillates. Varying these parameters results in complex waveforms.
 
 
 ## Filters and Subtractive Synthesis
@@ -205,15 +205,26 @@ In order to do that, we'll need a **filter**. We've used filters a bit already i
 
 (In this example, I've created two sliders, one with a range of 50–5000, and one with a (reversed!) range of 10–1, which I've set in the properties)
 
+Note that `vcf~` has two outlets: using the rightmost outlet instead will create a "low-pass" filter, which filters out all frequencies except those that are below the center frequency (now a "cutoff" frequency).
+
 ## Building complex oscillating systems
 
 Note that this becomes a branching process: any number box can be replaced with another oscillator of some kind, whether it serves as a frequency modulator, an amplitude modulator, or to modulate the frequency of a filter. Combined, you can produce some dynamic sounds.
 
-![](media/06_13_complex.png)
+![](media/06_13_complex_.png)
 
-Note that the numbers in your boxes aren't saved with the patch! If you find a combination you like, write them down or take a screenshot, or supply them as default values for each of the oscillators.
+Notice how the operator Objects multiply or add to LFOs by a given value, which changes their range.
+
+
+## Saving and loading
 
 **SAVE YOUR WORK** Pd does nothing for you in the way of automatically saving things, and it is prone to crash (never set a font to size 0, for instance).
+
+...but note that the numbers in your boxes aren't saved with the patch! If you find a combination you like, supply them as default values for each of the oscillators, or put them in messages that you can click or bang to restore the values.
+
+One very helpful object for this is called `loadbang`—it sends a bang when the patch is loaded. Attach this to a message to set a value.
+
+![](media/06_14_loadbang.png)
 
 
 ## Using musical pitches
@@ -232,4 +243,4 @@ Command/Control-click on any object, and in addition to setting certain properti
 
 Additionally, under the "Help" menu, you can access the official Pd documentation, which is also available online here: [https://puredata.info/docs/manuals/pd/](https://puredata.info/docs/manuals/pd/)
 
-Much of what I've written here is based on the "FLOSS Manuals" entry for Pd: [http://write.flossmanuals.net/pure-data/introduction2/](http://write.flossmanuals.net/pure-data/introduction2/)
+Much of what I've written here is based on the FLOSS Manuals entry for Pd: [http://write.flossmanuals.net/pure-data/introduction2/](http://write.flossmanuals.net/pure-data/introduction2/)
