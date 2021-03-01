@@ -1,4 +1,4 @@
-# Envelopes, Real-time Sequencing, and Spatialization
+# Real-time Sequencing (and Spatialization)
 
 Last time we covered the fundamentals of what we can do with waveforms in Pd. Now we're going to explore how we can organize those sounds in time in ways other than oscillation.
 
@@ -6,7 +6,7 @@ Last time we covered the fundamentals of what we can do with waveforms in Pd. No
 
 Sound events in the physical world often have a shape to them. There might be an initial strike, tone, or impact, followed quieter section as a vibrating body comes to rest.
 
-In electronic sound, we shape that characteristic through **amplitude envelopes**. This is simply a description of how the amplitude of a sound changes over time. The most typical configuration for an envelope, which you'll see all over the place on synthesizers and software instruments, is a four-stage sequence known as ADSR:
+In electronic sound, we shape that characteristic through an **amplitude envelope**. This is simply a description of how the amplitude of a sound changes over time. The most typical configuration for an envelope, which you'll see all over the place on synthesizers and software instruments, is a four-stage function known as an ADSR:
 
 ![](media/07_01_adsr.png)
 
@@ -15,7 +15,7 @@ In electronic sound, we shape that characteristic through **amplitude envelopes*
 - **(S)ustain**: the length of time the sound is held (often determined by a piano key), and at what amplitude
 - **(R)elease**: the length of time after the sustain it takes the sound to fade to silence
 
-In Pd, we can define an envelopes with the `adsr~` Object (one of our pre-built externals, which uses `vline~` internally):
+In Pd, we can define an envelopes with the `adsr~` object (one of our pre-built externals):
 
 ![](media/07_02_adsr_object.png)
 
@@ -23,7 +23,7 @@ By multiplying any continuous signal with the `adsr~` signal, we can produce dis
 
 Note that no sound is produced until the envelope is triggered using a "bang". This has important implications for our next topic.
 
-## Real-time sequencing
+## Sequencing
 
 With static audio files in Audacity, we sequenced audio segments by splicing them and moving them on the timeline. There is no timeline in Pd, and all the sounds are being generated "real-time". We've already seen how to use LFOs to create change over time, but we can also trigger events using timers, bangs, and envelopes.
 
@@ -31,7 +31,7 @@ Perhaps the most important object for sequencing is `metro` aka "metronome". `me
 
 ![](media/07_03_metro_.png)
 
-To take things a step further, we can add a counter. This Object will count the number of bangs it receives, up to but not including the parameter given as a default value or sent to its right inlet.
+To take things a step further, we can add a counter. This object will count the number of bangs it receives, up to but not including the parameter given as a default value or sent to its right inlet.
 
 ![](media/07_04_counter_.png)
 
@@ -51,9 +51,54 @@ Here's a more developed example to show how that might look:
 
 ![](media/07_07_sequencer_2_.png)
 
+Note that `counter` outputs a bang from its right outlet every time it has finished the count and is starting over. This means you can chain counters together to have different levels of repeating events:
 
-## random
+![](media/07_08_counter_chain_.png)
 
-## panning
 
-## reverb
+### Random and comparison operators
+
+Beyond `metro`, `counter`, and `select`, a very useful object for sequencing is `random`. When `random` receives a bang in its left inlet, it outputs a random number less than the default parameter or a message sent to its right inlet.
+
+Combined with `select`, this is an easy way to choose between several options on a bang. For example, this plays one of six pitches with each bang:
+
+![](media/07_09_random.png)
+
+`random` can also be used to introduce indeterminacy. For example, maybe a certain sound is only triggered 50% of the time:
+
+![](media/07_10_random_2.png)
+
+Note that this example uses another new object, `>` which outputs a 1 if it receives a number greater than its argument. We can then select on the output of `>` to get a bang that only fires half of the time.
+
+Other comparison operator objects are: `<`, `<=`, `>=`, and `==` (note the double).
+
+(Actually, the above example should be >=, shouldn't it?)
+
+## Spatialization
+
+In Audacity, we explored amplitude envelopes, stereo panning, and reverb as the fundamental tools of spatialization. The same applies with Pd. We've already seen how to apply amplitude envelopes as well as "mix" sounds by dividing or multiplying their output by a number to decrease or increase their  amplitude.
+
+Regarding stereo, note that the `dac~` object, as well as the `output~` object that we've been using, has two inlets, one each for the right and left channel. By connecting signals only to one or the other, we can pan them hard left or hard right.
+
+...but for more detailed control, we can use `pan~`. This object takes either a continually varying signal (aka an LFO) or a control value, and routes a mono input to stereo output, adjusting the balance between channels accordingly.
+
+![](media/07_11_pan_2.png)
+
+![](media/07_11_pan_1_.png)
+
+
+### Reverb
+
+Pd does not have a reverb object by default. Reverb can be programmed in Pd, but it is not a simple affair. Better to use an object programmed for us in a more low-level language, like C.
+
+Many people and communities have made additional objects and libraries for Pd that can be downloaded—these are called "externals" and can be made in Pd or in C. To install a reverb, go to the "Help" menu, choose "Find externals", and type "freeverb~", which is the name of a very good (and very free) reverb object.
+
+![](media/07_12_externals.png)
+
+You'll see a version of `freeverb~` that is specific to your operating system (unlike objects made in Pd, objects programmed in C cannot simply be copied to another computer, they have to be built specifically for your computer's architecture). Click on the first entry (there may be only one) and Pd will install it. You'll see a new folder inside your "Pd" -> "externals" folder, and you'll also be able to type `freeverb~` in your patch.
+
+Look at `freeverb~`'s help file for details on how to use it. But at it's most basic, you simply hook the left channel to the left inlet, the right channel to the right inlet, stereo output, and away you go:
+
+![](media/07_13_freeverb.png)
+
+I recommend using only one `freeverb~` object as the very last object before `dac~` or `output~`. More than one will be a burden on your CPU, and with just one you will have a coherent sense of spatialization.

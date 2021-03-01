@@ -55,15 +55,15 @@ Finally, go to the "File" menu and select "New". A blank "patcher" window will a
 
 #### Placement
 
-A blank white canvas is both intimidating and filled with possibility. Under the "Put" menu we see the different types of things that we can add to our patch. Rather than select one, note that there are keyboard shortcuts for each option: for example, you can create an "Object" by typing Command-1 (Control-1 on Windows and Linux).
+A blank white canvas is both intimidating and filled with possibility. Under the "Put" menu we see the different types of things that we can add to our patch. Rather than select one, note that there are keyboard shortcuts for each option: for example, you can create an "object" by typing Command-1 (Control-1 on Windows and Linux).
 
 ![](media/06_04_pd_put.png)
 
-Leave the menu, and type Command-1. When you move your cursor over the patch, you'll see a dashed blue rectangle follow it. Click somewhere to place the Object, and you'll see a flashing cursor.
+Leave the menu, and type Command-1. When you move your cursor over the patch, you'll see a dashed blue rectangle follow it. Click somewhere to place the object, and you'll see a flashing cursor.
 
 ![](media/06_05_pd_placement.png)
 
-Objects are the "vocabulary" of Pd. The more names of objects you know, the more complicated things you can do with Pd. If you type the word "print" inside this Object and click again outside the box, you will create the [print] Object.
+objects are the "vocabulary" of Pd. The more names of objects you know, the more complicated things you can do with Pd. If you type the word "print" inside this object and click again outside the box, you will create the [print] object.
 
 ![](media/06_05_pd_placement_2.png)
 
@@ -71,7 +71,7 @@ Next, let's create a Number using Command/Control-3. Put it above `print`, and c
 
 ![](media/06_05_pd_placement_3.png)
 
-Note that a Number box, which holds a number, is distinguished from an Object box by the bevel on its corner.
+Note that a Number box, which holds a number, is distinguished from an object box by the bevel on its corner.
 
 #### Connections
 
@@ -83,7 +83,7 @@ Once you have a connection, you can remove it by moving the cursor over the line
 
 #### Switching between Edit and Playback mode
 
-Notice that at the top of the patcher window, there is the indicator "[edit]". This means that we are in editing mode, and our mouse clicks are interpreted as intending to alter the patch. To change to playback mode, go to the "Edit" menu and unselect Edit Mode, or simply type Command/Control-E. "[edit]" will disappear and you can no longer make connections between boxes (if you add an Object, the patcher will automatically revert back to edit mode).
+Notice that at the top of the patcher window, there is the indicator "[edit]". This means that we are in editing mode, and our mouse clicks are interpreted as intending to alter the patch. To change to playback mode, go to the "Edit" menu and unselect Edit Mode, or simply type Command/Control-E. "[edit]" will disappear and you can no longer make connections between boxes (if you add an object, the patcher will automatically revert back to edit mode).
 
 Once you're in playback mode, click on the Number box and drag your mouse up and down.
 
@@ -113,7 +113,7 @@ In playback mode, enter some numbers into the top two Number boxes, and hit the 
 
 Note that if you change the number in the left Number box, the result updates, but not if you change the number in the right Number box. In Pd, only a change or a bang in the left inlet triggers the operation.
 
-Instead of always using both inlets, you can add a default value as a parameter of operator Objects like `+` and `*`:
+Instead of always using both inlets, you can add a default value as a parameter of operator objects like `+` and `*`:
 
 ![](media/06_06_pd_math_2.png)
 
@@ -121,15 +121,15 @@ Instead of always using both inlets, you can add a default value as a parameter 
 
 Audio signals flow a little differently than messages, because they are continuous—if there is a connection between two audio objects, data is always flowing.
 
-What is an audio object? We know that an Object handles audio if its name ends in a tilde ("~").
+What is an audio object? We know that an object handles audio if its name ends in a tilde ("~").
 
-Add an Object box to a new patch, and type `osc~`. This is a sine-wave oscillator.
+Add an object box to a new patch, and type `osc~`. This is a sine-wave oscillator.
 
 ![](media/06_07_pd_osc.png)
 
 Next, connect a number box upstream, and a `dac~` object downstream. Connect the outlet of `osc~` to both inlets on `dac~`, which is a "digital-analog converter" that interfaces with your sound card (the two inlets are for the right and left channels). Note that you can distinguish audio connections from control connections by their thicker lines.
 
-Because `dac~` just sends things straight to your speakers without any chance to control the volume, in the interest of protecting our ears, I made an Object called `output~` that we're going to use instead. `output~` has a volume control, a mute button, and it also lets you record a wave file: click the checkbox on to start recording, and again to turn it off. The file should show up in your Pd folder (does this work for Windows users?).
+Because `dac~` just sends things straight to your speakers without any chance to control the volume, in the interest of protecting our ears, I made an object called `output~` that we're going to use instead. `output~` has a volume control, a mute button, and it also lets you record a wave file: click the checkbox on to start recording, and again to turn it off. The file should show up in your Pd folder (does this work for Windows users?).
 
 ![](media/06_08_pd_audio.png)
 
@@ -161,7 +161,7 @@ All synthesis starts with oscillators. `osc~` is a perfect sine wave that oscill
 
 Simple oscillators can be added together, thus becoming the building blocks of much more complex waveforms.
 
-Using the `+~` Object (notice the tilde, which indicates that we are adding audio signals, not numbers), multiple oscillators can be combined. Because this also increases the amplitude of the waveform, we need to divide by the number of signals we are adding.
+Using the `+~` object (notice the tilde, which indicates that we are adding audio signals, not numbers), multiple oscillators can be combined. Because this also increases the amplitude of the waveform, we need to divide by the number of signals we are adding.
 
 ![](media/06_11_additive_synthesis_.png)
 
@@ -213,7 +213,7 @@ Note that this becomes a branching process: any number box can be replaced with 
 
 ![](media/06_13_complex_.png)
 
-Notice how the operator Objects multiply or add to LFOs by a given value, which changes their range.
+Notice how the operator objects multiply or add to LFOs by a given value, which changes their range.
 
 
 ## Saving and loading
@@ -231,7 +231,7 @@ One very helpful object for this is called `loadbang`—it sends a bang when the
 
 Though no music theory is required here, if you want to use musical notes (even-temperment), Pd can convert to MIDI pitch numbers to frequencies and back. MIDI pitches are just the notes of an even-tempered piano labeled from 0–127. `mtof` converts this number to a frequency, and `ftom` converts it back.
 
-I also made an Object called piano to help you determine those pitches, or just to connect and fool around with notes.
+I also made an object called piano to help you determine those pitches, or just to connect and fool around with notes.
 
 If you want to use just-intonation or microtonal systems ... you'll have to program it yourself.
 
@@ -239,7 +239,7 @@ If you want to use just-intonation or microtonal systems ... you'll have to prog
 
 ## Getting help
 
-Command/Control-click on any object, and in addition to setting certain properties, you can pull up a help window that describes how to use an Object and gives an example of how to connect it.
+Command/Control-click on any object, and in addition to setting certain properties, you can pull up a help window that describes how to use an object and gives an example of how to connect it.
 
 Additionally, under the "Help" menu, you can access the official Pd documentation, which is also available online here: [https://puredata.info/docs/manuals/pd/](https://puredata.info/docs/manuals/pd/)
 
