@@ -30,7 +30,7 @@ If you get a notification like this:
 Click cancel and then go to your System Preferences and choose the "Security" panel. You should have the option to "Open Anyway". Once you do this once, you won't have to do it again.
 ![](media/06_01_macos_security_2.png)
 
-Once you have launched the application, but before we do anything with it, we need to do one more thing, which is to add a couple "externals" to the system. Download those here: [link](link). Navigate to your "Documents" folder, which should now contain a "Pd" folder. Inside "Pd", there should be another folder called "externals". Open the zip file, and drag the objects inside into this folder.
+Once you have launched the application, but before we do anything with it, we need to do one more thing, which is to add a couple "externals" to the system. Download those here by clicking "Code" and choosing "Download Zip": [https://github.com/brianhouse/piopd](https://github.com/brianhouse/piopd). Navigate to your "Documents" folder, which should now contain a "Pd" folder. Inside "Pd", there should be another folder called "externals". Open the zip file you downloaded, and drag the objects inside into the externals folder.
 
 ![](media/06_02_externals.png)
 
@@ -42,7 +42,7 @@ The first window we see is simply a log window. Sometimes helpful messages will 
 To make sure our audio is up and running, go to the "Media" menu and select "Audio Settings..."
 ![](media/06_03_pd_audio_settings.png)
 
-Make sure that under "Output Devices" you have the output set to use whatever device you want to use. I suggest that you use your laptop speakers to start off—we may make some gnarly sounds by accident, so it's best not to have those in headphones in order to protect your ears.
+Make sure that under "Output Devices" you have the output set to use whatever device you want to use. Note that if your device doesn't show up, you may need to restart Pd. I suggest that you use your laptop speakers to start off—we may make some gnarly sounds by accident, so it's best not to have those in headphones in order to protect your ears.
 
 Next, go back to the "Media" menu and select "Test Audio and MIDI...". You should see a panel like this:
 ![](media/06_03_pd_test_audio.png)
