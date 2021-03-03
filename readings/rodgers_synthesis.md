@@ -28,6 +28,17 @@ Born early 1970s
 
 ///
 
+Andrew:
+artifice and Plato
+
+Ann:
+autotune
+(connection here to R&B and the Black voice, afrofuturism)
+
+Elias:
+
+
+
 Colin and John W:
 objective analysis synthesis, Hemholtz vs Rylan (or any custom synth designer) emphasizes experience [ie, parameters are not named "filter", but are qualitative, not based on understanding the function] --> John, prescriptivist vs descriptivist
 
