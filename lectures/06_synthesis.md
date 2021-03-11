@@ -1,4 +1,4 @@
-# Systems and synthesis
+# Synthesis
 
 So far, we've been working with a two-step process: recording sounds, and then manipulating them in an audio editor to produce a static piece. However, with a different set of tools, we can approach things completely differently. Real-time systems generate sound on the fly, so instead of manipulating audio data directly, we design systems that automatically create the sounds we want. This reorients our approach to sound art away from soundscapes and field recording and towards experimental electronic music.
 

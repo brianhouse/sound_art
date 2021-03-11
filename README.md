@@ -182,7 +182,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Artist presentation 9
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-3
-- Audio input and recording
+- Input
 - Begin [Exercise 2-4](exercises/2-4.md)
 
 ### Week 9
