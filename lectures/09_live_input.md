@@ -1,6 +1,6 @@
 # Live Input
 
-Now that we can use real-time systems to synthesize sounds, manipulate samples, and sequence and spatialize how audio changes through time, our Pd toolkit is almost complete. However, so far our work has been self-contained within our patches, with the exception of bangs, sliders, number boxes, and other interactive interface objects that we can use to change parameters on the fly. The last thing we'll cover is using other forms of input, both audio and otherwise.
+Now that we can use real-time systems to synthesize sounds, manipulate samples, and sequence and spatialize how audio changes through time, our Pd toolkit is almost complete. The last thing we'll cover is using other forms of input, starting with audio.
 
 
 ## Connecting a microphone
