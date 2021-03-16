@@ -18,6 +18,8 @@ _Distribute Arduinos, USB cables, USB-c adapters as necessary_
 
 ## Pduino
 
+_Need to also install comport if haven't already_
+
 On the Pd side, we will once again need some external objects. Go to "Help" -> "Find externals" and type "Pduino". Click on "pduino[v0.7].dek" by rdz, or whatever the latest version is.
 
 <p align="center">

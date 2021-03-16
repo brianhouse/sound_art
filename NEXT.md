@@ -45,3 +45,27 @@ missing help files for some objects
 ### new
 
 using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware
+
+
+## pieces for presentations
+
+her long black hair
+4'33"
+transinfinite
+i am sitting in a room
+christine sun kim
+leitner something
+philipsz something
+obadike something
+russolo
+atoui something
+maria chavez something
+ernst karel recycling
+zimoun somethjnf
+alys
+marcus fisher
+raven chacon
+microtonal wall
+
+
+need more digital?0
