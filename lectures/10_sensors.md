@@ -1,8 +1,5 @@
 #### Prep
 
-Download smoother and range control example:
-https://drive.google.com/file/d/1O2Qe6RnGpRJatUtYOE14kfx5-S1_Dm0X/view?usp=sharing
-
 # Sensors
 
 So far our work has been self-contained within our patches, and the "interfaces" we have created have consisted of bangs, sliders, and number boxes ... with the recent addition of using audio input itself as a means of control by analyzing the incoming signal. However, perhaps the most powerful aspect of Pd is that it can process data coming into the computer from external hardware. This might consist of physical knobs and buttons, or it might be sensors that measure the environment in some way. This capability allows us to use Pd to make interactive art, whether that means a custom musical instrument or a sculpture that responds to people who approach it.

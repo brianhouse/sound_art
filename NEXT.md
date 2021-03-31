@@ -41,10 +41,17 @@ missing help files for some objects
 
 "phase" should be talked about in the acoustics section
 
+add comport install to sensors lecture
+
 
 ### new
 
 using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware
+
+
+2) For those of you that still cannot load .m4a files into Audacity, you'll need to install the FFMPEG libraries for Mac (https://lame.buanzo.org/lame_64bit_osx.pkg) or PC (https://lame.buanzo.org/ffmpeg-win-2.2.2.zip). Do this and then restart Audacity, and the import should work. If not, let me know and we can work through it during office hours.
+
+does the Cox Sound Art essay fit somewhere? in the beginning?
 
 
 ## pieces for presentations
@@ -53,6 +60,8 @@ her long black hair
 4'33"
 transinfinite
 i am sitting in a room
+ernst karel recycling
+/
 christine sun kim
 leitner something
 philipsz something
@@ -60,12 +69,14 @@ obadike something
 russolo
 atoui something
 maria chavez something
-ernst karel recycling
 zimoun somethjnf
 alys
 marcus fisher
 raven chacon
+canadian big ear one -- look at the Sound Art book, Canada essay
 microtonal wall
+concret ph
+max neuhaus
 
 
-need more digital?0
+need more digital?

@@ -211,21 +211,20 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Systems project, final critique
 
 #### Thursday 4/1
-- Artist presentation 13
-- Reading due: [Bernhard Leitner, "Sound Architecture"](readings/leitner_sound_architecture.pdf)
+- ~Artist presentation 13~
+- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](readings/cluett_the_loudspeaker.pdf)
 - Introduction to audio levels
-- Begin [Exercise 3-1](exercises/3-1.md)
+<!-- - Begin [Exercise 3-1](exercises/3-1.md) -->
 
 ### Week 12
 
 #### Tuesday 4/6
-- Reading due: [Vijay Iyer, "On Improvisation, Temporality, and Embodied Experience"](readings/iyer_improvisation.pdf)
-- Review Exercise 3-1
+- Speaker workshop
 - Begin [Situated Sound](projects/3_situated_sound.md)
 
 #### Thursday 4/8
 - Artist presentations 14
-- Reading due: [Seth Kim-Cohen, _In the Blink of an Ear_ (introduction)](readings/kim-cohen_blink_of_an_ear.pdf)
+- Reading due: TBD
 - Situated Sound, check-in
 
 ### Week 13
