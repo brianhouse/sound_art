@@ -62,9 +62,12 @@ her long black hair
 4'33"
 transinfinite
 i am sitting in a room
+box with the sound of its own making
+Times Square
+ernst karel recycling
 
 /
-ernst karel recycling
+
 christine sun kim
 leitner something
 philipsz something
@@ -79,7 +82,5 @@ raven chacon
 canadian big ear one -- look at the Sound Art book, Canada essay
 microtonal wall
 concret ph
-max neuhaus
-
 
 need more digital?
