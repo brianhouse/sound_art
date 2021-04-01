@@ -117,3 +117,10 @@ The wattage indicates how much power your amp can give, and how much your speake
 The ohms indicate how quickly the speakers will pull power from the amp. The lower the number, the faster the flow. If the speakers have ohms that are less than the amp, the speakers can fry the amplifier. So you'll want these to match. Typically, you'll use 4 or 8 ohms—avoid speakers with different ratings.
 
 (Remember that you'll also want to pay attention to the frequency range of the speakers)
+
+
+## Workshop
+
+- Soldering
+- Splicing?
+- Emphasize how the recorder can be used as audio input, output, or directly

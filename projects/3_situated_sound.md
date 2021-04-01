@@ -2,7 +2,7 @@
 
 Create a sound specifically for the purpose of being played back in a particular location. Using speakers, an amplifier, and either your computer or a DR-05X as a playback device, situate the sound in the space.
 
-You may craft the sound using any of the techniques we've covered. It might be a straight field recording, heavily edited collage, synthesized composition, algorithmically sequenced samples, or make use of the Arduino to respond to listener presence in some way.
+You may craft the sound using any of the techniques we've covered. It might be a straight field recording, heavily edited collage, synthesized composition, algorithmically sequenced samples, use the DR-05X to process live audio, or make use of the Arduino to respond to listener presence in some way.
 
 Pay attention to the physicality of the speaker drivers and how they relate to the acoustics, architecture, and representational characteristics (ie, how the space is used and by whom) of the space, as well as the sounds that are already there. You can use the speakers bare, or you can build an enclosure of some kind.
 
