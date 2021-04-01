@@ -43,6 +43,8 @@ missing help files for some objects
 
 add comport install to sensors lecture
 
+most importantly, I think more more more examples.
+
 
 ### new
 
@@ -60,8 +62,9 @@ her long black hair
 4'33"
 transinfinite
 i am sitting in a room
-ernst karel recycling
+
 /
+ernst karel recycling
 christine sun kim
 leitner something
 philipsz something

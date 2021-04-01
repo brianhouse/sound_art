@@ -203,7 +203,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 3/25
 - Artist presentation 12
-- Systems project, preliminary critique
+- Systems project, check-in
 
 ### Week 11
 
@@ -214,18 +214,19 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - ~Artist presentation 13~
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](readings/cluett_the_loudspeaker.pdf)
 - Introduction to audio levels
+- Begin [Situated Sound](projects/3_situated_sound.md)
 <!-- - Begin [Exercise 3-1](exercises/3-1.md) -->
 
 ### Week 12
 
 #### Tuesday 4/6
 - Speaker workshop
-- Begin [Situated Sound](projects/3_situated_sound.md)
 
 #### Thursday 4/8
 - Artist presentations 14
 - Reading due: TBD
 - Situated Sound, check-in
+
 
 ### Week 13
 
