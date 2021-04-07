@@ -59,7 +59,7 @@ does the Cox Sound Art essay fit somewhere? in the beginning?
 ## pieces for presentations
 
 her long black hair
-4'33"
+4'33" + anechoic
 transinfinite
 i am sitting in a room
 box with the sound of its own making
@@ -84,3 +84,6 @@ microtonal wall
 concret ph
 
 need more digital?
+
+
+tony cokes
