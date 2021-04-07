@@ -224,7 +224,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 4/8
 - Artist presentations 14
-- Reading due: [Christoph Cox, "Sound Art in America"](readings/cox_sound_art_in_america.pdf")
+- Reading due: [Christoph Cox, "Sound Art in America"](readings/cox_sound_art_in_america.pdf)
 - Situated Sound, check-in
 
 
