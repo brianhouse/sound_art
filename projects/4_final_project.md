@@ -4,7 +4,7 @@ Your final project is to create an artwork that utilizes sound and engages in so
 
 ### Proposal
 
-By next class (4/2) you will turn in a proposal that includes:
+By next class (4/20) you will turn in a proposal that includes:
 - your preliminary concept and any relevant illustrative material
 - how it relates to (sound) art discourse
 - how it relates to your studio practice

@@ -48,6 +48,8 @@ most importantly, I think more more more examples.
 
 need visitors. with longer (in-person) sessions, that will work better.
 
+use classroom deadlines.
+
 
 ### new
 
