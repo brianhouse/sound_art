@@ -17,7 +17,7 @@ Answer these questions in a Google doc and submit them to Classroom under "Final
 
 ### Schedule
 
-We will have a preliminary critique one week (4/27) after your proposal is due, and a final critique one week later (4/4). Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended.
+We will have a preliminary critique one week (4/27) after your proposal is due, and a final critique one week later (5/4). Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended.
 
 ### Documentation
 
