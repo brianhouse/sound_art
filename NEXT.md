@@ -46,6 +46,9 @@ add comport install to sensors lecture
 most importantly, I think more more more examples.
 
 
+need visitors. with longer (in-person) sessions, that will work better.
+
+
 ### new
 
 using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware

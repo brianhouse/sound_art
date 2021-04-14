@@ -236,12 +236,13 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Thursday 4/15
 - Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
 - Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
-- Begin [Final project](projects/4_final_project.md)
+- Begin [Final Project](projects/4_final_project.md)
 
 ### Week 14
 
 #### Tuesday 4/20
-- Final project, present proposals
+- [Proposals](projects/4_final_project.md) due on classroom
+- Discuss Final Project proposals
 
 #### Thursday 4/22
 - Work day
