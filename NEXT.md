@@ -70,8 +70,10 @@ i am sitting in a room
 box with the sound of its own making
 Times Square
 ernst karel recycling
+laurie anderson, audio drag
 
 /
+
 
 christine sun kim
 leitner something
