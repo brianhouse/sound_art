@@ -257,3 +257,6 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 5/4
 - 8:30–11:30 Final critique, Arnold Gallery
+
+#### Friday 5/7
+- Final documentation due

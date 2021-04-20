@@ -15,10 +15,12 @@ By next class (4/20) you will turn in a proposal that includes:
 
 Answer these questions in a Google doc and submit them to Classroom under "Final Project proposal." You will discuss your concept in class for comment by the group.
 
-### Schedule
-
-We will have a preliminary critique one week (4/27) after your proposal is due, and a final critique one week later (5/4). Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended.
 
 ### Documentation
 
 Documentation of your work will be a part of your final grade; all projects should be presentable online in a form that can be a part of a web-based portfolio.
+
+
+### Schedule
+
+We will have a preliminary critique one week (4/27) after your proposal is due, and a final critique one week later (5/4) during our exam time (8:30–11:30 AM). Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended. Documentation is due on 5/7 (the end of the semester).
