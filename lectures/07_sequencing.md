@@ -1,4 +1,4 @@
-# Real-time Sequencing (and Spatialization)
+# Sequencing (and Spatialization)
 
 Last time we covered the fundamentals of what we can do with waveforms in Pd. Now we're going to explore how we can organize those sounds in time in ways other than oscillation.
 

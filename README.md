@@ -52,13 +52,8 @@ The version of this syllabus posted online will be updated periodically and is t
 ### Laptop Use
 A personal laptop is required for some work for this course. Recent hardware and MacOS is preferred; Windows and Linux are also fine, Chromebooks will not work. If you do not have access to a laptop, email me and we will make arrangements for you to borrow a machine.
 
-<!-- ### Open Studio
-All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205. -->
-### Access to Fields 205
-You will be able to access the Digital Media Studio in Fields to work on particular exercises and assignments. For the time being, access will be limited to four students at a time, and you must [review and agree](https://docs.google.com/forms/d/e/1FAIpQLSe2F3DdzrJFarp6PHDNTiMcMuWFY1zn53x_PomGA6RuybCEVg/viewform) to the Fields guidelines. Hours are 6AM–midnight, and you will need to swipe your card. Only one person can work at a set of tables at a time, and you must use the equipment specifically allocated for you—there will be no tool sharing.
-
-### Course Fee
-There is a course fee automatically paid through student accounts when registered for this class. The fee helps cover hardware. Open source software will be used whenever possible.
+### Open Studio
+All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205.
 
 ### Accommodations
 If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation  to the Student Support Services Office in Albany Quadrangle (x7192). Staff in the SSSO will notify me of the accommodations for which you are eligible; please also make an appointment to discuss with me personally.  
@@ -76,12 +71,12 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 1
 
 #### Tuesday 1/19
-- Course introduction
+- Course [introduction](lectures/01_introduction.md)
 - [Listening exercise](exercises/0.md)
 
 #### Thursday 1/21
 - Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
-- Introduction to acoustics
+- Introduction to [acoustics](lectures/02_acoustics.md)
 - Begin [Soundmaps](projects/0_soundmaps.md)
 
 ### Week 2
@@ -103,7 +98,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Thursday 1/28
 - Artist presentations 1 and 2
 - Reading due: [Murray Schafer, _The Soundscape_ (introduction)](schafer_soundscape.pdf)
-- Introduction to recording
+- Introduction to [recording](lectures/03_recording.md)
 - Begin [Exercise 1-1](exercises/1-1.md)
 
 ### Week 3
@@ -111,14 +106,14 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Tuesday 2/2
 - Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](readings/lopez_schizophonia_vs_sonore.pdf)
 - Exercise 1-1 due
-- Introduction to audio editing
+- Introduction to [editing](lectures/04_editing.md)
 - Begin [Exercise 1-2](exercises/1-2.md)
 
 #### Thursday 2/4
 - Artist presentation 3
 - Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
 - Exercise 1-2 due
-- Audio sequencing and spatialization
+- Introduction to [arranging and spatialization](lectures/05_arranging.md)
 - Begin [Exercise 1-3](exercises/1-3.md)
 
 
@@ -160,35 +155,35 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Tuesday 3/2
 - Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
-- Introduction to Pure Data (Pd) and digital synthesis
+- Introduction to [Pure Data (Pd) and digital synthesis](lectures/06_synthesis.md)
 - Begin [Exercise 2-1](exercises/2-1.md)
 
 #### Thursday 3/4
 - Artist presentation 8
 - Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
-- Real-time sequencing
+- Introduction to [sequencing](lectures/07_sequencing.md)
 - Begin [Exercise 2-2](exercises/2-2.md)
 
 ### Week 8
 
 #### Tuesday 3/9
 - Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
-- Listen to Exercise 2-2 <!-- want to do this, but not much time? do in week 9? -->
-- Sample manipulation
+- Listen to Exercise 2-2
+- Introduction to [sampling](lectures/08_sampling.md)
 - Begin [Exercise 2-3](exercises/2-3.md)
 
 #### Thursday 3/11
 - Artist presentation 9
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-3
-- Input
+- Introduction to [live input](lectures/09_live_input.md)
 - Begin [Exercise 2-4](exercises/2-4.md)
 
 ### Week 9
 
 #### Tuesday 3/16
-- Arduino workshop
+- Arduino workshop / Introduction to [sensors](lectures/10_sensors.md)
 - Begin [Systems](projects/2_systems.md) project
 
 #### Thursday 3/18
@@ -213,7 +208,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 #### Thursday 4/1
 - ~Artist presentation 13~
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](readings/cluett_the_loudspeaker.pdf)
-- Introduction to audio levels
+- Introduction to [speakers](lectures/11_speakers.md)
 - Begin [Situated Sound](projects/3_situated_sound.md)
 <!-- - Begin [Exercise 3-1](exercises/3-1.md) -->
 

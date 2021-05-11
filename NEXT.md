@@ -26,10 +26,6 @@ clip~ and distortion should come earlier
 
 need to cover "delay" in sequencing. move it out of the live_input part
 
-"sample manipulation" -> "sampling"
-
-"sensors"
-"speakers"
 
 replace `dac~` with `output~` in synthesis lecture
 

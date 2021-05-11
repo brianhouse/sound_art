@@ -2,7 +2,6 @@
 
 
 ## Introductions
-<!-- lock zoom grid -->
 - Name / pronouns / animal sound
 
 ## Exercise

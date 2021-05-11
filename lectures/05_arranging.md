@@ -1,4 +1,4 @@
-# Sequencing
+# Arranging
 
 Once you have cleaned up an audio track, you may want to work with it further. Combining audio clips into new sequences, layering clips on top of each other, and arranging them in space as well as in time are the basic components of composing with sound, whether you are working in a musical context, with documentary or field recordings, or to express your expressive goals as a sound artist.
 
@@ -6,7 +6,7 @@ Once you have cleaned up an audio track, you may want to work with it further. C
 
 So far, we have been working with a single stereo "track" of audio. However, Audacity lets us create as many tracks as we want in order to create layers.
 
-Open an audio file in Audacity and save the project as "sequencing_exercise.aup".
+Open an audio file in Audacity and save the project as "arranging_exercise.aup".
 
 Choose "Tracks → Add New → Stereo Track". An empty track will appear below the initial one.
 
@@ -72,4 +72,4 @@ In addition, there is "Effect → Reverse", which will flip the order of samples
 
 ### More
 
-By now you have noticed that there are other effects that we haven't talked about. Audacity provides many built-in possibilities, though its options tend to be fairly utilitarian in nature. Commercial "Digital Audio Workstations", or DAWs, like Logic and Protools, will be loaded with advanced effects of all kinds. These are all great, and feel free to explore. Remember, however, the that the techniques we've looked at here (mic placement, splicing, normalization, eq/filter, sequencing, envelopes, spatialization, and reverb) are the foundation, and work with these first to craft your audio intentionally without relying on layers of processing as a crutch.
+By now you have noticed that there are other effects that we haven't talked about. Audacity provides many built-in possibilities, though its options tend to be fairly utilitarian in nature. Commercial "Digital Audio Workstations", or DAWs, like Logic and Protools, will be loaded with advanced effects of all kinds. These are all great, and feel free to explore. Remember, however, the that the techniques we've looked at here (mic placement, splicing, normalization, eq/filter, arranging, envelopes, spatialization, and reverb) are the foundation, and work with these first to craft your audio intentionally without relying on layers of processing as a crutch.

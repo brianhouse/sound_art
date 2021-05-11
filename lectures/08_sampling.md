@@ -1,4 +1,4 @@
-# Sample manipulation
+# Sampling
 
 Thus far with Pd, we've used oscillators, filters, envelopes, and timing objects to create synthesized sonic systems that do not depend on any pre-recorded audio data.
 
