@@ -39,12 +39,16 @@ does the Cox Sound Art essay fit somewhere? in the beginning? good overview
 using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware
 
 
+use the beringer controls to have the "synth" section performative? or some other section?
+
+
 ## pieces for presentations
 
 
 future: assign particular presentations on pieces
 cardiff, cage, lucier, etc. might be more productive then letting them pick in
 terms of covering the "canon"
+(while DM1 is about covering the possibilities, I have a more distinct agenda here to convince them this kind of formalism exists)
 
 
 her long black hair
@@ -64,7 +68,7 @@ belmore speaking to their mother
 
 /
 
-
+radigue
 leitner
 philipsz
 russolo
@@ -76,3 +80,17 @@ microtonal wall
 concret ph
 need more digital?
 tony cokes
+
+
+
+### more
+
+could have interface building (knobs). if with wifi esp32s, could be wireless
+
+cut down on some of the synthesis stuff
+
+and maybe tape manipulation with the field recordings
+
+go easy but that'd be sweet. using laser engraver would be next step.
+
+don't need to have too much electronics otherwise, don't have time to learn cmos.

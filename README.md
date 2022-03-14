@@ -23,7 +23,7 @@ This course explores sound as a medium of art-making with a rich history and rad
 ## Assignments and Grading
 
 ### Artist presentations
-Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](resources/sound_artists.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
+Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](https://github.com/brianhouse/ART327/blob/main/resources/sound_artists.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
 
 ### Exercises
 Exercises are short assignments to help you get a handle on new techniques. In most cases, they are due for the class session following the one in which they are introduced. Cumulatively, they make up 10% of your final grade.
@@ -35,7 +35,7 @@ Most classes will include discussion of short texts that address conceptual issu
 Grades will be given once in the middle of the semester and once at the end based on a subjective evaluation of in-class participation. Cumulatively, these are worth 25% your final grade.
 
 ### Projects
-This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence statement](resources/statement_guidelines.md) must be included with each project. Cumulatively, the projects account for 50% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
+This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](https://github.com/brianhouse/ART327/blob/main/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence statement](https://github.com/brianhouse/ART327/blob/main/resources/statement_guidelines.md) must be included with each project. Cumulatively, the projects account for 50% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### COVID-19 Alterations
 This course will be primarily taught online for Spring 2020 to help safeguard our community. Note that students attending via Zoom must have their camera turned on (failure to do so will affect your participation grade). If you have an extenuating circumstance that affects your ability to have the camera turned on, email me and we will discuss. Office hours available online and in-person, by appointment.
@@ -71,18 +71,18 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 1
 
 #### Tuesday 1/19
-- Course [introduction](lectures/01_introduction.md)
-- [Listening exercise](exercises/0.md)
+- Course [introduction](https://github.com/brianhouse/ART327/blob/main/lectures/01_introduction.md)
+- [Listening exercise](https://github.com/brianhouse/ART327/blob/main/exercises/0.md)
 
 #### Thursday 1/21
-- Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](readings/oliveros_deep_listening.pdf)
-- Introduction to [acoustics](lectures/02_acoustics.md)
-- Begin [Soundmaps](projects/0_soundmaps.md)
+- Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](https://github.com/brianhouse/ART327/blob/main/readings/oliveros_deep_listening.pdf)
+- Introduction to [acoustics](https://github.com/brianhouse/ART327/blob/main/lectures/02_acoustics.md)
+- Begin [Soundmaps](https://github.com/brianhouse/ART327/blob/main/projects/0_soundmaps.md)
 
 ### Week 2
 
 #### Tuesday 1/26
-- Reading due: [Brandon Labelle, "Auditory Relations"](readings/labelle_auditory_relations.pdf)
+- Reading due: [Brandon Labelle, "Auditory Relations"](https://github.com/brianhouse/ART327/blob/main/readings/labelle_auditory_relations.pdf)
 <!-- intro to crit -->
 - Soundmaps critique
 <!-- 5 mins each
@@ -97,40 +97,40 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 1/28
 - Artist presentations 1 and 2
-- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](schafer_soundscape.pdf)
-- Introduction to [recording](lectures/03_recording.md)
-- Begin [Exercise 1-1](exercises/1-1.md)
+- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](https://github.com/brianhouse/ART327/blob/main/schafer_soundscape.pdf)
+- Introduction to [recording](https://github.com/brianhouse/ART327/blob/main/lectures/03_recording.md)
+- Begin [Exercise 1-1](https://github.com/brianhouse/ART327/blob/main/exercises/1-1.md)
 
 ### Week 3
 
 #### Tuesday 2/2
-- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](readings/lopez_schizophonia_vs_sonore.pdf)
+- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](https://github.com/brianhouse/ART327/blob/main/readings/lopez_schizophonia_vs_sonore.pdf)
 - Exercise 1-1 due
-- Introduction to [editing](lectures/04_editing.md)
-- Begin [Exercise 1-2](exercises/1-2.md)
+- Introduction to [editing](https://github.com/brianhouse/ART327/blob/main/lectures/04_editing.md)
+- Begin [Exercise 1-2](https://github.com/brianhouse/ART327/blob/main/exercises/1-2.md)
 
 #### Thursday 2/4
 - Artist presentation 3
-- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](readings/westerkamp_soundscape_composition.pdf)
+- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](https://github.com/brianhouse/ART327/blob/main/readings/westerkamp_soundscape_composition.pdf)
 - Exercise 1-2 due
-- Introduction to [arranging and spatialization](lectures/05_arranging.md)
-- Begin [Exercise 1-3](exercises/1-3.md)
+- Introduction to [arranging and spatialization](https://github.com/brianhouse/ART327/blob/main/lectures/05_arranging.md)
+- Begin [Exercise 1-3](https://github.com/brianhouse/ART327/blob/main/exercises/1-3.md)
 
 
 ### Week 4
 
 #### Tuesday 2/9
-- Reading due: [Christoph Cox, "Interview with Christina Kubisch"](readings/cox_kubisch.pdf)
+- Reading due: [Christoph Cox, "Interview with Christina Kubisch"](https://github.com/brianhouse/ART327/blob/main/readings/cox_kubisch.pdf)
 - Exercise 1-3 due
 - Building contact mics and pickup coils
-- Begin [Exercise 1-4](exercises/1-4.md)
+- Begin [Exercise 1-4](https://github.com/brianhouse/ART327/blob/main/exercises/1-4.md)
 
 #### Thursday 2/11
 - Artist presentations 4 and 5
 - Exercise 1-4 due
 - Listen to Exercise 1-3
 - Contact mic and pickup coil review and questions
-- Begin [Soundscapes](projects/1_soundscapes.md) project
+- Begin [Soundscapes](https://github.com/brianhouse/ART327/blob/main/projects/1_soundscapes.md) project
 
 ### Week 5
 
@@ -154,37 +154,37 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 ### Week 7
 
 #### Tuesday 3/2
-- Reading due: [Tara Rodgers, "Synthesis"](readings/rodgers_synthesis.pdf)
-- Introduction to [Pure Data (Pd) and digital synthesis](lectures/06_synthesis.md)
-- Begin [Exercise 2-1](exercises/2-1.md)
+- Reading due: [Tara Rodgers, "Synthesis"](https://github.com/brianhouse/ART327/blob/main/readings/rodgers_synthesis.pdf)
+- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/ART327/blob/main/lectures/06_synthesis.md)
+- Begin [Exercise 2-1](https://github.com/brianhouse/ART327/blob/main/exercises/2-1.md)
 
 #### Thursday 3/4
 - Artist presentation 8
-- Reading due: [Brian Eno, "Ambient Music"](readings/eno_ambient_music.pdf)
+- Reading due: [Brian Eno, "Ambient Music"](https://github.com/brianhouse/ART327/blob/main/readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
-- Introduction to [sequencing](lectures/07_sequencing.md)
-- Begin [Exercise 2-2](exercises/2-2.md)
+- Introduction to [sequencing](https://github.com/brianhouse/ART327/blob/main/lectures/07_sequencing.md)
+- Begin [Exercise 2-2](https://github.com/brianhouse/ART327/blob/main/exercises/2-2.md)
 
 ### Week 8
 
 #### Tuesday 3/9
-- Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](readings/miller_algorithms.pdf)
+- Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](https://github.com/brianhouse/ART327/blob/main/readings/miller_algorithms.pdf)
 - Listen to Exercise 2-2
-- Introduction to [sampling](lectures/08_sampling.md)
-- Begin [Exercise 2-3](exercises/2-3.md)
+- Introduction to [sampling](https://github.com/brianhouse/ART327/blob/main/lectures/08_sampling.md)
+- Begin [Exercise 2-3](https://github.com/brianhouse/ART327/blob/main/exercises/2-3.md)
 
 #### Thursday 3/11
 - Artist presentation 9
-- Reading due: [Kim Cascone, "Aesthetics of Failure"](readings/cascone_aesthetics_of_failure.pdf)
+- Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/ART327/blob/main/readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-3
-- Introduction to [live input](lectures/09_live_input.md)
-- Begin [Exercise 2-4](exercises/2-4.md)
+- Introduction to [live input](https://github.com/brianhouse/ART327/blob/main/lectures/09_live_input.md)
+- Begin [Exercise 2-4](https://github.com/brianhouse/ART327/blob/main/exercises/2-4.md)
 
 ### Week 9
 
 #### Tuesday 3/16
-- Arduino workshop / Introduction to [sensors](lectures/10_sensors.md)
-- Begin [Systems](projects/2_systems.md) project
+- Arduino workshop / Introduction to [sensors](https://github.com/brianhouse/ART327/blob/main/lectures/10_sensors.md)
+- Begin [Systems](https://github.com/brianhouse/ART327/blob/main/projects/2_systems.md) project
 
 #### Thursday 3/18
 - Artist presentations 10 and 11
@@ -207,10 +207,10 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 4/1
 - ~Artist presentation 13~
-- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](readings/cluett_the_loudspeaker.pdf)
-- Introduction to [speakers](lectures/11_speakers.md)
-- Begin [Situated Sound](projects/3_situated_sound.md)
-<!-- - Begin [Exercise 3-1](exercises/3-1.md) -->
+- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/ART327/blob/main/readings/cluett_the_loudspeaker.pdf)
+- Introduction to [speakers](https://github.com/brianhouse/ART327/blob/main/lectures/11_speakers.md)
+- Begin [Situated Sound](https://github.com/brianhouse/ART327/blob/main/projects/3_situated_sound.md)
+<!-- - Begin [Exercise 3-1](https://github.com/brianhouse/ART327/blob/main/exercises/3-1.md) -->
 
 ### Week 12
 
@@ -219,7 +219,7 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 #### Thursday 4/8
 - Artist presentations 14
-- Reading due: [Christoph Cox, "Sound Art in America"](readings/cox_sound_art_in_america.pdf)
+- Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/ART327/blob/main/readings/cox_sound_art_in_america.pdf)
 - Situated Sound, check-in
 
 
@@ -229,14 +229,14 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - Situated Sound, final critique
 
 #### Thursday 4/15
-- Reading due: [Jessica Feldman, "The Trouble with Sounding"](readings/feldman_trouble_with_soundings.pdf)
-- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](readings/dunaway_sound_art_1979.pdf)
-- Begin [Final Project](projects/4_final_project.md)
+- Reading due: [Jessica Feldman, "The Trouble with Sounding"](https://github.com/brianhouse/ART327/blob/main/readings/feldman_trouble_with_soundings.pdf)
+- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](https://github.com/brianhouse/ART327/blob/main/readings/dunaway_sound_art_1979.pdf)
+- Begin [Final Project](https://github.com/brianhouse/ART327/blob/main/projects/4_final_project.md)
 
 ### Week 14
 
 #### Tuesday 4/20
-- [Proposals](projects/4_final_project.md) due on classroom
+- [Proposals](https://github.com/brianhouse/ART327/blob/main/projects/4_final_project.md) due on classroom
 - Discuss Final Project proposals
 
 #### Thursday 4/22
