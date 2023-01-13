@@ -1,12 +1,10 @@
-# ART 327: SOUND ART
+# ARHA 292: SOUND ART
 
-Tuesday / Thursday 1:00–3:30PM  
-Fields 205 and [https://zoom.us/my/digitalmediastudio](https://zoom.us/my/digitalmediastudio)  
+Monday / Wednesday 1:00–3:00, Fayerweather 215  
 Course materials on [Google Classroom](https://classroom.google.com/u/0/c/MjQ5ODQ3NDYzODE3)
 
-Prof. Brian House (he/him/his)   
-[brianhouse@lclark.edu](mailto:brianhouse@lclark.edu), [https://brianhouse.net](https://brianhouse.net)  
-Office hours by appointment
+Prof. Brian House (he/him), [bhouse@amherst.edu](mailto:bhouse@amherst.edu)  
+Office hours T 11:00–11:45, 306
 
 
 ## Course Description
@@ -22,23 +20,20 @@ This course explores sound as a medium of art-making with a rich history and rad
 
 ## Assignments and Grading
 
-### Artist presentations
-Each student will give a 10-minute presentation on an artist working with sound as a primary medium. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show one or two artworks in detail. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on an artist chosen from [a list](https://github.com/brianhouse/ART327/blob/main/resources/sound_artists.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
+### Projects
+This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/main/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence statement](https://github.com/brianhouse/sound_art/blob/main/resources/statement_guidelines.md) must be included with each project. Cumulatively, the projects account for 50% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### Exercises
-Exercises are short assignments to help you get a handle on new techniques. In most cases, they are due for the class session following the one in which they are introduced. Cumulatively, they make up 10% of your final grade.
+Exercises are short assignments to help you get a handle on new techniques. In most cases, they are due for the class session following the one in which they are introduced. Cumulatively, they make up 15% of your final grade.
+
+### Survey presentations
+Each student will give a 10-minute presentation on an influential work of sound art. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on a work chosen from [a list](https://github.com/brianhouse/sound_art/blob/main/resources/sound_artworks.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
 
 ### Reading
-Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready. Posting a short response (1-3 sentences) online before class begins will be worth 5% of your final grade (asking a question about something you didn't understand is an excellent use of a post).
+Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready. Posting a short response (1-3 sentences) online before class begins will be worth 10% of your final grade (asking a question about something you didn't understand is an excellent use of a post).
 
 ### Participation
-Grades will be given once in the middle of the semester and once at the end based on a subjective evaluation of in-class participation. Cumulatively, these are worth 25% your final grade.
-
-### Projects
-This course is built around four projects completed over the course of the semester and which will be [critiqued by the class](https://github.com/brianhouse/ART327/blob/main/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to be experimental and to develop a personal artistic trajectory. A title and [3-sentence statement](https://github.com/brianhouse/ART327/blob/main/resources/statement_guidelines.md) must be included with each project. Cumulatively, the projects account for 50% of your final grade, with the final project given double weight. As work is evaluated via in-class crit, no late work can be accepted.
-
-### COVID-19 Alterations
-This course will be primarily taught online for Spring 2020 to help safeguard our community. Note that students attending via Zoom must have their camera turned on (failure to do so will affect your participation grade). If you have an extenuating circumstance that affects your ability to have the camera turned on, email me and we will discuss. Office hours available online and in-person, by appointment.
+Motivated and mindful participation in crit and classroom disscussion is expected and constitutes 15% of your final grade. Attendance is mandatory, and missed classes or late arrivals will impact your participation grade at the professor's discretion. 
 
 
 ## Policies
@@ -50,19 +45,19 @@ It is my intent to lead a course that serves students from diverse backgrounds a
 The version of this syllabus posted online will be updated periodically and is the definitive version. It is your responsibility to consult it and stay up-to-date.
 
 ### Laptop Use
-A personal laptop is required for some work for this course. Recent hardware and MacOS is preferred; Windows and Linux are also fine, Chromebooks will not work. If you do not have access to a laptop, email me and we will make arrangements for you to borrow a machine.
+This course requires a personal laptop—recent hardware and MacOS is preferred (Windows and Linux are also fine; Chromebooks will not work). If you do not have access to a laptop, you will need to make arrangements to borrow one for the course.
 
-### Open Studio
-All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are encouraged to work in Fields 205.
-
+<!-- ### Open Studio
+All students must complete their own work but are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours.
+ -->
 ### Accommodations
-If you have a disability that may impact your academic performance, you may request accommodations by submitting documentation  to the Student Support Services Office in Albany Quadrangle (x7192). Staff in the SSSO will notify me of the accommodations for which you are eligible; please also make an appointment to discuss with me personally.  
+I strive to make this course welcoming to all students. If you have a documented disability that requires accommodations, you will need to register with [Accessibility Services](https://www.amherst.edu/offices/student-affairs/accessibility-services) for coordination of your academic accommodations. Once you have your accommodations in place, I will be glad to meet with you to discuss the best implementation of your accommodations.
 
-### Academic Integrity
-Please refer to the policy on [Academic Integrity](https://docs.lclark.edu/undergraduate/policiesprocedures/academicintegrity/) available on the College's 'Policies and Procedures' webpage. The work submitted in Digital Media courses must be conceived of and programmed by you. While learning from and incorporating code from other sources is a natural part of programming (e.g. [Stack Overflow](https://stackoverflow.com/) and [OpenProcessing](https://www.openprocessing.org)), you must demonstrate understanding and intentionality in your work, and you may not copy and paste others' code wholesale. Always credit your inspirations and be confident in your original concepts.
+### Honor Code and Academic Integrity
+By enrolling in the course, you agree to uphold the principles set forth in the College’s [Honor Code](https://www.amherst.edu/offices/student-affairs/community-standards/intellectual-responsibility-and-plagiarism), including the Statement of Intellectual Responsibility, the Statement of Respect for Persons, and the Statement of Freedom of Expression and Dissent. The work submitted in this course must be conceived of and produced by you. Sampling audio is an inherent part of sound art, and learning from and incorporating code from other sources is a natural part of programming. However, you must demonstrate understanding and intentionality in your work, and you may not copy and paste others' work wholesale. Always credit your sources and inspirations and be confident in your original concepts.
 
-### Land Acknowledgement
-The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Clackamas, Tumwater, Watalala bands of the Chinook, the Tualatin Kalapuya, and other indigenous nations of the Columbia River, and we are here because of the sacrifices forced upon them. Furthermore, we are at an institution named after white colonizers in a city with a racist history. As artists working with technology, we must be aware of and resist the many ways our tools have been used to capitalize upon and perpetuate violence toward marginalized people.
+### Settler Responsibility
+Our college is named after a white colonizer and is built in the Kwinitekw Valley on Nonotuck land; we are here because of the sacrifices forced upon indigenous peoples. As artists working with technology, we must be aware of and resist the many ways it capitalizes upon and perpetuates violence toward marginalized people.  
 &nbsp;  
 &nbsp;  
 
@@ -70,19 +65,19 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 
 ### Week 1
 
-#### Tuesday 1/19
-- Course [introduction](https://github.com/brianhouse/ART327/blob/main/lectures/01_introduction.md)
-- [Listening exercise](https://github.com/brianhouse/ART327/blob/main/exercises/0.md)
+#### Monday 1/30
+- Course [introduction](https://github.com/brianhouse/sound_art/blob/main/lectures/01_introduction.md)
+- [Listening exercise](https://github.com/brianhouse/sound_art/blob/main/exercises/0.md)
 
-#### Thursday 1/21
-- Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](https://github.com/brianhouse/ART327/blob/main/readings/oliveros_deep_listening.pdf)
-- Introduction to [acoustics](https://github.com/brianhouse/ART327/blob/main/lectures/02_acoustics.md)
-- Begin [Soundmaps](https://github.com/brianhouse/ART327/blob/main/projects/0_soundmaps.md)
+#### Wednesday 2/1
+- Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](https://github.com/brianhouse/sound_art/blob/main/readings/oliveros_deep_listening.pdf)
+- Introduction to [acoustics](https://github.com/brianhouse/sound_art/blob/main/lectures/02_acoustics.md)
+- Begin [Soundmaps](https://github.com/brianhouse/sound_art/blob/main/projects/0_soundmaps.md)
 
 ### Week 2
 
-#### Tuesday 1/26
-- Reading due: [Brandon Labelle, "Auditory Relations"](https://github.com/brianhouse/ART327/blob/main/readings/labelle_auditory_relations.pdf)
+#### Monday 2/6
+- Reading due: [Brandon Labelle, "Auditory Relations"](https://github.com/brianhouse/sound_art/blob/main/readings/labelle_auditory_relations.pdf)
 <!-- intro to crit -->
 - Soundmaps critique
 <!-- 5 mins each
@@ -95,163 +90,151 @@ The Fields Art Center is built on land belonging to the Multnomah, Kathlamet, Cl
 - need headphones
 - pick up audio recorder -->
 
-#### Thursday 1/28
+#### Wednesday 2/8
 - Artist presentations 1 and 2
-- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](https://github.com/brianhouse/ART327/blob/main/schafer_soundscape.pdf)
-- Introduction to [recording](https://github.com/brianhouse/ART327/blob/main/lectures/03_recording.md)
-- Begin [Exercise 1-1](https://github.com/brianhouse/ART327/blob/main/exercises/1-1.md)
+- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](https://github.com/brianhouse/sound_art/blob/main/schafer_soundscape.pdf)
+- Introduction to [recording](https://github.com/brianhouse/sound_art/blob/main/lectures/03_recording.md)
+- Begin [Exercise 1-1](https://github.com/brianhouse/sound_art/blob/main/exercises/1-1.md)
 
 ### Week 3
 
-#### Tuesday 2/2
-- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](https://github.com/brianhouse/ART327/blob/main/readings/lopez_schizophonia_vs_sonore.pdf)
+#### Monday 2/13
+- Reading due: [Francisco López, "Schizophonia vs. L’objet Sonore: Soundscapes and Artistic freedom"](https://github.com/brianhouse/sound_art/blob/main/readings/lopez_schizophonia_vs_sonore.pdf)
 - Exercise 1-1 due
-- Introduction to [editing](https://github.com/brianhouse/ART327/blob/main/lectures/04_editing.md)
-- Begin [Exercise 1-2](https://github.com/brianhouse/ART327/blob/main/exercises/1-2.md)
+- Introduction to [editing](https://github.com/brianhouse/sound_art/blob/main/lectures/04_editing.md)
+- Begin [Exercise 1-2](https://github.com/brianhouse/sound_art/blob/main/exercises/1-2.md)
 
-#### Thursday 2/4
+#### Wednesday 2/15
 - Artist presentation 3
-- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](https://github.com/brianhouse/ART327/blob/main/readings/westerkamp_soundscape_composition.pdf)
+- Reading due: [Hildegard Westerkamp, "Soundscape Composition"](https://github.com/brianhouse/sound_art/blob/main/readings/westerkamp_soundscape_composition.pdf)
 - Exercise 1-2 due
-- Introduction to [arranging and spatialization](https://github.com/brianhouse/ART327/blob/main/lectures/05_arranging.md)
-- Begin [Exercise 1-3](https://github.com/brianhouse/ART327/blob/main/exercises/1-3.md)
+- Introduction to [arranging and spatialization](https://github.com/brianhouse/sound_art/blob/main/lectures/05_arranging.md)
+- Begin [Exercise 1-3](https://github.com/brianhouse/sound_art/blob/main/exercises/1-3.md)
 
 
 ### Week 4
 
-#### Tuesday 2/9
-- Reading due: [Christoph Cox, "Interview with Christina Kubisch"](https://github.com/brianhouse/ART327/blob/main/readings/cox_kubisch.pdf)
+#### Monday 2/20
+- Reading due: [Christoph Cox, "Interview with Christina Kubisch"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_kubisch.pdf)
 - Exercise 1-3 due
 - Building contact mics and pickup coils
-- Begin [Exercise 1-4](https://github.com/brianhouse/ART327/blob/main/exercises/1-4.md)
+- Begin [Exercise 1-4](https://github.com/brianhouse/sound_art/blob/main/exercises/1-4.md)
 
-#### Thursday 2/11
+#### Wednesday 2/22
 - Artist presentations 4 and 5
 - Exercise 1-4 due
 - Listen to Exercise 1-3
 - Contact mic and pickup coil review and questions
-- Begin [Soundscapes](https://github.com/brianhouse/ART327/blob/main/projects/1_soundscapes.md) project
+- Begin [Soundscapes](https://github.com/brianhouse/sound_art/blob/main/projects/1_soundscapes.md) project
 
 ### Week 5
 
-#### Tuesday 2/16
+#### Monday 2/27
 - Soundscapes project: everyone discusses their ideas and/or shares progress, preliminary experiments
 
-#### Thursday 2/18
+#### Wednesday 3/1
 - Artist presentations 6 and 7
 - Work time
 
 
 ### Week 6
 
-#### Tuesday 2/23
+#### Monday 3/6
 - Soundscapes project, final crit
 
-#### Thursday 2/25
-**BREAK: NO CLASS**
+#### Wednesday 3/8
+
+
+
+**SPRING BREAK**
 
 
 ### Week 7
 
-#### Tuesday 3/2
-- Reading due: [Tara Rodgers, "Synthesis"](https://github.com/brianhouse/ART327/blob/main/readings/rodgers_synthesis.pdf)
-- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/ART327/blob/main/lectures/06_synthesis.md)
-- Begin [Exercise 2-1](https://github.com/brianhouse/ART327/blob/main/exercises/2-1.md)
+#### Monday 3/20
+- Reading due: [Tara Rodgers, "Synthesis"](https://github.com/brianhouse/sound_art/blob/main/readings/rodgers_synthesis.pdf)
+- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/sound_art/blob/main/lectures/06_synthesis.md)
+- Begin [Exercise 2-1](https://github.com/brianhouse/sound_art/blob/main/exercises/2-1.md)
 
-#### Thursday 3/4
+#### Wednesday 3/22
 - Artist presentation 8
-- Reading due: [Brian Eno, "Ambient Music"](https://github.com/brianhouse/ART327/blob/main/readings/eno_ambient_music.pdf)
+- Reading due: [Brian Eno, "Ambient Music"](https://github.com/brianhouse/sound_art/blob/main/readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
-- Introduction to [sequencing](https://github.com/brianhouse/ART327/blob/main/lectures/07_sequencing.md)
-- Begin [Exercise 2-2](https://github.com/brianhouse/ART327/blob/main/exercises/2-2.md)
+- Introduction to [sequencing](https://github.com/brianhouse/sound_art/blob/main/lectures/07_sequencing.md)
+- Begin [Exercise 2-2](https://github.com/brianhouse/sound_art/blob/main/exercises/2-2.md)
 
 ### Week 8
 
-#### Tuesday 3/9
-- Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](https://github.com/brianhouse/ART327/blob/main/readings/miller_algorithms.pdf)
+#### Monday 3/27
+- Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](https://github.com/brianhouse/sound_art/blob/main/readings/miller_algorithms.pdf)
 - Listen to Exercise 2-2
-- Introduction to [sampling](https://github.com/brianhouse/ART327/blob/main/lectures/08_sampling.md)
-- Begin [Exercise 2-3](https://github.com/brianhouse/ART327/blob/main/exercises/2-3.md)
+- Introduction to [sampling](https://github.com/brianhouse/sound_art/blob/main/lectures/08_sampling.md)
+- Begin [Exercise 2-3](https://github.com/brianhouse/sound_art/blob/main/exercises/2-3.md)
 
-#### Thursday 3/11
+#### Wednesday 3/29
 - Artist presentation 9
-- Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/ART327/blob/main/readings/cascone_aesthetics_of_failure.pdf)
+- Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/sound_art/blob/main/readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-3
-- Introduction to [live input](https://github.com/brianhouse/ART327/blob/main/lectures/09_live_input.md)
-- Begin [Exercise 2-4](https://github.com/brianhouse/ART327/blob/main/exercises/2-4.md)
+- Introduction to [live input](https://github.com/brianhouse/sound_art/blob/main/lectures/09_live_input.md)
+- Begin [Exercise 2-4](https://github.com/brianhouse/sound_art/blob/main/exercises/2-4.md)
 
 ### Week 9
 
-#### Tuesday 3/16
-- Arduino workshop / Introduction to [sensors](https://github.com/brianhouse/ART327/blob/main/lectures/10_sensors.md)
-- Begin [Systems](https://github.com/brianhouse/ART327/blob/main/projects/2_systems.md) project
+#### Monday 4/3
+- Arduino workshop / Introduction to [sensors](https://github.com/brianhouse/sound_art/blob/main/lectures/10_sensors.md)
+- Begin [Systems](https://github.com/brianhouse/sound_art/blob/main/projects/2_systems.md) project
 
-#### Thursday 3/18
+#### Wednesday 4/5
 - Artist presentations 10 and 11
 - Discuss Systems ideas
 - Work day
 
 ### Week 10
 
-#### Tuesday 3/23
+#### Monday 4/10
 **BREAK: NO CLASS**
 
-#### Thursday 3/25
+#### Wednesday 4/12
 - Artist presentation 12
 - Systems project, check-in
 
 ### Week 11
 
-#### Tuesday 3/30
-- Systems project, final critique
+#### Monday 4/17 — April Break (No Class)
 
-#### Thursday 4/1
+#### Wednesday 4/19
 - ~Artist presentation 13~
-- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/ART327/blob/main/readings/cluett_the_loudspeaker.pdf)
-- Introduction to [speakers](https://github.com/brianhouse/ART327/blob/main/lectures/11_speakers.md)
-- Begin [Situated Sound](https://github.com/brianhouse/ART327/blob/main/projects/3_situated_sound.md)
-<!-- - Begin [Exercise 3-1](https://github.com/brianhouse/ART327/blob/main/exercises/3-1.md) -->
+- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
+- Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
+- Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)
+<!-- - Begin [Exercise 3-1](https://github.com/brianhouse/sound_art/blob/main/exercises/3-1.md) -->
 
 ### Week 12
 
-#### Tuesday 4/6
+#### Monday 4/24
 - Speaker workshop
 
-#### Thursday 4/8
+#### Wednesday 4/26
 - Artist presentations 14
-- Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/ART327/blob/main/readings/cox_sound_art_in_america.pdf)
+- Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_sound_art_in_america.pdf)
 - Situated Sound, check-in
 
 
 ### Week 13
 
-#### Tuesday 4/13
+#### Monday 5/1
 - Situated Sound, final critique
 
-#### Thursday 4/15
-- Reading due: [Jessica Feldman, "The Trouble with Sounding"](https://github.com/brianhouse/ART327/blob/main/readings/feldman_trouble_with_soundings.pdf)
-- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](https://github.com/brianhouse/ART327/blob/main/readings/dunaway_sound_art_1979.pdf)
-- Begin [Final Project](https://github.com/brianhouse/ART327/blob/main/projects/4_final_project.md)
+#### Wednesday 5/3
+- Reading due: [Jessica Feldman, "The Trouble with Sounding"](https://github.com/brianhouse/sound_art/blob/main/readings/feldman_trouble_with_soundings.pdf)
+- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](https://github.com/brianhouse/sound_art/blob/main/readings/dunaway_sound_art_1979.pdf)
+- Begin [Final Project](https://github.com/brianhouse/sound_art/blob/main/projects/4_final_project.md)
 
 ### Week 14
 
-#### Tuesday 4/20
-- [Proposals](https://github.com/brianhouse/ART327/blob/main/projects/4_final_project.md) due on classroom
+#### Monday 5/8
+- [Proposals](https://github.com/brianhouse/sound_art/blob/main/projects/4_final_project.md) due on Moodle
 - Discuss Final Project proposals
 
-#### Thursday 4/22
-- Work day
-
-### Week 15
-
-#### Tuesday 4/27
-<!-- Evaluations -->
-- Final project, preliminary critique
 
 ### Exam Week
-
-#### Tuesday 5/4
-- 8:30–11:30 Final critique, Arnold Gallery
-
-#### Friday 5/7
-- Final documentation due

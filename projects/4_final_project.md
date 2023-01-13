@@ -4,7 +4,7 @@ Your final project is to create an artwork that utilizes sound and engages in so
 
 ### Proposal
 
-By next class (4/20) you will turn in a proposal that includes:
+You will turn in a proposal that includes:
 - your preliminary concept and any relevant illustrative material
 - how it relates to (sound) art discourse
 - how it relates to your studio practice
@@ -12,8 +12,6 @@ By next class (4/20) you will turn in a proposal that includes:
 - technical questions that you will need to solve
 - how you would like to present the work (gallery, site-specific installation, audio piece, video, etc)
 - how you plan on documenting the work
-
-Answer these questions in a Google doc and submit them to Classroom under "Final Project proposal." You will discuss your concept in class for comment by the group.
 
 
 ### Documentation
@@ -23,4 +21,4 @@ Documentation of your work will be a part of your final grade; all projects shou
 
 ### Schedule
 
-We will have a preliminary critique one week (4/27) after your proposal is due, and a final critique one week later (5/4) during our exam time (8:30–11:30 AM). Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended. Documentation is due on 5/7 (the end of the semester).
+We will have a preliminary critique one week (after your proposal is due, and a final critique during our exam time. Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended. Documentation is due by the end of the exam period.

@@ -86,6 +86,9 @@ We talked about amplitude being the volume of air being moved. However, humans a
 
 What happens after the sound gets to the brain?
 
+### Localization
+
+
 ### Timbre
 
 Now, I want to make one important clarification with all this. So far we've been looking at these diagrams and charts as if all sounds propagated as evenly spaced waves and consisted of just a single frequency. That's not at all the case, obviously. In our previous exercise, we came up with all kinds of qualities of sounds—some of them had to do with amplitude and pitch, but there's also things like texture, which, to borrow the musical term, is often called _timbre_ (spelled with an 'i', pronounced with an 'a'). Timbres are produced via "complex waveforms" which means that there are waves of many different frequencies happening at once.

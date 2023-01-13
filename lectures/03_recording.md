@@ -99,14 +99,15 @@ Another thing to know about microphones is that just like the human ear, they ar
 
 The difference in frequency response between mics comes from all the small contingencies in its manufacture that add up. No microphone is perfectly constructed (and of course, the more expensive the microphone, the greater its _fidelity_ to what our ears would hear.
 
-### Gain and self-noise
+### Gain and the noise floor (and room tone)
 
 Once a microphone generates an electrical audio signal, that signal needs to be amplified before it can be digitally sampled and recorded. This amplification is not as much as will later be needed to power a speaker— rather, it's what is called _pre-amplification_, and the level of pre-amplification is called _gain_. All microphones need to be routed to a _preamp_ of some kind, whether that is embedded in the mic itself, in an audio mixer, a computer interface, or a stand alone preamp device.
 
 Setting the gain of a mic's preamp is a crucial part of recording, because we want to record a strong signal, but not one so loud that it will cause _distortion_, ie, artificial frequencies that are the result of the hardware itself being overpowered rather than the soundwave moving the diaphragm. When an audio signal briefly exceeds the capacity of the recorder, we call it a _peak_.
 
-While gain is necessary, it unfortunately introduces electrical noise into the recorded sound. The more expensive your preamps, the less of this noise is introduced, while makes preamps potentially the most valuable parts of an audio recording system. This noise is called _self-noise_. We can digitally filter some of this out later, as long as we have a reference. For this, it is useful to have a recording of only the self-noise, which you can do by burying the mic in pillows (or putting it in an anechoic chamber if you have one). Record the self-noise at approximately the same gain of a recording you'd like to clean up.
+While gain is necessary, it unfortunately introduces electrical noise into the recorded sound. The more expensive your preamps, the less of this noise is introduced, while makes preamps potentially the most valuable parts of an audio recording system. This noise is called _self-noise_, and the level at which it interferes with the signal is the _noise floor_. We can digitally filter some of this out later, as long as we have a reference. For this, it is useful to have a recording of only the self-noise, which you can do by burying the mic in pillows (or putting it in an anechoic chamber if you have one). Record the self-noise at approximately the same gain of a recording you'd like to clean up.
 
+Note, however, that all spaces short of that anechoeic chamber have some inherent resonance to them, known as _room tone_. This may or may not be part of the signal you want to capture. If it is, separating the self-noise of your mics from the room tone of a space will be an important consideration. If it's not, the room tone might in fact be a part of the noise floor you're trying to filter out. In that case, it should be included in your reference.
 
 
 ### Position + wind

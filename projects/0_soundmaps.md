@@ -6,7 +6,7 @@ You may choose any stationary location or walkable area: a room indoors, a spot 
 
 Spend at least a half-hour in your site listening. Then, make a 2D map, score, diagram, or impression of its sounds. Pay attention to their sources, qualities, and effects.
 
-Make a high quality scan, photograph, or export of your result. Turn it in via Google Classroom and be prepared to be share it over Zoom.
+Make a high quality scan, photograph, or export of your result. Turn it in via Moodle and be prepared to be share it over Zoom.
 
 
 ## References

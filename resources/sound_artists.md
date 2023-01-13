@@ -16,7 +16,6 @@
 - Emeka Ogboh
 - Ryoji Ikeda
 - Camille Norment 
-- Taeyoon Choi
 - Bill Fontana
 - Christian Marclay
 - Daphne Oram
