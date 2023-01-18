@@ -203,7 +203,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/17 — April Break (No Class)
 
 #### Wednesday 4/19
-- ~Artist presentation 9
+- Artist presentation 9
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
 - Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
 - Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)

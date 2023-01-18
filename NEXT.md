@@ -24,20 +24,10 @@ For those of you that still cannot load .m4a files into Audacity, you'll need to
 
 ### new
 
-using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware
+using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware. put this in the third section, make it all hardware based.
 
-
-use the beringer controls to have the "synth" section performative? or some other section?
-
-
-### more
-
-could have interface building (knobs). if with wifi esp32s, could be wireless
+use hardware to have the "synth" section performative? could use a beringer or something. or could have interface building (knobs). if with wifi esp32s, could be wireless. go easy but that'd be sweet. using laser engraver would be next step. --> although I also like this being "hands off"
 
 cut down on some of the synthesis stuff
-
-and maybe tape manipulation with the field recordings
-
-go easy but that'd be sweet. using laser engraver would be next step.
 
 don't need to have too much electronics otherwise, don't have time to learn cmos.
