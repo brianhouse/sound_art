@@ -15,6 +15,9 @@ get the mix 8, because it has a send, so there's more options for feedback etc
 
 localization added to acoustics lecture (also phase)
 
+
+statements should be sound art
+
 ////
 
 

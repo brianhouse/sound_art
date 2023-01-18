@@ -1,7 +1,7 @@
 # ARHA 292: SOUND ART
 
-Monday / Wednesday 1:00–3:00, Fayerweather 215  
-Course materials on [Google Classroom](https://classroom.google.com/u/0/c/MjQ5ODQ3NDYzODE3)
+Monday / Wednesday 1:00–3:00
+Fayerweather 215  
 
 Prof. Brian House (he/him), [bhouse@amherst.edu](mailto:bhouse@amherst.edu)  
 Office hours T 11:00–11:45, 306
@@ -26,8 +26,8 @@ This course is built around four projects completed over the course of the semes
 ### Exercises
 Exercises are short assignments to help you get a handle on new techniques. In most cases, they are due for the class session following the one in which they are introduced. Cumulatively, they make up 15% of your final grade.
 
-### Survey presentations
-Each student will give a 10-minute presentation on an influential work of sound art. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1NTko878Fl9p0770zD9ozqkDBEx_74oQaFapaPRosaVo/edit#gid=0) on a work chosen from [a list](https://github.com/brianhouse/sound_art/blob/main/resources/sound_artworks.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
+### Presentations
+Each student will give a 10-minute presentation on an influential work of sound art. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit#gid=0) on a work chosen from [a list](https://github.com/brianhouse/sound_art/blob/main/resources/sound_artworks.md) on a first-come, first-served basis (you may present on an artist not from the list with prior approval). This presentation is 10% of your final grade.
 
 ### Reading
 Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready. Posting a short response (1-3 sentences) online before class begins will be worth 10% of your final grade (asking a question about something you didn't understand is an excellent use of a post).
@@ -105,7 +105,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Begin [Exercise 1-2](https://github.com/brianhouse/sound_art/blob/main/exercises/1-2.md)
 
 #### Wednesday 2/15
-- Artist presentation 3
+- Artist presentations 2
 - Reading due: [Hildegard Westerkamp, "Soundscape Composition"](https://github.com/brianhouse/sound_art/blob/main/readings/westerkamp_soundscape_composition.pdf)
 - Exercise 1-2 due
 - Introduction to [arranging and spatialization](https://github.com/brianhouse/sound_art/blob/main/lectures/05_arranging.md)
@@ -121,7 +121,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Begin [Exercise 1-4](https://github.com/brianhouse/sound_art/blob/main/exercises/1-4.md)
 
 #### Wednesday 2/22
-- Artist presentations 4 and 5
+- Artist presentations 3
 - Exercise 1-4 due
 - Listen to Exercise 1-3
 - Contact mic and pickup coil review and questions
@@ -133,7 +133,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Soundscapes project: everyone discusses their ideas and/or shares progress, preliminary experiments
 
 #### Wednesday 3/1
-- Artist presentations 6 and 7
+- Artist presentations 4
 - Work time
 
 
@@ -157,7 +157,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Begin [Exercise 2-1](https://github.com/brianhouse/sound_art/blob/main/exercises/2-1.md)
 
 #### Wednesday 3/22
-- Artist presentation 8
+- Artist presentations 5
 - Reading due: [Brian Eno, "Ambient Music"](https://github.com/brianhouse/sound_art/blob/main/readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
 - Introduction to [sequencing](https://github.com/brianhouse/sound_art/blob/main/lectures/07_sequencing.md)
@@ -172,7 +172,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Begin [Exercise 2-3](https://github.com/brianhouse/sound_art/blob/main/exercises/2-3.md)
 
 #### Wednesday 3/29
-- Artist presentation 9
+- Artist presentations 6
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/sound_art/blob/main/readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-3
 - Introduction to [live input](https://github.com/brianhouse/sound_art/blob/main/lectures/09_live_input.md)
@@ -185,7 +185,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Begin [Systems](https://github.com/brianhouse/sound_art/blob/main/projects/2_systems.md) project
 
 #### Wednesday 4/5
-- Artist presentations 10 and 11
+- Artist presentations 7
 - Discuss Systems ideas
 - Work day
 
@@ -195,7 +195,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 **BREAK: NO CLASS**
 
 #### Wednesday 4/12
-- Artist presentation 12
+- Artist presentations 8
 - Systems project, check-in
 
 ### Week 11
@@ -203,7 +203,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/17 — April Break (No Class)
 
 #### Wednesday 4/19
-- ~Artist presentation 13~
+- ~Artist presentation 9
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
 - Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
 - Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)
@@ -215,7 +215,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Speaker workshop
 
 #### Wednesday 4/26
-- Artist presentations 14
 - Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_sound_art_in_america.pdf)
 - Situated Sound, check-in
 
