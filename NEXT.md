@@ -1,4 +1,16 @@
-### fixes
+### Flow
+
+For future, listen to all the exercises, but just play them all in a row without commentary or critique. If it's 1 minute, that's just 13 minutes. make them 30s, and you've got just 8 minutes. that's worth doing. can follow that with a few followups for students that have questions for other students.
+
+
+#### Lectures
+
+statements in crit examples should be sound art, not media art
+
+
+#### Audacity
+
+For those of you that still cannot load .m4a files into Audacity, you'll need to install the FFMPEG libraries for Mac (https://lame.buanzo.org/lame_64bit_osx.pkg) or PC (https://lame.buanzo.org/ffmpeg-win-2.2.2.zip). Do this and then restart Audacity, and the import should work. If not, let me know and we can work through it during office hours.
 
 
 
@@ -10,16 +22,11 @@ need to cover "delay" in sequencing. move it out of the live_input part
 
 replace `dac~` with `output~` in synthesis lecture
 
-For future, listen to all the exercises, but just play them all in a row without commentary or critique. If it's 1 minute, that's just 13 minutes. make them 30s, and you've got just 8 minutes. that's worth doing. can follow that with a few followups for students that have questions for other students.
-
 emphasize `loadbang` earlier
 
 missing help files for some objects
 
 add comport install to sensors lecture
-
-For those of you that still cannot load .m4a files into Audacity, you'll need to install the FFMPEG libraries for Mac (https://lame.buanzo.org/lame_64bit_osx.pkg) or PC (https://lame.buanzo.org/ffmpeg-win-2.2.2.zip). Do this and then restart Audacity, and the import should work. If not, let me know and we can work through it during office hours.
-
 
 
 ### new

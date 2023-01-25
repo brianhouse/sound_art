@@ -2,7 +2,7 @@
 
 
 ## Introductions
-- Name / pronouns / animal sound
+- Name / pronouns / favorite sound from a machine
 
 ## Exercise
 - [0.md](../exercises/0.md)
@@ -28,6 +28,16 @@
 Questions before we get into the syllabus?
 
 
+## Disclaimers
+- So, as it turns out, this is my first day at Amherst. So I'm especially happy to work with you all. 
+- There are, however, some things I'm still getting worked out. 
+- The first is space -- this isn't a sound art classroom; in the future, there will be a space on the third floor with a better setup
+- We'll also have an electronics lab, and in future semesters the course will be more based in electronics. Since that's not together yet, there will be more of an emphasis this time on software, specifically visual coding using something called Pd. 
+- There's also about five more of you than I anticipated, so we may be a bit rushed time-wise this semester.
+- All that to say, I plan on offering Sound Art every year from here on out, so if you're shopping this class and worried it's your only chance to take it, it isn't, and it might be a little less rough around the edges next time. I'll give you priority next spring if you want to take it then.
+- Of course, if now's the time, I'm happy to have you, and it's going to be great regardless, so whatever
+
+
 ## Moodle + Syllabus
 - Moodle used primarily to collect assignments
 - If you go to that now, we'll look at the syllabus
@@ -37,5 +47,6 @@ Questions before we get into the syllabus?
 ## For next class
 - Do the questionnaire right now if you havent already
 - Everyone sign up for a date to present
-- Fields access forms
-- Read the Oliveros piece
+- Read the Oliveros piece and leave a response
+
+

@@ -1,10 +1,12 @@
 # ARHA 292: SOUND ART
 
-Monday / Wednesday 1:00–3:00
+Monday / Wednesday 1:00–3:00  
 Fayerweather 215  
 
-Prof. Brian House (he/him), [bhouse@amherst.edu](mailto:bhouse@amherst.edu)  
-Office hours T 11:00–11:45, 306
+Prof. Brian House (he/him)  
+[bhouse@amherst.edu](mailto:bhouse@amherst.edu)  
+Office hours Tuesday 11:00–11:45  
+Fayerweather 306
 
 
 ## Course Description
@@ -77,6 +79,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 2
 
 #### Monday 2/6
+- Equipment checkout policies (Josh)
 - Reading due: [Brandon Labelle, "Auditory Relations"](https://github.com/brianhouse/sound_art/blob/main/readings/labelle_auditory_relations.pdf)
 <!-- intro to crit -->
 - Soundmaps critique
@@ -92,7 +95,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 2/8
 - Artist presentations 1 and 2
-- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](https://github.com/brianhouse/sound_art/blob/main/schafer_soundscape.pdf)
+- Reading due: [Murray Schafer, _The Soundscape_ (introduction)](https://github.com/brianhouse/sound_art/blob/main/readings/schafer_soundscape.pdf)
 - Introduction to [recording](https://github.com/brianhouse/sound_art/blob/main/lectures/03_recording.md)
 - Begin [Exercise 1-1](https://github.com/brianhouse/sound_art/blob/main/exercises/1-1.md)
 

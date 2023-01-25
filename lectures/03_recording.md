@@ -61,9 +61,15 @@ You can think about sampling rate and bit depth visually in terms of horizontal 
 
 Mono is one _channel_ —aka an audio signal— that is either routed to just one speaker, or to two speakers that play the same thing.
 
-Stereo is two _channels_ that are each routed to a separate speaker (such as one on each side of headphones). Stereo came about with the realization that we have two ears, and sending a different signal to each one could make sounds seem to be distributed in space.
+Stereo is two _channels_ that are each routed to a separate speaker (such as one on each side of headphones). Stereo came about with the realization that the distribution of sounds in space could be simulated with multiple speakers (whether those are big ones in the room or little ones in headphones that you wear). 
 
-Surround sound or multichannel audio is multiple channels routed to an array speakers in order to establish greater spatial fidelity.
+Remember from the previous lecture, Interaural Time Difference, Interaural Level Difference, and Pinna Filtering? Which of these do stereo speakers take into account? It depending on the recording. If stereo mics are used, then ITD is present in the recording—the sound will then be played by one speaker at a slightly different time than the other. But even a mono signal can seem to come from one direction or another if it's played through the speakers at different volumes—this is ILD, but it's a matter of mixing, not recording.
+
+What about Pinna Filtering? To get that effect, you need to stick the microphones in your ears (or the ears of a dummy head). No joke; the artist Janet Cardiff is famous for this, and recently ASMR has made this in vogue. This is called binaural recording. It is also possible to simulate that in the mixing stage using something called HRTFs, but we don't have time to get into that.
+
+![](media/02_12_binaural.jpg)
+
+Surround sound or multichannel audio is multiple channels routed to an array speakers in order to establish even greater spatial fidelity. There's a whole world of this, and we might have a dedicated course on it someday.
 
 
 #### WAVs, AIFs, MP3s, M4As, AACs, etc

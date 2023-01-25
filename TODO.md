@@ -19,11 +19,4 @@ microphones?
 walkmans?
 
 
-## content
-
-localization added to acoustics lecture (also phase)
-
-statements should be sound art, not media art
-
-nexts
-
+### nexts

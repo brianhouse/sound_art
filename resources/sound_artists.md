@@ -21,6 +21,7 @@
 - Daphne Oram
 - Alvin Lucier
 - La Monte Young
+- Petr Válek Doma
 - Tony Conrad
 - Tarek Atoui
 - Jacob Kierkegaard
@@ -53,6 +54,7 @@
 - Max Neuhaus
 - Steve Reich
 - David Dunn
+- Merche Blasco
 - Chris Watson
 - Hildegard Westerkamp
 - Scanner

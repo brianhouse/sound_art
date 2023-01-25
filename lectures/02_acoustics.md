@@ -84,9 +84,23 @@ We talked about amplitude being the volume of air being moved. However, humans a
 
 ![](media/01_10_human_hearing.png)
 
-What happens after the sound gets to the brain?
+
+But it's important to note here that all ears are different. Even watching those videos, we're looking at an "idealized" ear that may or may not match yours, or any arbitrary person. Not everyone's ears are functional. So at the point where we move from the physics into perception, we have to be aware of the normalizing language we use.
+
 
 ### Localization
+
+So how do we tell where a sound is coming from?
+
+There's actually at least three ways that we distinguish the position of a sound. The first is the fact that we have two ears. How does that help? The technical term is "Interaural Time Difference" (ITD), which just means that sounds will arrive at your ears at slightly different times. This allows the brain to get a sense of where the sound is coming from.
+
+A second strategy is that closer sounds are louder—especially if there is a head between the ear and the sound. "Interaural Level Difference" (ILD) describes this difference in volume that is another important cue, and your brain combines ITD and ILD.
+
+![](media/01_12_localization.png)
+
+But even this doesn't always work, however—for instance, neither ITD or ILD can help you distinguish between a sound source that is directly in front of you or directly behind you. So another strategy is built into the shape of the ears themselves. That is to say, all your subtle folds of skin and cartilage—which is called the _pinna_—will subtly filter the sound, so that the same sound from different angles will be different enough that it can help the brain figure out where it's coming from.
+
+This still doesn't always work, especially for low sounds, which is why it doesn't matter where you put your subwoofer.
 
 
 ### Timbre
