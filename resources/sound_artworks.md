@@ -1,4 +1,4 @@
-## A short list of influential works of sound art
+## A short chronological list of influential works of sound art
 
 
 - Janet Cardiff, _Her Long Black Hair_ (2004)
@@ -15,11 +15,5 @@
 - Ryoji Ikeda, _The Transinfinite_ (2011)
 - Ernst Karel, _Single Stream_ (2011)
 - Maria Chavez, _Of Technique: Chance Procedures on Turntable_ (2012)
+- Ekene Ijeoma, _Deconstructed Anthems_ (2017)
 - Christine Sun Kim, _The Sound of..._ (2020s)
-
-
-
-
-
-
-
