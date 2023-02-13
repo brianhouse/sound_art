@@ -72,6 +72,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Listening exercise](https://github.com/brianhouse/sound_art/blob/main/exercises/0.md)
 
 #### Wednesday 2/1
+<!-- everyone signed up for a presentation? -->
 - Reading due: [Pauline Oliveros, _Deep Listening_ (excerpts)](https://github.com/brianhouse/sound_art/blob/main/readings/oliveros_deep_listening.pdf)
 - Introduction to [acoustics](https://github.com/brianhouse/sound_art/blob/main/lectures/02_acoustics.md)
 - Begin [Soundmaps](https://github.com/brianhouse/sound_art/blob/main/projects/0_soundmaps.md)
@@ -79,7 +80,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 2
 
 #### Monday 2/6
-- Equipment checkout policies (Josh)
+- Equipment checkout policies (Josh) <!-- 2:45 unless text -->
 - Reading due: [Brandon Labelle, "Auditory Relations"](https://github.com/brianhouse/sound_art/blob/main/readings/labelle_auditory_relations.pdf)
 <!-- intro to crit -->
 - Soundmaps critique

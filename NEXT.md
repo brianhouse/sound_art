@@ -8,6 +8,17 @@ For future, listen to all the exercises, but just play them all in a row without
 statements in crit examples should be sound art, not media art
 
 
+the lecturing is boring. hands on activities to understand these concepts? like digital sampling? by cutting paper?
+
+build a record player?
+
+do an in class exercise to locate sounds?
+
+hearing test equipment?
+
+*** all of this ***
+
+
 #### Audacity
 
 For those of you that still cannot load .m4a files into Audacity, you'll need to install the FFMPEG libraries for Mac (https://lame.buanzo.org/lame_64bit_osx.pkg) or PC (https://lame.buanzo.org/ffmpeg-win-2.2.2.zip). Do this and then restart Audacity, and the import should work. If not, let me know and we can work through it during office hours.

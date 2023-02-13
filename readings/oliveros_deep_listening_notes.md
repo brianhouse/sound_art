@@ -44,14 +44,40 @@ What are the influences in this piece?
 
 ///
 
-Elias:
-cognitive filters
+Yahli:
+agency
+a tool for resolving conflict
 
-Evelyn:
-Could anyone give any more examples of how deep listening is utilized in a sound art context?
+what about other senses?
 
-Zander:
-space/time continuum?
 
-Misha:
-language around seeing versus hearing in understanding
+Iris:
+always avoided silence [nice, why?]
+
+
+Alex:
+how much can we learn about each other by sharing the sounds of our environment?
+
+
+Elena:
+lots of things happening neurologically
+
+
+Isaac:
+article described it as a survival technique
+
+
+John:
+"If a tree falls in a forest and no one is around to hear it, does it make a sound?" 
+animal listening [ties to isaac and alex]
+
+
+Navie:
+in church, "background" sounds
+
+
+Zach:
+anechoeic chamber
+
+(Andrew is doing John Cage)
+

@@ -25,14 +25,11 @@ Sound art is
 
 
 Questions:
-- Andrew: Can consciousness simulate sounds independent of external (relational) stimulus?
-- Ann: still the difference between music and sound art, maybe the sounds around Spiral Jetty are part of the experience
-- Elias: resistance to recorded sound in the text
-- Evelyn: futility of this project
-- Haley: also confusion with music
-- Wallent: simply hear sound on its own terms with no notions at all of what it's meant to mean
-- Michael Luzadder: wants to discuss “acoustic ecology runs the risk of shutting down auditory possibilities by registering sound within an overall framework of value: what sound is harmful and what sound isn’t?”
+- Elena — directional speakers [tech in general, earbuds]
+- Isaac - echolocation, sonar
+- Alex - silent discos
+- Navie — different impressions of an orchestra (perspective in sound)
+- Zach - sound is never a private affair -> [headphones]
+- Kai - interference in physics
+- Jack - "Is the goal of sound art to interact with a space or create a space?" -- again the headphone question
 
-- Zander: why is the relation between sound and space special?
-
-==> is there something exceptional about sound? is it different?

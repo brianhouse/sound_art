@@ -74,16 +74,10 @@ Schizophonia
 
 ///
 
-Ann, modernist architecture
-
-Colin, how do we go about _removing_ sounds? --> yes, apply aesthetics to industrial noise
-
-Elias, music of age reflects the government, but it's so varied now
-western culture fixated on melody rather than rhythm [is that true?]
-
-john wallent, amplifier worship [Earth]
+Kai, question: sounds threatened by extinction [telephone ring; gasoline cars]
+Navie, documentation
+Zach, Golden Record
+Jack, "Perhaps, he means that if we paid more attention to these sounds, we would take action to remove them from our soundscape environments?"
 
 
-michael, [Archaeoacoustics]
 
-zander, value judgments, what is a 'bad' sound
