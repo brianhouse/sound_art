@@ -1,22 +1,9 @@
 ### Flow
 
-For future, listen to all the exercises, but just play them all in a row without commentary or critique. If it's 1 minute, that's just 13 minutes. make them 30s, and you've got just 8 minutes. that's worth doing. can follow that with a few followups for students that have questions for other students.
-
 
 #### Lectures
 
 statements in crit examples should be sound art, not media art
-
-
-the lecturing is boring. hands on activities to understand these concepts? like digital sampling? by cutting paper?
-
-build a record player?
-
-do an in class exercise to locate sounds?
-
-hearing test equipment?
-
-*** all of this ***
 
 
 #### Audacity
@@ -40,7 +27,7 @@ missing help files for some objects
 add comport install to sensors lecture
 
 
-### new
+### future v1
 
 using casettes / magnetic tape -- preexisting tapes, or record onto tape? need old hardware. put this in the third section, make it all hardware based.
 
@@ -49,3 +36,22 @@ use hardware to have the "synth" section performative? could use a beringer or s
 cut down on some of the synthesis stuff
 
 don't need to have too much electronics otherwise, don't have time to learn cmos.
+
+
+### future 2
+
+replace lectures with building activities. ie, make a turntable. make a spatial recording. etc. I should introduce an artist each time, but I think we can also skip the readings. get rid of synthesis and make it hardware.
+
+- keep the soundmaps
+- something about spatialization and ears -- get some hearing test equipment? hell yeah.
+- then they build a turntable to learn about transduction
+- then they build their own microphones (and coils, and piezos) -- (how feasible is real mics?)
+- then they use magnetic tape to splice and layer (walkmans)
+- then we do some oscillators and shit from Nic Collins
+- speakers and feedback
+- digital recording and audacity -- something about sampling/remixing etc, ie source material
+
+do we ever use the recorders? or a computer?
+
+
+
