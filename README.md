@@ -120,34 +120,41 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 2/20
 - Reading due: [Christoph Cox, "Interview with Christina Kubisch"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_kubisch.pdf)
+<!-- cover the reading next week -->
 - Exercise 1-3 due
 - Building contact mics and pickup coils
 - Begin [Exercise 1-4](https://github.com/brianhouse/sound_art/blob/main/exercises/1-4.md)
 
 #### Wednesday 2/22
 - Artist presentations 3
+<!-- go over reading here -->
 - Exercise 1-4 due
-- Listen to Exercise 1-3
 - Contact mic and pickup coil review and questions
 - Begin [Soundscapes](https://github.com/brianhouse/sound_art/blob/main/projects/1_soundscapes.md) project
+
 
 ### Week 5
 
 #### Monday 2/27
-- Soundscapes project: everyone discusses their ideas and/or shares progress, preliminary experiments
+- Soundscapes project: proposals
+
 
 #### Wednesday 3/1
 - Artist presentations 4
+- Soundscapes project: present initial experiments
 - Work time
 
 
 ### Week 6
 
 #### Monday 3/6
-- Soundscapes project, final crit
+- Soundscapes project: final critique
+
 
 #### Wednesday 3/8
-
+- Reading due: [Tara Rodgers, "Synthesis"](https://github.com/brianhouse/sound_art/blob/main/readings/rodgers_synthesis.pdf)
+- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/sound_art/blob/main/lectures/06_synthesis.md)
+- Begin [Exercise 2-1](https://github.com/brianhouse/sound_art/blob/main/exercises/2-1.md)
 
 
 **SPRING BREAK**
@@ -156,51 +163,58 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 7
 
 #### Monday 3/20
-- Reading due: [Tara Rodgers, "Synthesis"](https://github.com/brianhouse/sound_art/blob/main/readings/rodgers_synthesis.pdf)
-- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/sound_art/blob/main/lectures/06_synthesis.md)
-- Begin [Exercise 2-1](https://github.com/brianhouse/sound_art/blob/main/exercises/2-1.md)
-
-#### Wednesday 3/22
-- Artist presentations 5
 - Reading due: [Brian Eno, "Ambient Music"](https://github.com/brianhouse/sound_art/blob/main/readings/eno_ambient_music.pdf)
 - Listen to Exercise 2-1
 - Introduction to [sequencing](https://github.com/brianhouse/sound_art/blob/main/lectures/07_sequencing.md)
 - Begin [Exercise 2-2](https://github.com/brianhouse/sound_art/blob/main/exercises/2-2.md)
 
-### Week 8
 
-#### Monday 3/27
+#### Wednesday 3/22
+- Artist presentations 5
 - Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](https://github.com/brianhouse/sound_art/blob/main/readings/miller_algorithms.pdf)
 - Listen to Exercise 2-2
 - Introduction to [sampling](https://github.com/brianhouse/sound_art/blob/main/lectures/08_sampling.md)
 - Begin [Exercise 2-3](https://github.com/brianhouse/sound_art/blob/main/exercises/2-3.md)
 
-#### Wednesday 3/29
-- Artist presentations 6
+
+### Week 8
+
+#### Monday 3/27
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/sound_art/blob/main/readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-3
 - Introduction to [live input](https://github.com/brianhouse/sound_art/blob/main/lectures/09_live_input.md)
 - Begin [Exercise 2-4](https://github.com/brianhouse/sound_art/blob/main/exercises/2-4.md)
 
+
+#### Wednesday 3/29
+- Artist presentations 6
+<!-- - Arduino workshop / Introduction to [sensors](https://github.com/brianhouse/sound_art/blob/main/lectures/10_sensors.md) -->
+- Begin [Systems](https://github.com/brianhouse/sound_art/blob/main/projects/2_systems.md) project
+
+
 ### Week 9
 
 #### Monday 4/3
-- Arduino workshop / Introduction to [sensors](https://github.com/brianhouse/sound_art/blob/main/lectures/10_sensors.md)
-- Begin [Systems](https://github.com/brianhouse/sound_art/blob/main/projects/2_systems.md) project
+- Systems project: proposals
+
 
 #### Wednesday 4/5
 - Artist presentations 7
-- Discuss Systems ideas
-- Work day
+- Systems project: present initial experiments
+
 
 ### Week 10
 
 #### Monday 4/10
-**BREAK: NO CLASS**
+- Systems project: final critique
+
 
 #### Wednesday 4/12
 - Artist presentations 8
-- Systems project, check-in
+- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
+- Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
+- Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)
+
 
 ### Week 11
 
@@ -208,36 +222,39 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 4/19
 - Artist presentation 9
-- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
-- Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
-- Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)
+- Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_sound_art_in_america.pdf)
+- Speaker workshop
+- Situated Sound project: proposals
 <!-- - Begin [Exercise 3-1](https://github.com/brianhouse/sound_art/blob/main/exercises/3-1.md) -->
+
 
 ### Week 12
 
 #### Monday 4/24
-- Speaker workshop
+- Situated Sound project: critique
+
 
 #### Wednesday 4/26
-- Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_sound_art_in_america.pdf)
-- Situated Sound, check-in
+- Reading due: [Jessica Feldman, "The Trouble with Sounding"](https://github.com/brianhouse/sound_art/blob/main/readings/feldman_trouble_with_soundings.pdf)
+- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](https://github.com/brianhouse/sound_art/blob/main/readings/dunaway_sound_art_1979.pdf)
+- Begin [Final Project](https://github.com/brianhouse/sound_art/blob/main/projects/4_final_project.md)
 
 
 ### Week 13
 
 #### Monday 5/1
-- Situated Sound, final critique
+- Final project: proposals
 
 #### Wednesday 5/3
-- Reading due: [Jessica Feldman, "The Trouble with Sounding"](https://github.com/brianhouse/sound_art/blob/main/readings/feldman_trouble_with_soundings.pdf)
-- Reading due: [Judy Dunaway, "The Forgotten 1979 MoMA Sound Art Exhibition"](https://github.com/brianhouse/sound_art/blob/main/readings/dunaway_sound_art_1979.pdf)
-- Begin [Final Project](https://github.com/brianhouse/sound_art/blob/main/projects/4_final_project.md)
+- Final project: present initial experiments
+
 
 ### Week 14
 
 #### Monday 5/8
-- [Proposals](https://github.com/brianhouse/sound_art/blob/main/projects/4_final_project.md) due on Moodle
-- Discuss Final Project proposals
+- Final project: critique
 
 
-### Exam Week
+(No meetings or work due during exam week)
+
+
