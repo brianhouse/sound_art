@@ -18,7 +18,7 @@ Fair warning: I'm also new to Pd (I work in Max if I need to use a control-flow 
 Because this is a complicated topic, I've written up my notes, which I'll share afterwards, so that you'll have a reference.
 
 
-## Installation
+### Installation
 
 Download Pd here: [https://puredata.info/downloads/pure-data](https://puredata.info/downloads/pure-data)
 
@@ -26,7 +26,7 @@ Most of you will want the first option for either Mac or Windows (not the very f
 
 If you get a notification like this:
 <p align="center">
-  <img src="media/06_01_macos_security.png" width=600 /><br />
+  <img src="media/06_01_macos_security.png" width=400 /><br />
 </p>
 
 Click cancel and then go to your System Preferences and choose the "Security" panel. You should have the option to "Open Anyway". Once you do this once, you won't have to do it again.
@@ -34,11 +34,26 @@ Click cancel and then go to your System Preferences and choose the "Security" pa
   <img src="media/06_01_macos_security_2.png" width=600 /><br />
 </p>
 
-Once you have launched the application, but before we do anything with it, we need to do one more thing, which is to add a couple "externals" to the system. Download those here by clicking "Code" and choosing "Download Zip": [https://github.com/brianhouse/piopd](https://github.com/brianhouse/piopd). Navigate to your "Documents" folder, which should now contain a "Pd" folder. Inside "Pd", there should be another folder called "externals". Open the zip file you downloaded, and drag the objects inside into the externals folder.
+Once you have launched the application, but before we do anything with it, we need to do one more thing, which is to add a couple "externals" to the system. Download those here by clicking "Code" and choosing "Download Zip": [https://github.com/brianhouse/piopd](https://github.com/brianhouse/piopd). Navigate to your "Documents" folder, which should now contain a "Pd" folder. Inside "Pd", there should be another folder called "externals". Drag your .zip file inside the externals folder. Now extract the .zip so that you have a folder called "piopd" inside "externals" inside "Pd".
 
 <p align="center">
   <img src="media/06_02_externals.png" width=600 /><br />
 </p>
+
+Finally, go to the Pd menu, select "Preferences" and choose "Path..."
+
+<p align="center">
+  <img src="media/06_02_path_1.png" width=350 /><br />
+</p>
+
+Create a new path entry by clicking "New..." and then navigating to the "piopd" folder we just installed inside externals.
+
+<p align="center">
+  <img src="media/06_02_path_2.png" width=500 /><br />
+</p>
+
+Ok! Now we're set up and good to go.
+
 
 ### Setup
 
@@ -63,14 +78,14 @@ Under "TEST TONES", click the box labeled 80—you should hear a test tone. If n
 
 Finally, go to the "File" menu and select "New". A blank "patcher" window will appear. This is what we'll use to make our Pd "patches", aka sonic systems.
 
-### Basic principles of Pd
+## Basic principles of Pd
 
-#### Placement
+### Placement
 
 A blank white canvas is both intimidating and filled with possibility. Under the "Put" menu we see the different types of things that we can add to our patch. Rather than select one, note that there are keyboard shortcuts for each option: for example, you can create an "object" by typing Command-1 (Control-1 on Windows and Linux).
 
 <p align="center">
-  <img src="media/06_04_pd_put.png" width=600 /><br />
+  <img src="media/06_04_pd_put.png" width=200 /><br />
 </p>
 
 Leave the menu, and type Command-1. When you move your cursor over the patch, you'll see a dashed blue rectangle follow it. Click somewhere to place the object, and you'll see a flashing cursor.
@@ -93,7 +108,7 @@ Next, let's create a Number using Command/Control-3. Put it above `print`, and c
 
 Note that a Number box, which holds a number, is distinguished from an object box by the bevel on its corner.
 
-#### Connections
+### Connections
 
 Also note the tabs on the boxes, one on the top of `print` and one each on the top and bottom of number. These are connection points. If you put your cursor over the bottom "outlet" of the Number box, it will turn into a circle. Click and drag it to the "inlet" on the top of `print` to make a connection.
 
@@ -103,7 +118,7 @@ Also note the tabs on the boxes, one on the top of `print` and one each on the t
 
 Once you have a connection, you can remove it by moving the cursor over the line until it turns into an "X". If you click, it will turn the line blue—you can now type "Delete" to remove it. Make a connection, delete it, and make it again to get familiar with how it works.
 
-#### Switching between Edit and Playback mode
+### Switching between Edit and Playback mode
 
 Notice that at the top of the patcher window, there is the indicator "[edit]". This means that we are in editing mode, and our mouse clicks are interpreted as intending to alter the patch. To change to playback mode, go to the "Edit" menu and unselect Edit Mode, or simply type Command/Control-E. "[edit]" will disappear and you can no longer make connections between boxes (if you add an object, the patcher will automatically revert back to edit mode).
 
@@ -151,7 +166,7 @@ Instead of always using both inlets, you can add a default value as a parameter 
   <img src="media/06_06_pd_math_2.png" width=600 /><br />
 </p>
 
-#### Audio signals
+### Audio signals
 
 Audio signals flow a little differently than messages, because they are continuous—if there is a connection between two audio objects, data is always flowing.
 
@@ -163,9 +178,7 @@ Add an object box to a new patch, and type `osc~`. This is a sine-wave oscillato
   <img src="media/06_07_pd_osc.png" width=600 /><br />
 </p>
 
-Next, connect a number box upstream, and a `dac~` object downstream. Connect the outlet of `osc~` to both inlets on `dac~`, which is a "digital-analog converter" that interfaces with your sound card (the two inlets are for the right and left channels). Note that you can distinguish audio connections from control connections by their thicker lines.
-
-Because `dac~` just sends things straight to your speakers without any chance to control the volume, in the interest of protecting our ears, I made an object called `output~` that we're going to use instead. `output~` has a volume control, a mute button, and it also lets you record a wave file: click the checkbox on to start recording, and again to turn it off. The file should show up in your Pd folder (does this work for Windows users?).
+Next, connect a number box upstream to both inlets of an `output~` object downstream (the two inlets are for the right and left channels). Note that you can distinguish audio connections from control connections by their thicker lines. `output~` is a digital analog converter—it will make our signal into sound. It has a volume control, a mute button, and it also lets you record a wave file: click the checkbox on to start recording, and again to turn it off. The file should show up in your Pd folder (does this work for Windows users?).
 
 <p align="center">
   <img src="media/06_08_pd_audio.png" width=600 /><br />
@@ -201,7 +214,7 @@ Congratulations, you've made your first synthesizer! (Make sure to save it).
 
 All synthesis starts with oscillators. `osc~` is a perfect sine wave that oscillates between -1 and 1. However, there are other shapes that we can use. For example, replace `osc~` with `saw~`, `sqr~`, or `tri~` in your patch and play with the results (these are also externals we installed—look inside those files to see how they are made).
 
-## Additive Synthesis
+### Additive Synthesis
 
 Simple oscillators can be added together, thus becoming the building blocks of much more complex waveforms.
 
@@ -213,7 +226,7 @@ Using the `+~` object (notice the tilde, which indicates that we are adding audi
 
 Try making two oscillators with very close frequencies—you'll hear "beating", which is another implicit oscillation at a frequency that is the difference between the two initial frequencies. Note that dragging on the number boxes in playback mode will increase or decrease by an integer value, but holding shift down will move the decimals.
 
-## AM Synthesis and LFOs
+### AM Synthesis and LFOs
 
 Similarly, multiplication creates even wilder waveforms by combining two or more simple oscillators—essentially, one oscillator modulates the amplitude (volume) of the other. Traditionally, `phasor~` is used as a modulator. It is similar to `saw~`, but instead moving between the full signal range of -1 to 1, it oscillates from 0 to 1. When multiplied with the signal from `osc~`, this becomes an amplitude adjustment—from zero volume to full (1) volume.
 
@@ -227,10 +240,10 @@ If you set the `phasor~` down close to 20 Hz, you'll notice you get a pulsation 
   <img src="media/06_11_tremolo_.png" width=600 /><br />
 </p>
 
-Using `cyc~` in this way is known as a Low-Frequency Oscillator, or LFO. Even though it cannot be heard directly, LFOs can change the character of other sounds.
+Using `cyc~` in this way is known as a Low-Frequency Oscillator, or LFO. Even though it cannot be heard directly, LFOs can change the character of other sounds. They can also be used to control larger changes in a patch over time.
 
 
-## FM Synthesis
+### FM Synthesis
 
 While AM synthesis changes the amplitude of another signal, Frequency Modulation (FM) synthesis changes the frequency instead. Thus far, we have used static values for the frequencies of our oscillators, other than varying them manually with a Number box or slider. However, we can have another oscillator drive this change automatically instead.
 

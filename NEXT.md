@@ -11,20 +11,49 @@ statements in crit examples should be sound art, not media art
 For those of you that still cannot load .m4a files into Audacity, you'll need to install the FFMPEG libraries for Mac (https://lame.buanzo.org/lame_64bit_osx.pkg) or PC (https://lame.buanzo.org/ffmpeg-win-2.2.2.zip). Do this and then restart Audacity, and the import should work. If not, let me know and we can work through it during office hours.
 
 
+#### Soundscape
+
+what it becomes is an exercise in narrative, but we haven't prepped narrative at all. so either we do that, or the terms of the assignment have to change.
+
+if this gets broken out to become a project in Sound + Space, make it a strict 3min _loop_ that's four channel, and start it at a random place. ie, narrative goes away.
+
 
 #### Pd
 
-clip~ and distortion should come earlier
-
-need to cover "delay" in sequencing. move it out of the live_input part
+##### synthesis
 
 replace `dac~` with `output~` in synthesis lecture
 
-emphasize `loadbang` earlier
+clip~ and distortion should come earlier
 
-missing help files for some objects
+
+##### sequencing
+
+need to cover "delay" in sequencing. move it out of the live_input part
+
+
+##### sampling
+
+missing help files for audioclip~, sampler~
+
+
+##### live input
+
+missing help files for peak~, pitch~
+
+
+##### sensors
 
 add comport install to sensors lecture
+
+missing help files for smoother
+
+
+#####
+
+other help files: unsig~, mute~, piano, scope~
+
+
 
 
 ### future v1
@@ -52,6 +81,8 @@ replace lectures with building activities. ie, make a turntable. make a spatial 
 - digital recording and audacity -- something about sampling/remixing etc, ie source material
 
 do we ever use the recorders? or a computer?
+
+this is "Sound as Material"
 
 
 
