@@ -276,6 +276,7 @@ In order to do that, we'll need a **filter**. We've used filters a bit already i
 
 Note that `vcf~` has two outlets: using the rightmost outlet instead will create a "low-pass" filter, which filters out all frequencies except those that are below the center frequency (now a "cutoff" frequency).
 
+
 ## Building complex oscillating systems
 
 Note that this becomes a branching process: any number box can be replaced with another oscillator of some kind, whether it serves as a frequency modulator, an amplitude modulator, or to modulate the frequency of a filter. Combined, you can produce some dynamic sounds.
@@ -285,6 +286,33 @@ Note that this becomes a branching process: any number box can be replaced with 
 </p>
 
 Notice how the operator objects multiply or add to LFOs by a given value, which changes their range.
+
+
+
+## Distortion
+
+There's an easy way to generate (intentional) distortion in Pd. Rather than overloading your output, you can hook any audio signal into the `clip~` object, with the creation arguments set to -1 and 1 (or something like -.9 and .9 if you want to see what's happening a little more easily). This will constrain the signal to the normal range. But if you also add an amplitude multiplier just before `clip~`, it will function as a gain, and the higher you set it above 1, the more signal will get chopped off by `clip~`, generating distortion without a volume increase.
+
+This tells us something about the nature of distortion: it "squares" off smooth audio signals, which creates richer harmonics, just like a square wave has a richer sound than a sine oscillator.
+
+<p align="center">
+  <img src="media/09_10_distortion.png" width=600 /><br />
+</p>
+
+
+
+## Using musical pitches
+
+Though no music theory is required here, if you want to use musical notes (even-temperment), Pd can convert to MIDI pitch numbers to frequencies and back. MIDI pitches are just the notes of an even-tempered piano labeled from 0–127. `mtof` converts this number to a frequency, and `ftom` converts it back.
+
+I also made an object called piano to help you determine those pitches, or just to connect and fool around with notes.
+
+If you want to use just-intonation or microtonal systems ... you'll have to program it yourself.
+
+<p align="center">
+  <img src="media/06_15_musical_notes.png" width=600 /><br />
+</p>
+
 
 
 ## Saving and loading
@@ -300,17 +328,6 @@ One very helpful object for this is called `loadbang`—it sends a bang when the
 </p>
 
 
-## Using musical pitches
-
-Though no music theory is required here, if you want to use musical notes (even-temperment), Pd can convert to MIDI pitch numbers to frequencies and back. MIDI pitches are just the notes of an even-tempered piano labeled from 0–127. `mtof` converts this number to a frequency, and `ftom` converts it back.
-
-I also made an object called piano to help you determine those pitches, or just to connect and fool around with notes.
-
-If you want to use just-intonation or microtonal systems ... you'll have to program it yourself.
-
-<p align="center">
-  <img src="media/06_15_musical_notes.png" width=600 /><br />
-</p>
 
 ## Getting help
 

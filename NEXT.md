@@ -20,12 +20,6 @@ if this gets broken out to become a project in Sound + Space, make it a strict 3
 
 #### Pd
 
-##### synthesis
-
-replace `dac~` with `output~` in synthesis lecture
-
-clip~ and distortion should come earlier
-
 
 ##### sequencing
 

@@ -85,13 +85,3 @@ Finally, `level~` tracks the amplitude of an audio signal. Unlike `peak~` and `p
 
 Level takes a threshold in its right inlet, which can be used to filter out changes in amplitude below a certain dB level. Look on `input~` to figure out how loud the ambient level is, and give `level~` a number slightly higher than that to avoid unwanted output.
 
-
-## Distortion
-
-I should have brought this up earlier, there's an easy way to generate (intentional) distortion in Pd. Rather than overloading your output, you can hook any audio signal into the `clip~` object, with the creation arguments set to -1 and 1 (or something like -.9 and .9 if you want to see what's happening a little more easily). This will constrain the signal to the normal range. But if you also add an amplitude multiplier just before `clip~`, it will function as a gain, and the higher you set it above 1, the more signal will get chopped off by `clip~`, generating distortion without a volume increase.
-
-This tells us something about the nature of distortion: it "squares" off smooth audio signals, which creates richer harmonics, just like a square wave has a richer sound than a sine oscillator.
-
-<p align="center">
-  <img src="media/09_10_distortion.png" width=600 /><br />
-</p>
