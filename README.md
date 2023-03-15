@@ -153,8 +153,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 3/8
 - Reading due: [Tara Rodgers, "Synthesis"](https://github.com/brianhouse/sound_art/blob/main/readings/rodgers_synthesis.pdf)
-- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/sound_art/blob/main/lectures/06_synthesis.md)
-- Begin [Exercise 2-1](https://github.com/brianhouse/sound_art/blob/main/exercises/2-1.md)
 
 
 **SPRING BREAK**
@@ -164,31 +162,34 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 3/20
 - Reading due: [Brian Eno, "Ambient Music"](https://github.com/brianhouse/sound_art/blob/main/readings/eno_ambient_music.pdf)
-- Listen to Exercise 2-1
-- Introduction to [sequencing](https://github.com/brianhouse/sound_art/blob/main/lectures/07_sequencing.md)
-- Begin [Exercise 2-2](https://github.com/brianhouse/sound_art/blob/main/exercises/2-2.md)
+- Introduction to [Pure Data (Pd) and digital synthesis](https://github.com/brianhouse/sound_art/blob/main/lectures/06_synthesis.md)
+- Begin [Exercise 2-1](https://github.com/brianhouse/sound_art/blob/main/exercises/2-1.md)
+
+
 
 
 #### Wednesday 3/22
 - Artist presentations 5
 - Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](https://github.com/brianhouse/sound_art/blob/main/readings/miller_algorithms.pdf)
-- Listen to Exercise 2-2
-- Introduction to [sampling](https://github.com/brianhouse/sound_art/blob/main/lectures/08_sampling.md)
-- Begin [Exercise 2-3](https://github.com/brianhouse/sound_art/blob/main/exercises/2-3.md)
+- Listen to Exercise 2-1
+- Introduction to [sequencing](https://github.com/brianhouse/sound_art/blob/main/lectures/07_sequencing.md)
+- Begin [Exercise 2-2](https://github.com/brianhouse/sound_art/blob/main/exercises/2-2.md)
+
+
 
 
 ### Week 8
 
 #### Monday 3/27
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/sound_art/blob/main/readings/cascone_aesthetics_of_failure.pdf)
-- Listen to Exercise 2-3
-- Introduction to [live input](https://github.com/brianhouse/sound_art/blob/main/lectures/09_live_input.md)
-- Begin [Exercise 2-4](https://github.com/brianhouse/sound_art/blob/main/exercises/2-4.md)
+- Listen to Exercise 2-2
+- Introduction to [sampling](https://github.com/brianhouse/sound_art/blob/main/lectures/08_sampling.md)
+- Begin [Exercise 2-3](https://github.com/brianhouse/sound_art/blob/main/exercises/2-3.md)
 
 
 #### Wednesday 3/29
 - Artist presentations 6
-<!-- - Arduino workshop / Introduction to [sensors](https://github.com/brianhouse/sound_art/blob/main/lectures/10_sensors.md) -->
+- Listen to Exercise 2-3
 - Begin [Systems](https://github.com/brianhouse/sound_art/blob/main/projects/2_systems.md) project
 
 
@@ -200,7 +201,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 4/5
 - Artist presentations 7
-- Systems project: present initial experiments
+- Systems project: present draft version
 
 
 ### Week 10
