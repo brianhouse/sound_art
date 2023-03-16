@@ -27,6 +27,17 @@ By multiplying any continuous signal with the `adsr~` signal, we can produce dis
 
 Note that no sound is produced until the envelope is triggered using a "bang". This has important implications for our next topic.
 
+## Delay
+
+Envelopes give us the notion of an "event" in time that can be triggered. As we've already seen, in Pd, a "bang" is what makes things happen. There's a lot we can do with bangs, but to start off, we can delay them. Like this:
+
+<p align="center">
+  <img src="media/07_02_1_delay.png" width=600 /><br />
+</p>
+
+The number in the delay object box tells us how long the delay will be. In this case, it's 1000 milliseconds—or one second. But this is just the beginning.
+
+
 ## Sequencing
 
 With static audio files in Audacity, we sequenced audio segments by splicing them and moving them on the timeline. There is no timeline in Pd, and all the sounds are being generated "real-time". We've already seen how to use LFOs to create change over time, but we can also trigger events using timers, bangs, and envelopes.

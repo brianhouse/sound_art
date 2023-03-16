@@ -10,7 +10,7 @@ I think the significance of Eno is that even though he is all over popular music
 
 /
 
-Parallels between Ambient Music and Schafer's notion of acoustic design?
+Parallels between Ambient Music and Schafer's notion of acoustic design? (is it a soundscape?)
 
 How does this play into synthesis in the sense of "artificiality"?
 

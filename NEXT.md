@@ -21,31 +21,18 @@ if this gets broken out to become a project in Sound + Space, make it a strict 3
 #### Pd
 
 
-##### sequencing
-
-need to cover "delay" in sequencing. move it out of the live_input part
-
-
-##### sampling
-
-missing help files for audioclip~, sampler~
-
-
-##### live input
-
-missing help files for peak~, pitch~
-
-
-##### sensors
+missing help files for:
+audioclip~
+sampler~
+peak~
+pitch~
+smoother
+unsig~
+mute~
+piano
+scope~
 
 add comport install to sensors lecture
-
-missing help files for smoother
-
-
-#####
-
-other help files: unsig~, mute~, piano, scope~
 
 
 
@@ -78,5 +65,5 @@ do we ever use the recorders? or a computer?
 
 this is "Sound as Material"
 
-
+Pd stuff goes to Electronic Instruments
 
