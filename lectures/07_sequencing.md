@@ -35,7 +35,9 @@ Envelopes give us the notion of an "event" in time that can be triggered. As we'
   <img src="media/07_02_1_delay.png" width=600 /><br />
 </p>
 
-The number in the delay object box tells us how long the delay will be. In this case, it's 1000 milliseconds—or one second. But this is just the beginning.
+The number in the delay object box tells us how long the delay will be. In this case, it's 1000 milliseconds—or one second. 
+
+What's important to realize at this point is there are two types of signals in Pd. So far, we've mainly been working with audio signals—the stuff that comes out of oscillators. But we've sent a few messages and used loadbang too—these aren't audio, they're "control" signals that tell Pd what to do. Audio objects are, of course, concerned with time, in the sense of building up audio waveforms. But `delay` is the first object to demonstrate that control signals have a different notion of time, which functions to cue different things to happen when we want them to. But `delay` is just the beginning.
 
 
 ## Sequencing
