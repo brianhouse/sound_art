@@ -169,7 +169,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 3/22
-- Artist presentations 5
 - Reading due: [Paul D. Miller, "Algorithms: Erasure and the Art of Memory"](https://github.com/brianhouse/sound_art/blob/main/readings/miller_algorithms.pdf)
 - Listen to Exercise 2-1
 - Introduction to [sequencing](https://github.com/brianhouse/sound_art/blob/main/lectures/07_sequencing.md)
@@ -181,6 +180,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 8
 
 #### Monday 3/27
+- Artist presentations 5
 - Reading due: [Kim Cascone, "Aesthetics of Failure"](https://github.com/brianhouse/sound_art/blob/main/readings/cascone_aesthetics_of_failure.pdf)
 - Listen to Exercise 2-2
 - Introduction to [sampling](https://github.com/brianhouse/sound_art/blob/main/lectures/08_sampling.md)

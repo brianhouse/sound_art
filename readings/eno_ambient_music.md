@@ -2,6 +2,8 @@
 
 [Music for Airports, 2/2](swinsian)
 
+this track is all ARP 2600
+
 So Brian Eno (English, 1948) is one of the giants of late 20th-century music, both as a producer and as an experimental artist. If you don't know him already, you've read the bio in the article, which I won't repeat.
 
 ...but one detail I'll add is Eno composed the startup sound for Windows, so every time PC users turned on their computers, they would hear an Eno composition. And the hilarious thing is that he made it on a Mac.

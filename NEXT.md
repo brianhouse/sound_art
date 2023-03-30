@@ -66,4 +66,14 @@ do we ever use the recorders? or a computer?
 this is "Sound as Material"
 
 Pd stuff goes to Electronic Instruments
+include breakpoint function / curve
+amen break in a sampler
+
+unfortunately, I think there's a question of whether Pd is going to work going forward, as it's very bugging on a few people's computers
+
+this could all be in Max, but what a pain.
+purrData?
+https://plugdata.org ?
+
+
 
