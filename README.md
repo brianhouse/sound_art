@@ -208,12 +208,14 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 4/10
 - Systems project: final critique
+- Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
+- Check out amplifiers!
 
 
 #### Wednesday 4/12
 - Artist presentations 8
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
-- Introduction to [speakers](https://github.com/brianhouse/sound_art/blob/main/lectures/11_speakers.md)
+- Speaker workshop
 - Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)
 
 
@@ -224,8 +226,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 4/19
 - Artist presentation 9
 - Reading due: [Christoph Cox, "Sound Art in America"](https://github.com/brianhouse/sound_art/blob/main/readings/cox_sound_art_in_america.pdf)
-- Speaker workshop
 - Situated Sound project: proposals
+- Speakers, continued
 <!-- - Begin [Exercise 3-1](https://github.com/brianhouse/sound_art/blob/main/exercises/3-1.md) -->
 
 

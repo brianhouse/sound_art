@@ -77,3 +77,9 @@ https://plugdata.org ?
 
 
 
+####
+
+Here’s a good video about the Beasley piece:
+https://m.youtube.com/watch?v=yY-ANGQASKs
+I show it to students sometimes
+
