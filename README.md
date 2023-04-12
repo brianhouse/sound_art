@@ -213,7 +213,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 4/12
-- Artist presentations 8
+- Artist presentations 8 (Kai)
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice"](https://github.com/brianhouse/sound_art/blob/main/readings/cluett_the_loudspeaker.pdf)
 - Speaker workshop
 - Begin [Situated Sound](https://github.com/brianhouse/sound_art/blob/main/projects/3_situated_sound.md)

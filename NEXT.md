@@ -36,6 +36,31 @@ add comport install to sensors lecture
 
 
 
+use line as a breakpoint, or breakpoints in general, for change over time
+this is in sequencing
+
+adsr over the audioclip to eliminate clips when selecting sections
+
+textfile
+
+udp
+
+
+definitely use plugdata, I'm psyched. but have to change the name of output~ and figure out import paths, because it conflicts with cyclone and that is bundled
+
+question in the course if we're putting this on raspi, it also has to work in vanilla, right?
+
+
+plugdata issues to bring up on github:
+- can I remove cyclone etc so we don't get into trouble?
+- help files of external libraries
+
+although maybe it's a question of having piopd as a proper library, I have to look into how to do that
+
+definitely reinstall from whatever is on this machine
+
+the fact that it works as a plugin with a DAW is very useful, is that part of the course?
+
 
 ### future v1
 
@@ -54,19 +79,31 @@ replace lectures with building activities. ie, make a turntable. make a spatial 
 
 - keep the soundmaps
 - something about spatialization and ears -- get some hearing test equipment? hell yeah.
-- then they build a turntable to learn about transduction
-- then they build their own microphones (and coils, and piezos) -- (how feasible is real mics?)
-- then they use magnetic tape to splice and layer (walkmans)
-- then we do some oscillators and shit from Nic Collins
+- then they build a turntable to learn about transduction (or skip to focus on tape?)
+- then they build their own speakers and microphones (and coils, and piezos) -- (how feasible is real mics?)
+- then they use magnetic tape to splice and layer (walkmans) -- diy reel to reel?
 - speakers and feedback
+- then we do some oscillators and shit from Nic Collins
 - digital recording and audacity -- something about sampling/remixing etc, ie source material
 
 do we ever use the recorders? or a computer?
 
 this is "Sound as Material"
 
+full set is speakers, mics, amps, transducers, tape and/or turntable
+(ideally we can do this with batteries rather than wall power)
+the cassette tape needs record and playback -- ideally separated from the housing
+if these are a combined head ... can they be mounted separately? like can I get a line of playback heads?
+https://www.instructables.com/DIY-Cassette-Tape-Echo/
+(more on youtube)
+
+build a sampler with short loops and old tapes (resetting the tape would be hard)
+
+
+//
+
 Pd stuff goes to Electronic Instruments
-include breakpoint function / curve
+include breakpoint function / curve -- have to actually teach narrative, layers, depth if that's what I want in the results
 amen break in a sampler
 
 unfortunately, I think there's a question of whether Pd is going to work going forward, as it's very bugging on a few people's computers
