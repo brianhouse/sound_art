@@ -22,6 +22,7 @@
 - Alvin Lucier
 - La Monte Young
 - Petr Válek Doma
+- Susie Ibarra
 - Tony Conrad
 - Tarek Atoui
 - Jacob Kierkegaard

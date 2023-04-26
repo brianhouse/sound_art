@@ -120,3 +120,36 @@ Here’s a good video about the Beasley piece:
 https://m.youtube.com/watch?v=yY-ANGQASKs
 I show it to students sometimes
 
+
+
+###
+
+future format:
+
+have a series of workshops introducing each material, with an exercise (or two) due for each one
+
+have three or four projects stretching over the semester that have conceptual (but not material) briefs
+
+have more artist presentations, but focus them on individual artworks (have a list of 30 artworks to pick from)
+
+maybe limit the readings to a few in the beginning or end? or one per workshop? or have a student introduce a reading and have questions to lead discussion
+
+interleave these things, with the idea that there is "free time" in class to be working with materials. (_could_ potentially then increase class time to 3 hrs)
+
+ideally there is space in the studio for students to leave stuff (and then only one materials-based course a semester, making the other theory or code)
+
+[as an aside, also need to get a monitor mounted for displaying work somewhere, whether downstairs or in the hall upstairs]
+
+be very careful to avoid narrative
+
+
+
+/
+
+on the one hand, would be amazing for it to be 100% analog, close your computers
+on the other, maybe playback triggering with feathers would be essential to a real situated sound assignment
+
+
+
+
+
