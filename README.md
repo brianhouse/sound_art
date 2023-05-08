@@ -260,6 +260,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Return Tascam recorder, pickups, and amplifier. You can keep speakers if you'd like, but please return them as well otherwise. Receiving a final grade is dependent on returning the materials.
 
 
-(No meetings or work due during exam week)
+(No meetings during exam week; final documentation is due)
 
 

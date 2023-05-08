@@ -151,5 +151,19 @@ on the other, maybe playback triggering with feathers would be essential to a re
 
 
 
+/
 
+making enclosures out of boxes would be great just on its own
+
+/
+
+a "sound sculpture" (or even just a box that opens) is great project
+
+an object, an installation, a track, a performance -- these really broad categories could be useful
+
+working with servos is not at all incidental. the speaker is one thing, transducers are another, actuators are a third
+
+sensors also relevant. presence, sound level, that's about it.
+
+assignment: bring in an object and activate it
 

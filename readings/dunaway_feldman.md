@@ -11,6 +11,8 @@ but curation does guide the canon in important ways
 
 ### Dunaway (2020)
 
+Maggi Payne, Connie Beckley, and Julia Heyward featured in 1979 by Barbara London at MoMA
+
 Laurie Anderson’s Handphone Table (1978)
 
 affordability of technology as a vehicle that allowed women to circumvent the system.
@@ -21,8 +23,11 @@ Maggie Payne
 dusk https://www.youtube.com/watch?v=E5InEEzpwLQ
 earthrise
 
+Julia Heyward
 https://vimeo.com/109624845
 
+
+In the Sound Art exhibition, Barbara London stakes out three main tributaries of the large and murky flow of what was then and has since then been called “sound art”: 
 
 (1) sound sculpture/installation via the visual art tradition, often with music used only as a component in a larger examination of sound,
 (2) multispeaker sound installation via the academic music tradition, as a way to create an immersive sound experience outside the concert hall,
