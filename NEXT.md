@@ -155,6 +155,8 @@ on the other, maybe playback triggering with feathers would be essential to a re
 
 making enclosures out of boxes would be great just on its own
 
+seriously, this is almost essential. but not just boxes, get a found object. field trip to the bins? oh wait, that's portland.
+
 /
 
 a "sound sculpture" (or even just a box that opens) is great project
@@ -166,4 +168,60 @@ working with servos is not at all incidental. the speaker is one thing, transduc
 sensors also relevant. presence, sound level, that's about it.
 
 assignment: bring in an object and activate it
+
+
+/
+
+a blindfolded exercise, for navigating by sound
+(better for sound + space?)
+
+/
+
+thinking "Sound Art" might stay. Sound as Material is weirder.
+
+
+/
+
+really have to do a whole unit on documentation
+
+tripods, man. and how to sync. digital tools for documentation, for sure.
+
+need to get lights. not spots, but those even LED things.
+
+--> the point is excellent work in my student portfolio
+
+
+fyi, sterne's syllabi are online
+
+
+tone generator / filters
+
+
+
+//////
+
+
+units/workshops:
+
+- piezos (vitiello)
+- pickups (kubisch)
+- transducers (tudor)
+- solenoids (zimoun)
+- tape loops (basinski? portland guy?)
+- speakers + enclosures
+- deep listening (oliveros)
+- soundscape maps (schafer)
+- oscillators
+- audiometers
+- feedback / noinput
+- binaural / headphones (cardiff)
+- cymatics
+
+can be an artist reading with each one
+
+I think three big projects, is there a brief, or no?
+
+
+
+going to need small amps
 

@@ -19,6 +19,7 @@
 - Bill Fontana
 - Christian Marclay
 - Daphne Oram
+- Bonnie Jones
 - Alvin Lucier
 - La Monte Young
 - Petr Válek Doma
@@ -61,6 +62,7 @@
 - Scanner
 - BJ Nilsen
 - Francis Alÿs
+- Marcus Fischer
 - Jacek Smolicki
 - R. Luke DuBois
 - Kelly Dobson
