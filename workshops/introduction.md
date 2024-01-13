@@ -27,6 +27,10 @@
     - I am however going to be teaching some basic skills in digital audio
     - there will also be an emphasis on reading and discussion
 
+
+materiality
+transduction
+
 Questions before we get into the syllabus?
 
 ## Moodle + Syllabus

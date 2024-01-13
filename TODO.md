@@ -39,24 +39,7 @@ projects:
 
 
 
-## readings
-
-good ones are
-
-labelle
-cox
-cascone
-cluett
-oliveros
-westerkamp
-
-new
-kwon
 
 
 
-not good
-lopez
-miller
-eno
 
