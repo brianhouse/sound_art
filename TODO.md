@@ -1,20 +1,62 @@
-## schedule
-
-go over the project briefs
+# TODO
 
 
+- moodle
+- compile and order materials
+
+- download documentation of all viewing pieces
+
+- fill in content stuff
+
+## content
+
+students present those pieces
+and maybe readings too
 
 
-## ordering
+workshops:
+- hearing.md
+- recording.md (simplify?) -- the digital waveform is not the same shape as the actual sphere
+- editing.md + arranging.md (simplify)
+- contact_mics.md   (+ soldering)
+- coils.md
+- speakers.md
+- amplifiers.md
+- vector drawing
+- laser cutting
 
-begin with electronics (breadboards, sensors, wires, piezos)
-
-order small mixers
-https://www.bhphotovideo.com/c/product/1086839-REG/mackie_mix8_8_channel_compact_mixer.html
-
-microphones?
-
-walkmans?
+exercises:
+- audiometer.md
+- acoustic vinette
+- non-acoustic sound
+- resonating bodies
+- cool box
 
 
-### nexts
+projects:
+- review and edit soundscapes
+- Sound Object -- (include a situated component)
+
+
+
+## readings
+
+good ones are
+
+labelle
+cox
+cascone
+cluett
+oliveros
+westerkamp
+
+new
+kwon
+
+
+
+not good
+lopez
+miller
+eno
+

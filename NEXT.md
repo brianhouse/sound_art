@@ -6,9 +6,6 @@
 statements in crit examples should be sound art, not media art
 
 
-#### Audacity
-
-For those of you that still cannot load .m4a files into Audacity, you'll need to install the FFMPEG libraries for Mac (https://lame.buanzo.org/lame_64bit_osx.pkg) or PC (https://lame.buanzo.org/ffmpeg-win-2.2.2.zip). Do this and then restart Audacity, and the import should work. If not, let me know and we can work through it during office hours.
 
 
 #### Soundscape
@@ -18,48 +15,6 @@ what it becomes is an exercise in narrative, but we haven't prepped narrative at
 if this gets broken out to become a project in Sound + Space, make it a strict 3min _loop_ that's four channel, and start it at a random place. ie, narrative goes away.
 
 
-#### Pd
-
-
-missing help files for:
-audioclip~
-sampler~
-peak~
-pitch~
-smoother
-unsig~
-mute~
-piano
-scope~
-
-add comport install to sensors lecture
-
-
-
-use line as a breakpoint, or breakpoints in general, for change over time
-this is in sequencing
-
-adsr over the audioclip to eliminate clips when selecting sections
-
-textfile
-
-udp
-
-
-definitely use plugdata, I'm psyched. but have to change the name of output~ and figure out import paths, because it conflicts with cyclone and that is bundled
-
-question in the course if we're putting this on raspi, it also has to work in vanilla, right?
-
-
-plugdata issues to bring up on github:
-- can I remove cyclone etc so we don't get into trouble?
-- help files of external libraries
-
-although maybe it's a question of having piopd as a proper library, I have to look into how to do that
-
-definitely reinstall from whatever is on this machine
-
-the fact that it works as a plugin with a DAW is very useful, is that part of the course?
 
 
 ### future v1
@@ -102,15 +57,6 @@ build a sampler with short loops and old tapes (resetting the tape would be hard
 
 //
 
-Pd stuff goes to Electronic Instruments
-include breakpoint function / curve -- have to actually teach narrative, layers, depth if that's what I want in the results
-amen break in a sampler
-
-unfortunately, I think there's a question of whether Pd is going to work going forward, as it's very bugging on a few people's computers
-
-this could all be in Max, but what a pain.
-purrData?
-https://plugdata.org ?
 
 
 
@@ -203,25 +149,36 @@ tone generator / filters
 
 units/workshops:
 
-- piezos (vitiello)
-- pickups (kubisch)
-- transducers (tudor)
-- solenoids (zimoun)
-- tape loops (basinski? portland guy?)
-- speakers + enclosures
-- deep listening (oliveros)
-- soundscape maps (schafer)
-- oscillators
+- deep listening (oliveros) in class
+- soundscape maps (schafer) as homework, or maybe first assignment?
 - audiometers
-- feedback / noinput
+
+- digital recorders + editing in audacity (DR-05X)
+
+# materials with which to make sound art objects
+- piezos (vitiello)  -- build our own (DR-05X)
+- pickups (kubisch)  -- build our own (DR-05X) https://www.instructables.com/Make-A-Guitar-Pickup/
+- transducers (tudor) -- build our own (DR-05X)
+- solenoids and motors (zimoun) -- buy, need arduinos also? https://www.instructables.com/Controlling-solenoids-with-arduino/
+- + sensor
+- oscillators
+
+- laser cutter
+
+- tape loops (basinski? portland guy?)
+- speakers + enclosures  -- transform a found object? or is this covered by transducers?
+
+
+https://esp32io.com/tutorials/esp32-solenoid-lock
+
+//
+
 - binaural / headphones (cardiff)
 - cymatics
 
 can be an artist reading with each one
 
 I think three big projects, is there a brief, or no?
-
-
 
 going to need small amps
 
