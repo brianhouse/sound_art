@@ -11,7 +11,7 @@ Fayerweather 308
 
 
 ## Course Description
-This course explores sound as a medium of art-making with a rich history and radical potential within contemporary culture. Techniques covered will include listening exercises and non-musical scores, creative manipulation of analog media, and building lo-fi electronics. Accompanying readings draw from acoustic ecology, critical sound studies, afro-futurism, and media theory to contextualize collective exploration. Students will be expected to create studio-based art for critique. No musical experience is required.
+This course explores sound as a medium of art-making with a rich history and radical potential within contemporary culture. Techniques covered will include listening exercises and non-musical scores, creative manipulation of analog media, and building lo-fi electronics. Accompanying readings draw from acoustic ecology, critical sound studies, and media theory to contextualize collective exploration. Students will be expected to create studio-based art for critique. No musical experience is required.
 
 #### Objectives
 - Incorporate sound and listening into studio practice
@@ -23,21 +23,19 @@ This course explores sound as a medium of art-making with a rich history and rad
 ## Assignments and Grading
 
 ### Workshops
-Over the course of the semester, there will be many hands-on workshops in class. These workshops are the basis for learning the technical skills you will apply to your projects. Each will include an exercise to be completed.
-
+Over the course of the semester, there will be many hands-on workshops in class. These workshops provide a material understanding of the subject matter and establish the technical skills that you will apply to your projects.
 
 ### Exercises
-Due the next class
-
+Most workshops conclude with exercise to be done as homework. You will present these exercises to the class in the following class session, but they will not be critiqued. Your attention should be on technical experimentation and development rather than demonstrating a particular concept. Audio exercises will need to be turned in via Moodle; physical objects must be brought to the classroom. No late exercises will be accepted.
 
 ### Projects
-This course is built around four projects completed over the course of the semester, which will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. Projects must have a title and [3-sentence description](https://github.com/brianhouse/sound_art/blob/master/resources/description_guidelines.md), which must be turned in via Moodle along with a documentation video. As work is evaluated via in-class crit, no late work can be accepted.
+You will complete three larger projects over the course of the semester, each of which will use a different technical approach as developed in the workshops and exercises. These projects must have a strong conceptual component as informed by the readings and artistic examples discussed in class. These projects will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. All projects must be well documented. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### Presentations
-Each student will give a 10-minute presentation on an influential work of sound art. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork chosen from [a list](resources/artworks.md) on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
+Over the course of the semester, each student will give a 10-minute presentation on an influential work of sound art. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
 
 ### Reading
-Most classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready. Post a short response (1-3 sentences) online before class (asking a question about something you didn't understand is an excellent use of a post).
+Many classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready—post these on Moodle ahead of the class session. Students [sign up to lead discussion](https://docs.google.com/spreadsheets/d/1Tlg_v_iKP1pUb0vhjd9k6T_N85KkhZCBdcLLTwvjz1g/edit)nce over the course of the semester.
 
 ### Participation
 Attending all class sessions is mandatory, and motivated and mindful participation in crit and classroom discussion is expected.
@@ -78,30 +76,33 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 1/29
 - Course introduction
 - Workshop: [Listening](workshops/listening.md)
-- Exercise: [Soundmaps](exercises/soundmaps.md)
+
 
 #### Wednesday 1/31
-- [Critique](resources/crit_guidelines.md) Soundmaps
-<!-- sign up for presentations (they can pick an artist later) -->
+- Reading due: [Pauline Oliveros, "Deep Listening", excerpts (2003)](readings/oliveros_deep_listening.pdf)
+<!-- sign up for presentations now in class (they can pick an artist later) -->
+<!-- brief reading discussion -->
+- Workshop: [Hearing](workshops/hearing/hearing.md)
 - Christine Sun Kim, _Captioning the City_ (2021)
-- Workshop: [Transduction: acoustics and the ear](workshops/hearing.md)
-- Exercise: [Audiometer]
+- In-class reading: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
+- Exercise: [Soundmaps](exercises/soundmaps.md)
 
 
 ### Week 2 — Acoustic Recording
 
 #### Monday 2/5
-- Reading due: [Pauline Oliveros, "Deep Listening", excerpts (2003)](readings/oliveros_deep_listening.pdf)
+- [Critique](resources/crit_guidelines.md) Soundmaps
+<!-- wont usually critique exercises, but this is practice -->
 - Rebecca Belmore, _Ayum-ee-aawach Oomama-mowan: Speaking to their Mother_ (1991)  <!-- sculpture -->
-- Audiometer followup
+- Check out TASCAM recorders
 - Workshop: [Recording](workshops/recording.md)
-- Recording practice
+- Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
 #### Wednesday 2/7
 - Reading due: [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)  <!-- or better, Annea Lockwood -->
-- Workshop: [Editing with Audacity](workshops/editing.md)
-- Exercise: [Acoustic Vignette](exercises/acoustic_vignette.md)
+- Workshop: [Editing](workshops/editing.md)
+- Exercise for next class: [Acoustic Vignette](exercises/acoustic_vignette.md)
 
 
 ### Week 3 — Beyond Acoustics
@@ -117,7 +118,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Brandon Labelle, "Auditory Relations" (2006)](readings/labelle_auditory_relations.pdf)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
 - Workshop: [Electromagnetic Coils](workshops/coils.md)
-- Exercise: [Non-Acoustic Vignette](exercises/non-acoustic_vignette.md) 
+- Exercise for next class: [Non-Acoustic Vignette](exercises/non-acoustic_vignette.md) 
 
 
 ### Week 4 — Soundscapes
@@ -129,7 +130,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 2/21
-- Reading due: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
+- Reading due: 
 - Ernst Karel, _Heard Laboratories_ (2010)
 - Present proposals for Soundscape project
 
@@ -155,7 +156,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Transducers](workshops/transducers.md)
-- Exercise: [Resonating Bodies](exercise/resonating_bodies.md)
+- Exercise for next class: [Resonating Bodies](exercise/resonating_bodies.md)
 
 
 ### Week 7 — Fabrication
@@ -168,7 +169,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 3/13
 - Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](kwon_genealogy_of_site_specificity.pdf)
 - Shilpa Gupta, _I keep falling at you_ (2010)
-- Exercise: [Cool Box](exercise/cool_box.md)
+- Exercise for next class: [Cool Box](exercise/cool_box.md)
 
 
 ### Spring Break
@@ -210,7 +211,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
 - Workshop: Variable resistors
-- Exercise: Responsive Oscillators
+- Exercise for next class: Responsive Oscillators
 
 
 ### Week 11 — Sequencers

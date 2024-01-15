@@ -1,12 +1,26 @@
 # TODO
 
-
-- moodle
+- workshops
 - compile and order materials
 
-- download documentation of all viewing pieces
+- projects + exercises
 
-- fill in content stuff
+- moodle
+
+- download documentation of all example pieces
+
+- materials organization and ordering
+
+- populate the signup sheet
+
+- print: deafness article and audiometry worksheet
+
+- schedule check out of recorders
+
+need another soundscape reading!
+
+preferrably indigenous
+
 
 ## content
 
