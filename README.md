@@ -25,7 +25,7 @@ This course explores sound as a medium of art-making with a rich history and rad
 Over the course of the semester, there will be many hands-on workshops in class. These workshops provide a material understanding of the subject matter and establish the technical skills that you will apply to your projects.
 
 ### Exercises
-Most workshops conclude with exercise to be done as homework. You will present these exercises to the class in the following class session, but they will not be critiqued. Your attention should be on technical experimentation and development rather than demonstrating a particular concept. Audio exercises will need to be turned in via Moodle; physical objects must be brought to the classroom. No late exercises will be accepted.
+Most workshops conclude with exercise to be done as homework. You will present these exercises to the class in the following class session, but they will not be critiqued. Your attention should be on technical experimentation and development rather than demonstrating a particular concept. Audio exercises will need to be turned in via Moodle; physical objects must be brought to the classroom as well as video documentation uploaded to Moodle. No late exercises will be accepted.
 
 ### Projects
 You will complete three larger projects over the course of the semester, each of which will use a different technical approach as developed in the workshops and exercises. These projects must have a strong conceptual component as informed by the readings and artistic examples discussed in class. These projects will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. All projects must be well documented. As work is evaluated via in-class crit, no late work can be accepted.
@@ -210,7 +210,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
 - Workshop: Variable resistors
-- Exercise for next class: Responsive Oscillators
+- Exercise for next class: [Responsive Oscillators](exercise/responsive_oscillators.md)
 
 
 ### Week 11 — Sequencers

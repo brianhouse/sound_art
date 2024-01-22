@@ -1,4 +1,4 @@
-# Recording
+# Exercise: Capturing Place
 
 Find a site to record (it doesn't have to be the same as the site you used for your soundmap project) and record it from a few different perspectives for about a minute or so each time. Pay attention to how the mic placement affects the results when you listen back with headphones. Remember that your ears are very good at paying attention to soft sounds in the distance, but the microphone is not. Get up close to things so that you have a mixture of background and foreground sounds with some discrete sound events. Choose your favorite version to turn in on Moodle. 
 
