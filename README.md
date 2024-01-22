@@ -9,7 +9,6 @@ Office hours: [https://calendly.com/bhouse-amherst/student-meeting](https://cale
 Fayerweather 308
 
 
-
 ## Course Description
 This course explores sound as a medium of art-making with a rich history and radical potential within contemporary culture. Techniques covered will include listening exercises and non-musical scores, creative manipulation of analog media, and building lo-fi electronics. Accompanying readings draw from acoustic ecology, critical sound studies, and media theory to contextualize collective exploration. Students will be expected to create studio-based art for critique. No musical experience is required.
 
