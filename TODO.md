@@ -2,12 +2,16 @@
 
 - content (below)
 - compile and order materials
-- get everything on moodle
-- download documentation of all example pieces
 - populate the signup sheet(s)
+- download documentation of all example pieces
+
 - first class print: deafness article and audiometry worksheet
-- schedule check out of recorders with josh
 - need another soundscape reading! preferrably indigenous
+- ..and do that other reading
+- add in midterm meetings
+/
+- schedule check out of recorders with josh
+
 
 ## content
 
@@ -32,3 +36,8 @@ projects:
 
 
 Daniel Fishkin, _Solar Sounders_ (2021)
+
+
+## As we go
+
+take photos to add to the guide for next time
