@@ -2,16 +2,17 @@
 
 - first class print: deafness article and audiometry worksheet
 
-- populate the signup sheet(s)
-- download documentation of all example pieces
-
 - content (below)
 - compile and order materials
 
-
-
 /
-- confirm check out of recorders with josh
+- send roster to Josh
+
+
+WEEKLY ON TUESDAYS:
+- check reading
+- make sure media is there for the examples
+
 
 ## reading
 
