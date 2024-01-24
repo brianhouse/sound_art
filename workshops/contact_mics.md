@@ -16,7 +16,7 @@
 
 ## Soldering
 
-1. DON'T TOUCH THE METAL PART—IT'S HOT AND WILL BURN!
+1. **DON'T TOUCH THE METAL PART—IT'S HOT AND IT WILL BURN YOU!**
 1. Solder contains small amounts of lead, so don't solder if you are pregnant, and wash your hands afterwards 
 1. Try not to breathe the smoke, which is not lead (small amounts will not hurt you)
 

@@ -93,7 +93,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Check out TASCAM recorders
 - [Critique](resources/crit_guidelines.md) Soundmaps
 <!-- wont usually critique exercises, but this is practice -->
-- Rebecca Belmore, _Ayum-ee-aawach Oomama-mowan: Speaking to their Mother_ (1991)  <!-- sculpture -->
+- Rebecca Belmore, _Wave Sound_ (2017)  <!-- sculpture -->
 - Workshop: [Recording](workshops/recording.md)
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
@@ -129,7 +129,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 2/21
-- Reading due: 
+- Reading due: Dylan Robinson, "Hungry Listening" (2020)
 - Ernst Karel, _Heard Laboratories_ (2010)
 - Present proposals for Soundscape project
 
@@ -185,6 +185,10 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Kevin Beasley, _A View of a Landscape_ (2019)
 - Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
 - Present proposals for Sound Object project
+<!-- prep for midterm meetings -->
+
+#### Thursday 3/28
+- Steven Feld, TBD 
 
 
 ### Week 9 — Sound Objects continued
@@ -192,6 +196,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/1
 - Nam June Paik, _Random Access_ (1963)
 - Work time
+- Midterm Meetings
 
 #### Wednesday 4/3
 - Camille Norment, _Plexus_ (2022)
@@ -203,11 +208,12 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 4/8
 - Critique Sound Object projects
-- Tristan Perich, _1-Bit Symphony_
+- Daniel Fishkin, _Solar Sounders_ (2021)
+<!-- Tristan Perich, _1-Bit Symphony_ (2010) -->
 - Workshop: Oscillators
 
 #### Wednesday 4/10
-- Reading: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
+- Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
 - Workshop: Variable resistors
 - Exercise for next class: [Responsive Oscillators](exercise/responsive_oscillators.md)
@@ -229,7 +235,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Begin Synthesis project
 
 #### Wednesday 4/24
-- Reading: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
+- Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
 - Zimoun, cardboard box installations (2000s)
 - Proposals due
 

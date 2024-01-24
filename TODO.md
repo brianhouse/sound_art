@@ -1,16 +1,28 @@
 # TODO
 
-- content (below)
-- compile and order materials
+- first class print: deafness article and audiometry worksheet
+
 - populate the signup sheet(s)
 - download documentation of all example pieces
 
-- first class print: deafness article and audiometry worksheet
-- need another soundscape reading! preferrably indigenous
-- ..and do that other reading
-- add in midterm meetings
+- content (below)
+- compile and order materials
+
+
+
 /
-- schedule check out of recorders with josh
+- confirm check out of recorders with josh
+
+## reading
+
+read and notes for:
+- mills
+- cox
+- krause
+- kwon
+- henriques
+- robinson
+
 
 
 ## content
@@ -35,9 +47,10 @@ projects:
 - Sythesis
 
 
-Daniel Fishkin, _Solar Sounders_ (2021)
-
 
 ## As we go
 
 take photos to add to the guide for next time
+
+
+fred moten
