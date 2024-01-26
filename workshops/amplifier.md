@@ -4,17 +4,16 @@
 ## Background
 
 
-
 ## Materials
 
 - MAX98306 Solid-state amplifer board (pre-assembled) + gain jumper
 - 1/8" TRS audio cable connector
+- 1/8" TRS (stereo) audio cable
 - 3x AAA battery pack + batteries
 - mini breadboard
 - solid core jumper wire
 - stranded wire
 - terminal blocks
-- 1/8" TRS (stereo) audio cable
 - \>= 4ohm / >= 3 watt speakers
 
 Equipment:

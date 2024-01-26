@@ -85,7 +85,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Hearing](workshops/hearing/hearing.md)
 - Christine Sun Kim, _Captioning the City_ (2021)
 - In-class reading: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
-- Exercise: [Soundmaps](exercises/soundmaps.md)
+- Exercise for next class: [Soundmaps](exercises/soundmaps.md)
 
 
 ### Week 2 — Acoustic Recording
@@ -117,7 +117,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 2/14
 - Reading due: [Brandon Labelle, "Auditory Relations" (2006)](readings/labelle_auditory_relations.pdf)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
-- Workshop: [Electromagnetic Coils](workshops/coils.md)
+- Workshop: [Inductors](workshops/inductors.md)
 - Exercise for next class: [Non-Acoustic Vignette](exercises/non-acoustic_vignette.md) 
 
 

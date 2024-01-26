@@ -1,9 +1,8 @@
-# Electromagnetic Coils
+# Inductors
 
 ### Materials
-- Bar Magnets
-- Wrapping Wire
-- Double sided tape
+- Split-core ferrite magnet (cable noise suppressor)
+- 28 AWG Enameled Magnet Wire
 - 1/8" TS (mono) cable
 - Solder
 - Electrical Tape

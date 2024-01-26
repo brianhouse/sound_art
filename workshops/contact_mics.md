@@ -16,12 +16,11 @@
 
 ## Soldering
 
+![](media/contact_mic_0.jpg)
 1. **DON'T TOUCH THE METAL PART—IT'S HOT AND IT WILL BURN YOU!**
 1. Solder contains small amounts of lead, so don't solder if you are pregnant, and wash your hands afterwards 
 1. Try not to breathe the smoke, which is not lead (small amounts will not hurt you)
-
-
-1. put it back in the holder—nowhere else!
+1. If the soldering iron isn't in your hand, put it back in its holder—nowhere else!
 1. heat to 650
 
 ### If You Burn Yourself
@@ -29,7 +28,15 @@
 1. Keep the burn under cool running water for 5 minutes
 1. Don't apply any creams or ointments
 1. Cover with a bandaid to protect it
-1. If the skin breaks, go see the Health Center (Open Monday–Friday 8:30am–5pm except Wednesdays 8:30–10am and 1–2pm)
+1. If the skin breaks, go see the Health Center  
+(Open Monday–Friday 8:30am–5pm except Wednesdays 8:30–10am and 1–2pm)
+
+wet the sponge
+
+make sure it's turned off
+
+if it's very bad, we call
+
 
 
 ## Instructions
