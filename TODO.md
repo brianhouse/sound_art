@@ -10,7 +10,6 @@
 /
 - studio rules poster
 - draftboard signout sheet
-- dead battery box
 /
 - check the plasti-dip!
 - get mp3 players if it works!

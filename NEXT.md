@@ -8,3 +8,4 @@ can we do something hands on instead? turntables? can it be a way of teaching tr
 
 
 What if we use bodies to make a recording system?
+
