@@ -108,6 +108,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 3 — Beyond Acoustics
 
 #### Monday 2/12
+<!-- Heather brings keys? -->
 - Listen to Editing exercise
 - Steven Vitiello, _World Trade Center Recordings_ (1999)
 - Soldering overview

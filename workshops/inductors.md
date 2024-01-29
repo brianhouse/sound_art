@@ -1,7 +1,7 @@
 # Inductors
 
 ### Materials
-- Split-core ferrite magnet (cable noise suppressor)
+- 13mm Split-core ferrite magnet (cable noise suppressor)
 - 28 AWG Enameled Magnet Wire
 - 1/8" TS (mono) cable
 - Solder
@@ -25,4 +25,5 @@
 ## how it works
 
 
-https://www.amazon.com/Telephone-Microphone-Suction-Cup-Pickup/dp/B0034I75IK
+<!-- http://www.unterzuber.com/tap.html -->
+<!-- https://www.amazon.com/Telephone-Microphone-Suction-Cup-Pickup/dp/B0034I75IK -->

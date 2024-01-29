@@ -23,6 +23,8 @@
 /
 - send roster to Josh
 
+- e-Reserves
+
 
 WEEKLY ON TUESDAYS:
 - check reading
@@ -75,14 +77,12 @@ fred moten
 
 ## materials
 
-cutting mats
-
 
 sleeves
 
 stranded block ends
 
-
+https://www.digikey.com/en/products/detail/eaton-electronics-division/EM250502V/3526076?s=N4IgTCBcDaIKIFkwFYAMawDUQF0C%2BQA
 
 
 ## stock

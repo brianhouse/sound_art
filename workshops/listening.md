@@ -13,9 +13,8 @@ For six minutes, write down every sound you can hear. Put each one on a new line
 - Note any sounds other people heard that you may have missed
 - What are some categories for these sounds' sources?
 
-
 <!-- 
-Do this on a whiteboard:
+- Do this on a whiteboard:
     - Inside your own body
     - Your body moving other things
     - Other peoples' bodies
@@ -51,7 +50,7 @@ Do this on a whiteboard:
     - Concerning / benign
     - Background / foreground
     - Relaxing <-> exciting / depressing <-> irritating
-    - –> annotate your sound list with how you feel about the sounds
+    - –> annotate your sound list with how you feel about the sounds 
 -->
 
 ### Repeat
