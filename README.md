@@ -80,17 +80,19 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 1/31
 - Reading due: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
-<!-- sign up for presentations now in class -->
 <!-- brief reading discussion -->
 - Christine Sun Kim, _Captioning the City_ (2021)
-- Workshop: [Hearing](workshops/hearing/hearing.md) <!-- audiometry first, reflections: does everyone hear the same? --> <!-- pass out Oliveros so waiters have something to do -->
+- Workshop: [Hearing](workshops/hearing/hearing.md) <!-- audiometry first; pass out Oliveros now so waiters have something to do -->
 - In-class reading: [Pauline Oliveros, "Deep Listening", excerpts (2003)](readings/oliveros_deep_listening.pdf)
 - Exercise for next class: [Soundmaps](exercises/soundmaps.md)
+<!-- sign up for presentations now in class!! -->
 
 
 ### Week 2 — Acoustic Recording
 
 #### Monday 2/5
+<!-- Rick Mears! -->
+<!-- sign up for presentations now if you forgot -->
 - Check out TASCAM recorders
 - [Critique](resources/crit_guidelines.md) Soundmaps
 <!-- wont usually critique exercises, but this is practice -->
