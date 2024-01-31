@@ -1,9 +1,5 @@
 # TODO
 
-- first class print: deafness article and audiometry worksheet
-- check ferrite cores
-
-//
 
 - content (below)
 - compile and order materials
@@ -33,7 +29,6 @@ WEEKLY ON TUESDAYS:
 ## reading
 
 read and notes for:
-- mills
 - cox
 - krause
 - kwon

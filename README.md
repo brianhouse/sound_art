@@ -82,8 +82,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
 <!-- sign up for presentations now in class -->
 <!-- brief reading discussion -->
-- Workshop: [Hearing](workshops/hearing/hearing.md)
 - Christine Sun Kim, _Captioning the City_ (2021)
+- Workshop: [Hearing](workshops/hearing/hearing.md) <!-- audiometry first, reflections: does everyone hear the same? --> <!-- pass out Oliveros so waiters have something to do -->
 - In-class reading: [Pauline Oliveros, "Deep Listening", excerpts (2003)](readings/oliveros_deep_listening.pdf)
 - Exercise for next class: [Soundmaps](exercises/soundmaps.md)
 

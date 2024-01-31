@@ -2,10 +2,8 @@
 
 ## Intro
 
-too much talking. the ear cleaning is good, but it's a buzzkill.
+can the intro be a way of teaching transduction, rather than listening? use bodies to make a recording system?
 
-can we do something hands on instead? turntables? can it be a way of teaching transduction?
+/
 
-
-What if we use bodies to make a recording system?
-
+there should be something more interesting about the size and nature of sound waves. could that be the hand-on workshop?

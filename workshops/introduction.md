@@ -1,31 +1,30 @@
 # Introduction
-
+<!-- dont overtalk -->
 
 ## Introductions
-- Name / pronouns / favorite sound from a machine
+- Name / pronouns
 
 ## Exercise
-- [0.md](.workshops/listening.md)
+- [Listening](listening.md)
 
-## lecture-ish
-- The exercise leads to a more fundamental question, which is, what is sound?
-- (Some version of, "movement that we can hear")
+## The Course
 
-- What is studio art?
-
-- So what is sound art?
-    - not one thing
-    - _music_ is a really specialized and highly developed cultural discourse: you have rhythm and harmony, instruments and scores, clubs and concert halls, records, streaming services, genres and subgenres, etc etc
-    - technically speaking, music is undoubtedly sound art, but we're going to deemphasize all of those things that make music what it is
-    - it's back to basics, more or less, when we start thinking about sound as a material for art making
-    - that's not to say there is not a cultural context for doing this, because there is a rich one
-    - it's often experimental musicians who have taken this approach, but it's also anthropologists, computer scientists, and studio artists
-
-- So what is Sound Art as in this specific class at Amherst?
-    - more or less three sections to how we're going to approach things: the first is working with field recordings, the second is digital synthesis, and the third is situating sound in physical space, which are really three interrelated modes of sound art practice
-    - all of you hopefully have a sense of studio practice, and this will be a project-based and crit-based course
-    - I am however going to be teaching some basic skills in digital audio
-    - there will also be an emphasis on reading and discussion
+- What is this course?
+    - A studio class
+        - thinking through materials
+        - process over product
+        - working as a cohort
+        - taking risks
+        - => being "present" and engaging
+    - "Sound Art"
+        - it's studio art in the visual arts tradition that uses sound as material
+        - is music sound art? it's not _not_ sound art—it's a special category with it's own rich context that we can make use of, but which we are not beholden to. 
+        - Sound art is often made by experimental musicians, but also anthropologists, computer scientists, and studio artists
+    - This class
+        - won't cover everything; will focus on the analog electronic elements
+        - field recordings 
+        - working with DIY amplifiers and speakers
+        - circuitry and synthesis
 
 
 Questions before we get into the syllabus?
@@ -38,6 +37,6 @@ Questions before we get into the syllabus?
 
 ## For next class
 - Everyone sign up for a date to present
-- Read the Oliveros piece and leave a response
+- Read Mara Mills' "Deafness" essay and leave a response on Moodle
 
 
