@@ -97,14 +97,14 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - [Critique](resources/crit_guidelines.md) Soundmaps
 <!-- wont usually critique exercises, but this is practice -->
 - Rebecca Belmore, _Wave Sound_ (2017)  <!-- sculpture -->
-- Workshop: [Recording](workshops/recording.md)
+- Workshop: [Recording](workshops/recording/recording.md)
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
 #### Wednesday 2/7
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Reading due: [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
-- Workshop: [Editing](workshops/editing.md)
+- Workshop: [Editing](workshops/editing/editing.md)
 - Exercise for next class: [Acoustic Vignette](exercises/acoustic_vignette.md)
 
 
@@ -115,13 +115,13 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Listen to Editing exercise
 - Steven Vitiello, _World Trade Center Recordings_ (1999)
 - Soldering overview
-- Workshop: [Contact Microphones](workshops/contact_mics.md)
+- Workshop: [Soldering](workshops/soldering/soldering.md) and [Contact Microphones](workshops/contact_mics/contact_mics.md)
 
 
 #### Wednesday 2/14
 - Reading due: [Brandon Labelle, "Auditory Relations" (2006)](readings/labelle_auditory_relations.pdf)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
-- Workshop: [Inductors](workshops/inductors.md)
+- Workshop: [Inductors](workshops/inductors/inductors.md)
 - Exercise for next class: [Non-Acoustic Vignette](exercises/non-acoustic_vignette.md) 
 
 
@@ -155,12 +155,12 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 3/4
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
-- Workshop: [Wiring Speakers](workshops/speakers.md) and [Assembling an Amplifier](workshops/amplifiers.md)
+- Workshop: [Wiring Speakers](workshops/speakers/speakers.md) and [Assembling an Amplifier](workshops/amplifiers/amplifiers.md)
 
 #### Wednesday 3/6
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - David Tudor, _Rainforest_ (1968)
-- Workshop: [Transducers](workshops/transducers.md)
+- Workshop: [Transducers](workshops/transducers/transducers.md)
 - Exercise for next class: [Resonating Bodies](exercise/resonating_bodies.md)
 
 
@@ -169,7 +169,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 3/11
 - Present Resonators
 - Alvin Lucier, _I Am Sitting in a Room_ (1969)
-- Workshop: [Vector Drawing](workshops/vector_drawing.md) and [Laser Cutting](workshops/laser_cutting.md)
+- Workshop: [Vector Drawing](workshops/vector_drawing/vector_drawing.md) and [Laser Cutting](workshops/laser_cutting/laser_cutting.md)
 
 #### Wednesday 3/13
 - Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](kwon_genealogy_of_site_specificity.pdf)

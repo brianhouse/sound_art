@@ -16,16 +16,16 @@ When we say that something "makes a sound," we're saying that something that mov
 
 Sound propagates through air (or other mediums) as a wave. When we say wave, we often think ocean wave, but that's a misleading image, because ocean waves are "transverse waves"—sound waves are "longitudinal" waves, which look like this:
 
-Video: [Longitudinal wave](../media/01_01_longitudinal_wave.mp4)
+Video: [Longitudinal wave](media/longitudinal_wave.mp4)
 
 In this video, imagine that the slinky is air. So the air is compressing and expanding, ie, changing pressure, as the wave travels from one place or another. Here's another view:
 
-![](../media/01_02_longitudinal_wave.gif)
+![](media/longitudinal_wave.gif)
 
 As you can see, an individual particle of air doesn't itself move very far, but the pattern of _compression_ and _rarefaction_ (expansion) does. This view is slightly misleading, however, because sound waves aren't linear. They're more like this:
 
 
-![](../media/01_03_circular_wave.gif)
+![](media/circular_wave.gif)
 
 
 **Of course, we also have to imagine these waves propagating in three dimensions, like a sphere.**
@@ -34,7 +34,7 @@ How fast do sound waves propagate? Well, it depends on the density and temperatu
 
 What happens when these waves run into things? We get:
 
-![](../media/01_04_sound_reflection.jpg)
+![](media/sound_reflection.jpg)
 
 
 What happens when the waves encounter other waves? Similar to like waves in a puddle, you get _interference_ where waves overlap with each other and create a complex three-dimensional topography that we are inhabiting every day. So it is fundamental to keep in mind that sound can radically change as it moves through space, and the sound we hear is dependent on the environment nearly as much as the source of the sound.
@@ -44,7 +44,7 @@ What happens when the waves encounter other waves? Similar to like waves in a pu
 
 When we work with sound, we often depict it as a waveform of _amplitude_ over time. Waveforms _look_ like transverse / ocean waves, so they are a little misleading, because we know it's actually about compression and expansion. But they are useful.
 
-![](../media/01_07_waveform.jpg)
+![](media/waveform.jpg)
 
 The _amplitude_ is the strength of the wave, quite literally the "_volume_" of air that is being moved. Amplitude is typically measured in _decibels_ (dB), which is a units of "sound pressure" (ie, the change in air pressure due to sound).
 
@@ -61,7 +61,7 @@ An 100 Hz sound has a period of 1/100, or 0.01 seconds long. Since we know that 
 
 So what happens when a sound wave reaches our ears? Let's watch a vintage video.
 
-Video: [The Inner Ear](../media/01_08_inner_ear.mp4)
+Video: [The Inner Ear](media/inner_ear.mp4)
 
 If we trace the path from a sound source to "sound" as we hear it, it's anything but simple:
 
@@ -75,11 +75,11 @@ This chain of transformations where energy changes from one type to another is c
 
 The biological means of human hearing are highly specialized "Normally," human ears respond to frequencies between 20 Hz and 20,000 Hz (20 kHz), but individuals can have all sorts of different sensitivities. Sound lower than 20 Hz we call _infrasound_ (which we can sometimes perceive with our sense of touch), higher than 20 kHz is _ultrasound_. But these are all anthropocentric terms—"sound" means something different depending on your biology.
 
-![](../media/01_09_animal_hearing.jpg)
+![](media/animal_hearing.jpg)
 
 We talked about amplitude being the volume of air being moved. However, humans are more sensitive to some frequencies than to others—two sounds of the same volume might not be equally loud if they are of different frequencies. _Loudness_ is the technical term for that. The following graph shows the amount of sound pressure needed to create the same loudness at different frequencies. Note that humans are most sensitive at the bottom of the curve, which roughly corresponds to the frequencies of the human voice.
 
-![](../media/01_10_human_hearing.png)
+![](media/human_hearing.jpg)
 
 
 But it's important to note here that all ears are different. Even watching those videos, we're looking at an "idealized" ear that may or may not match yours, or any arbitrary person. Not everyone's ears are functional. So at the point where we move from the physics into perception, we have to be aware of the normalizing language we use.
@@ -92,7 +92,7 @@ So how do we tell where a sound is coming from?
 
 There's actually at least three ways that we distinguish the position of a sound, most of which benefit from the fact that we have two ears:
 
-![](../media/01_12_localization.png)
+![](media/localization.png)
 
 
 - "Interaural Time Difference" (ITD), which just means that sounds will arrive at your ears at slightly different times. This allows the brain to get a sense of where the sound is coming from.

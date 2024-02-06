@@ -8,7 +8,7 @@ Find a site to record (it doesn't have to be the same as the site you used for y
 - Menu → REC SETTING → FORMAT → WAV 24bit (_format_ and _bit-depth_)
 - Menu → REC SETTING → SAMPLE → 48k (_sampling-rate_)
 - Menu → REC SETTING → LOW CUT → 40Hz (_filter_ out wind and handling noise)
-- Menu → REC SETTING → TYPE → STEREO (separate signals from the mic)
+- Menu → REC SETTING → TYPE → STEREO (record two channels)
 - Use a windscreen if outside
 
 ### Recording
