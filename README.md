@@ -91,7 +91,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 2 — Acoustic Recording
 
 #### Monday 2/5
-<!-- Rick Mears! -->
+<!-- Rick Mears! Director of Environmental Health and Safety -->
 <!-- sign up for presentations now if you forgot -->
 - Check out TASCAM recorders
 - [Critique](resources/crit_guidelines.md) Soundmaps
@@ -101,8 +101,9 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
 #### Wednesday 2/7
+- Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Reading due: [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
-- Annea Lockwood, _A Sound Map of the Hudson River_ (1989)
+- Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
 - Workshop: [Editing](workshops/editing.md)
 - Exercise for next class: [Acoustic Vignette](exercises/acoustic_vignette.md)
 
@@ -214,6 +215,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 4/8
 - Critique Sound Object projects
+- MSHR, _Mesh Manifold_ (2023)
 - Daniel Fishkin, _Solar Sounders_ (2021) 
 - Workshop: Oscillators
 

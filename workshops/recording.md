@@ -98,6 +98,12 @@ The reason for this intermediate stage is so you can set the gain, or "INPUT LEV
 
 You want to have a strong signal, which means that the sound level reaches -12db or so, but you don't want the signal to hit the upper limit (which results in the _peak_ light turning red). For best results, **don't change the gain after you start recording**.
 
+Also check that you are recording in stereo. Once again under "REC SETTING", go to type, and verify that "STEREO" is selected.
+
 ### Transferring files
 
 While it is off, plug the recorder into your computer using the USB cable. You'll have the options "BUS POWER", "SD CARD READER", and "AUDIO I/F"—choose "SD CARD READER" to access the recorded files. You'll should see the device appear as a disk on your computer and folder inside, "MUSIC", that contains your WAV files. Copy these to your computer before working with them further.
+
+### Manual
+
+The full manual for the recorder is [here](media/tascam_manual.pdf).

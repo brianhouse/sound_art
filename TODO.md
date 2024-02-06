@@ -10,6 +10,7 @@
 - check the plasti-dip!
 - get mp3 players if it works!
 - can I plug piezos directly in?
+- electrets?
 /
 - speaker laser cut template
 - panel mount template for jack
@@ -46,7 +47,7 @@ workshops:
 - amplifiers.md
 - vector drawing
 - laser cutting
-- electronics???
+- electronics??? + lights?
 
 exercises:
 - resonating bodies
