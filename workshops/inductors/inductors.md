@@ -48,6 +48,7 @@ The inductor is just a single signal, so you'll want to switch to "MONO" under "
 
 From there, all the same recording procedures apply.
 
+![](media/mono.jpg)
 
 
 ## How it works

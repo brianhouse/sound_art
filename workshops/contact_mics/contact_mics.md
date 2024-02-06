@@ -55,6 +55,8 @@ From there, all the same recording procedures apply.
 
 However, note that contact mics can produce a very "hot"—ie, loud—signal, which can easily clip and be harmful to your ears. Always **start with low gain** to avoid this.
 
+![](media/mono.jpg)
+
 ### Tack
 
 Contact mics work best when they are directly attached to something. Sticky tack works well for this.
