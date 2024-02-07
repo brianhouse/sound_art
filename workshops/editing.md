@@ -152,4 +152,4 @@ By now you have noticed that there are other effects that we haven't talked abou
 
 ## Exporting
 
-Choose "File → Export → Export as WAV" and select "Signed 24-bit PCM". Be sure to rename your file as something descriptive.
+Choose "File → Export Audio" and select "MP3 File". Include your name in the title of the file.
