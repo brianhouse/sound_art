@@ -104,7 +104,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Reading due: [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
-- Workshop: [Editing](workshops/editing/editing.md)
+- Workshop: [Editing](workshops/editing.md)
 - Exercise for next class: [Acoustic Vignette](exercises/acoustic_vignette.md)
 
 
