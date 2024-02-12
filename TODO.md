@@ -72,17 +72,33 @@ fred moten
 
 ## materials
 
+amp boards x18
+https://www.adafruit.com/product/987
 
-sleeves
+speakers x30
+https://www.adafruit.com/product/1314
 
-stranded block ends
+alt speakers x30
+https://www.adafruit.com/product/3968
 
-https://www.digikey.com/en/products/detail/eaton-electronics-division/EM250502V/3526076?s=N4IgTCBcDaIKIFkwFYAMawDUQF0C%2BQA
+audio jacks x15
+https://www.adafruit.com/product/3692
 
+AA battery packs x30
+https://www.adafruit.com/product/4779
 
-## stock
+JST breakouts x30
+https://www.adafruit.com/product/1862
 
-18 4ohm 3w adafruit
-9 bct-3 transducers parts express (4ohm 15w)
-15 4ohm 20w R 10 S parts express
-8 mono 1/8" cables
+Black wire x3
+https://www.adafruit.com/product/290
+
+Red wire x3
+https://www.adafruit.com/product/288
+
+Yellow wire x2
+https://www.adafruit.com/product/289
+
+Green wire x2
+https://www.adafruit.com/product/2988
+

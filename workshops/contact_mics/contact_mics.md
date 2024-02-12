@@ -14,6 +14,7 @@
 - Scissors
 
 ## Instructions
+1. Look at your cable. It has two sections on its plug, separated by a black band: the Tip and the Sleeve (hence TS). Internally, they are connected to an inner insulated wire surrounded by an outer wire. We're going to use these to make a circuit with piezo element.
 1. Cut the audio cable in half (share with your partner).
 ![](media/contact_mic_1.jpg)
 1. Using the coarse wire strippers (yellow band) strip 2" off the outer insulation (use the third largest hole on the strippers). Be gentle, because you don't want to damage what's inside. If you do, just make a clean cut and start over.
@@ -41,7 +42,7 @@
 ![](media/contact_mic_13.jpg)
 1. Coil the piezo wire so that it fits on top of the disc, and tape it with a piece of electrical tape. Trim the tape if necessary.
 ![](media/contact_mic_14.jpg)
-1. Briefly submerge the piezo in Plasti-Dip so it coats everything up to the cable insulation. Hang and allow to dry overnight.
+1. Use Plasti-dip, heat shrink, or hot glue to secure it.
 
 
 

@@ -31,11 +31,10 @@ Most workshops conclude with exercise to be done as homework. You will present t
 You will complete three larger projects over the course of the semester, each of which will use a different technical approach as developed in the workshops and exercises. These projects must have a strong conceptual component as informed by the readings and artistic examples discussed in class. These projects will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. All projects must be well documented. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### Presentations
-Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in slides, should give an overview of the context in which the artist is working and then precede to show the piece, analyze it, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
+Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides, should give a quick overview of the context in which the artist is working and then precede to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
 
 ### Reading
 Many classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready—post these on Moodle ahead of the class session. 
-<!-- Students [sign up to lead discussion](https://docs.google.com/spreadsheets/d/1Tlg_v_iKP1pUb0vhjd9k6T_N85KkhZCBdcLLTwvjz1g/edit) once over the course of the semester. -->
 
 ### Participation
 Attending all class sessions is mandatory, and motivated and mindful participation in crit and classroom discussion is expected.
@@ -113,9 +112,10 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 3 — Beyond Acoustics
 
 #### Monday 2/12
-<!-- Heather brings keys? -->
+<!-- Heather brings keys -->
 - Listen to Editing exercise
-- Steven Vitiello, _World Trade Center Recordings_ (1999)
+- Stephen Vitiello, _World Trade Center Recordings_ (1999)
+- What is a "circuit"?
 - Soldering overview
 - Workshop: [Soldering](workshops/soldering/soldering.md) and [Contact Microphones](workshops/contact_mics/contact_mics.md)
 
@@ -157,7 +157,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 3/4
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
-- Workshop: [Wiring Speakers](workshops/speakers/speakers.md) and [Assembling an Amplifier](workshops/amplifiers/amplifiers.md)
+- Workshop: [Assembling an Amplifier and Speakers](workshops/amps/amps.md)
 
 #### Wednesday 3/6
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
@@ -208,15 +208,14 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Midterm Meetings
 
 #### Wednesday 4/3
+- Critique Sound Object projects
 - Camille Norment, _Plexus_ (2022)
-- Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf) **
-- Work time
+- Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
 
 
 ### Week 10 — Oscillators
 
 #### Monday 4/8
-- Critique Sound Object projects
 - MSHR, _Mesh Manifold_ (2023)
 - Daniel Fishkin, _Solar Sounders_ (2021) 
 - Workshop: Oscillators

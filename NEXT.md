@@ -27,3 +27,7 @@ have a demo file for this! I did it without hearing anything, which was ridiculo
 note the headphone quirk where it doesnt recognize the device
 
 
+
+## Soldering
+
+solder removal with those braided strips
