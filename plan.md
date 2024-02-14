@@ -1,5 +1,9 @@
 # Introduction to Sound Art
 
+## electrets
+
+what is the response range? could they actually work for infrasound/ultrasound?? that would be a whole unit.
+
 
 ## circuits
 

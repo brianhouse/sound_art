@@ -5,9 +5,8 @@
 - 28 AWG Enameled Magnet Wire Spool
 - 1/8" TS (mono) audio cable
 - Electrical Tape
-- Heat shrink tubing
+- 3/16" heat shrink tubing
 - Sandpaper
-<!-- also check bandaids -->
 
 ### Tools
 - Coarse wire strippers (yellow band)
@@ -25,7 +24,7 @@
 ![](media/2.jpg)
 1. Carefully wind the wire from the spool around one side of the core. Make this nice and taught and as even as possible.
 ![](media/3.jpg)
-1. Wind **~100** times, then carefully close and latch the core. Cut the wire so that you have two even leads about an inch long.
+1. Wind **~100** times, then carefully close and latch the core. Cut the wire so that you have two even leads about an inch long, both which are coming through the hole of the core.
 ![](media/4.jpg)
 1. Carefully sand off the insulation/enamel from the magent wire (the red coating) on both leads to leave .5" of the copper exposed.
 ![](media/5.jpg)
@@ -33,11 +32,11 @@
 ![](media/6.jpg)
 1. Follow the remaining instructions for prepare the ends of the audio cable from the instructions for [building contact mics](../contact_mics/contact_mics.md), and solder each lead of your inductor to the wires of the cable (polarity doesn't matter).
 ![](media/7.jpg)
-1. Wrap a small piece of electrical tape around the joint with the inner wire.
+1. Wrap a small piece of electrical tape around the joint with the inner wire. Make sure you cover everything between the white insulation and the enamel—you're preventing the two wires from making an electrical connection. Don't do both wires, because you'll need this to fit into the heat shrink.
 ![](media/8.jpg)
 1. Slide the shrink wrap tubing up to the base of the ferrite core, covering all your joints and solders, and use the heat gun to shrink it down.
 ![](media/9.jpg)
-1. Tightly wrap the ferrite core with electrical tape to protect the coil
+1. Tightly wrap the ferrite core with electrical tape to protect the coil.
 ![](media/10.jpg)
 
 ## Use

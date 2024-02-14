@@ -42,8 +42,10 @@
 ![](media/contact_mic_13.jpg)
 1. Coil the piezo wire so that it fits on top of the disc, and tape it with a piece of electrical tape. Trim the tape if necessary.
 ![](media/contact_mic_14.jpg)
-1. Use Plasti-dip, heat shrink, or hot glue to secure it.
-
+1. Liberally apply hot glue to secure all loose wires; make sure the thick cable itself is included.
+![](media/contact_mic_15.jpg)
+1. Contact mics work best when they are directly attached to something. Sticky tack works well for this.
+![](media/contact_mic_16.jpg)
 
 
 ## Use
@@ -52,15 +54,11 @@ Your contact mic may be used as an external input to the DR-05X via the jack at 
 
 The contact mic is just a single signal, so you'll want to switch to "MONO" under "Menu → REC SETTING → TYPE" on your recorder (remember to switch it back if you're going to return to the built-in mics!).
 
-From there, all the same recording procedures apply.
+Other than that, all the same recording procedures apply as in the standard [recording_checklist](../workshops/recording_checklist.md).
 
 However, note that contact mics can produce a very "hot"—ie, loud—signal, which can easily clip and be harmful to your ears. Always **start with low gain** to avoid this.
 
 ![](media/mono.jpg)
-
-### Tack
-
-Contact mics work best when they are directly attached to something. Sticky tack works well for this.
 
 
 ## How it works
@@ -73,4 +71,5 @@ The [piezoelectric effect](https://en.wikipedia.org/wiki/Piezoelectricity) is a 
 ## Additional Resources
 
 - https://www.zachpoff.com/resources/building-contact-mics/  
+
 

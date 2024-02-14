@@ -113,6 +113,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 2/12
 <!-- Heather brings keys -->
+<!-- barely fits, time wise -->
 - Listen to Editing exercise
 - Stephen Vitiello, _World Trade Center Recordings_ (1999)
 - What is a "circuit"?
@@ -121,6 +122,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 2/14
+<!-- go over lab rules -->
 - Reading due: [Brandon Labelle, "Auditory Relations" (2006)](readings/labelle_auditory_relations.pdf)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
 - Workshop: [Inductors](workshops/inductors/inductors.md)
@@ -132,13 +134,14 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 2/19
 - Listen to Non-Acoustic Vignette
 - Janet Cardiff, _Her Long Black Hair_ (2004)
-- Begin [Soundscape](projects/soundscape.md) project
+- Begin [Soundscape](projects/soundscape.md) project <!-- desk crits? -->
 
 
 #### Wednesday 2/21
 - Reading due: Dylan Robinson, "Hungry Listening" (2020)
 - Ernst Karel, _Heard Laboratories_ (2010)
 - Present proposals for Soundscape project
+<!-- have some recordings ready for editing in class next time -->
 
 
 ### Week 5 — Soundscapes continued
