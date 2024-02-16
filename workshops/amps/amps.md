@@ -2,11 +2,11 @@
 
 ### Materials
 - MAX98306 solid-state amplifier breakout board (pre-soldered)
+- JST jack breakout board
 - Speakers (4Ω or higher and rated for at least 3W)
 - 1/8" TRS audio jack (panel mount)
 - 18 or 20 gauge speaker wire
 - Solid-core wires (red, black, green)
-- Breadboard 2-pole terminal blocks (optional)
 - Mini breadboard
 - 3x AA battery holder
 - 3x AA batteries
@@ -68,6 +68,8 @@ A TRS jack is the counterpart to a TRS (stereo) cable. Inside the socket, it con
 Everything will be assembled on a breadboard. A breadboard is a helpful tool for prototyping and making quick connections—every row of holes is eletrically connected, so by inserting wires into the holes, a circuit can be made without soldering. This is especially helpful with "breakout boards" that have a row of pins. Inserting a wire in the row next to a pin makes a connection.
 ![](media/7.jpg)
 
+1. Use screws, the adhesive backing, or some other method to attach the breadboard where you need it. Or just leave it loose if you are prototyping.
+
 1. Insert the MAX98306 circuit board into the breadboard. Leave as much room as possible along the side with the pins so that you have room to plug things in.
 ![](media/8.jpg)
 
@@ -83,28 +85,23 @@ Everything will be assembled on a breadboard. A breadboard is a helpful tool for
 1. Finally, use the short jumper wire to connect L- to R-
 ![](media/11.jpg)
 
-1. Insert three AA batteries into the battery pack, and secure it closed with the included screws.
-1. If necessary, strip off additional insulation of the two leads on the battery pack so that 1/4" of bare wire is showing.
-1. Insert the black lead of the battery pack into the row next to the pin labeled GND
-1. Insert the red lead of the battery pack into the row next to the pin labeled VDD
+1. Plug the JST jack breakboard into the breadboard such that the + pin lines up with VDD on the amplifier board and the - pin lines up with GND. This will result in the edges of the boards being flush with one another. Be careful to get this right, as putting this in the wrong place can potentially fry the amp.
 ![](media/12.jpg)
 
-1. If these wires are loose, you may need to use a terminal block. Place this into the breadboard, and secure the wires in the same way that you secured the speaker wire.
-
-
-at top, or "in the future": use the sticker or screws to attach to your project housing
-
+1. Insert three AA batteries into the battery holder and secure it. Plug it into the JST jack. (If you ever need to unplug the battery holder, make sure to pull on the white part of the plug, not the wires)
+![](media/13.jpg)
 
 
 ## Use
 
-The jumper / gain
+1. Use an 1/8" TRS (stereo) cable to plug your amp into an audio player of some kind. Turn the battery pack to ON, play audio, and you should hear sound.
+![](media/14.jpg)
 
-Line level
+1. By default, the amp is set to 9dB of gain. By placing the include jumper plug on the gain headers of the amplifier board, you can increase the volume. Most likely, you'll want to have this at the highest setting at which your speakers do not distort when the loudest sound from source you are using is played. This might take some experimentation.
+![](media/15.jpg)
 
 
-
-
-###
-
+<!--
+###	
 https://www.hairballaudio.com/blog/resources/diy-resources/balanced-and-differential
+-->

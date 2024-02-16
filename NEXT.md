@@ -26,6 +26,9 @@ What is Audio! electrical signal that fluctuates in a way that is analogous to a
 digital? == measurements
 
 
+==> should actually spend time to respond (not necessarily critique) the exercises (what are we hearing?)
+
+
 ### contact mics
 
 

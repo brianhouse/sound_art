@@ -1,8 +1,15 @@
 # Introduction to Sound Art
 
-## electrets
+## electrets / mems
 
 what is the response range? could they actually work for infrasound/ultrasound?? that would be a whole unit.
+
+wait, no. that's MEMS.
+https://www.sparkfun.com/products/18011
+https://www.sparkfun.com/products/19389
+https://www.adafruit.com/product/2716
+
+...except these don't have that range. bummer.
 
 
 ## circuits
