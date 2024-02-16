@@ -132,7 +132,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 4 — Soundscapes
 
 #### Monday 2/19
-- Listen to Non-Acoustic Vignette
+- Listen to Non-Acoustic Vignette <!-- full, discuss details cold -->
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - Begin [Soundscape](projects/soundscape.md) project <!-- desk crits? -->
 
