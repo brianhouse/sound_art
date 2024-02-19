@@ -1,24 +1,17 @@
 # TODO
 
+order mp3 players and more speaker wire
+
+piezos directly in?
+
+enclosures! some guidelines at least
+transducers!
+
+am I going to need switches?
+
 
 - content (below)
-- compile and order materials
-/
-- studio rules poster
-- draftboard signout sheet
-/
-- check the plasti-dip!
-- get mp3 players if it works!
-- can I plug piezos directly in?
-- electrets?
-/
 - speaker laser cut template
-- panel mount template for jack
-
-
-/
-- send roster to Josh
-
 - e-Reserves
 
 
@@ -30,21 +23,20 @@ WEEKLY ON TUESDAYS:
 ## reading
 
 read and notes for:
+- robinson
 - cox
 - krause
 - kwon
 - henriques
-- robinson
+
 
 
 
 ## content
 
 workshops:
-- contact_mics.md   (+ soldering)
-- coils.md
-- speakers.md
-- amplifiers.md
+- desoldering!
+- enclosure design?
 - vector drawing
 - laser cutting
 - electronics??? + lights?
@@ -56,7 +48,7 @@ exercises:
 
 
 projects:
-- Sound Object -- (include a situated component)
+- Sound Object -- (include a situated component?)
 - Sythesis
 
 

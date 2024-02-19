@@ -2,6 +2,8 @@
 
 MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
+download material from student presentations
+
 
 ## Intro
 
@@ -52,3 +54,9 @@ a chance to have mixing feedback is a bit important
 ## Soldering
 
 solder removal with those braided strips
+
+
+## Amps + Speakers
+
+DFPLayer?
+

@@ -88,7 +88,7 @@ Everything will be assembled on a breadboard. A breadboard is a helpful tool for
 1. Plug the JST jack breakboard into the breadboard such that the + pin lines up with VDD on the amplifier board and the - pin lines up with GND. This will result in the edges of the boards being flush with one another. Be careful to get this right, as putting this in the wrong place can potentially fry the amp.
 ![](media/12.jpg)
 
-1. Insert three AA batteries into the battery holder and secure it. Plug it into the JST jack. (If you ever need to unplug the battery holder, make sure to pull on the white part of the plug, not the wires)
+1. Insert three AA batteries into the battery holder and secure it. Make sure the switch is in the OFF position, and plug it into the JST jack. (If you ever need to unplug the battery holder, make sure to pull on the white part of the plug, not the wires)
 ![](media/13.jpg)
 
 
