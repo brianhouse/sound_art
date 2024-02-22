@@ -2,7 +2,12 @@
 
 MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
-download material from student presentations
+
+## Presentations
+
+download material from student presentations; make sure I'm good on all the artists
+
+go through Moodle to add the "slides such as Keynote" phrase
 
 
 ## Intro
@@ -40,6 +45,8 @@ https://www.richardmudhar.com/blog/2022/07/piezo-contact-microphone-preamp-for-p
 
 show the images on the display as I go around
 
+are there electrets? or no?
+
 
 ## Editing / Arranging
 
@@ -49,6 +56,14 @@ note the headphone quirk where it doesnt recognize the device
 
 a chance to have mixing feedback is a bit important
 
+importing multiple source files?
+
+normalize on export
+
+
+## Soundscape
+
+move Ernst up to present same day as Cardiff, need a bit more for that class, and can add something else less crucial for understanding soundscapes (add diversity, as that isn't as necessary to understand in advance, pairs with the Robinson)
 
 
 ## Soldering

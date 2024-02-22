@@ -134,15 +134,16 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 2/19
 - Listen to Non-Acoustic Vignette <!-- full, discuss details cold -->
 - Janet Cardiff, _Her Long Black Hair_ (2004)
-- Begin [Soundscape](projects/soundscape.md) project <!-- desk crits? -->
+- Begin [Soundscape](projects/soundscape.md) project <!-- desk crits -->
 <!-- finish up any outstanding issues building piezos etc -->
 
 
 #### Wednesday 2/21
-- Reading due: Dylan Robinson, "Hungry Listening" (2020)
+- Reading due: [Dylan Robinson, "Hungry Listening" (2020)](readings/robinson_hungry_listening.pdf)
 - Ernst Karel, _Heard Laboratories_ (2010)
-- Present proposals for Soundscape project
+- Present proposals for Soundscape project <!-- worth doing and takes awhile -->
 <!-- have some recordings ready for editing in class next time -->
+
 
 
 ### Week 5 — Soundscapes continued
