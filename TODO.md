@@ -1,13 +1,8 @@
 # TODO
 
-order mp3 players and more speaker wire
-
 piezos directly in?
 
 enclosures! some guidelines at least
-transducers!
-
-am I going to need switches?
 
 
 - content (below)
@@ -23,7 +18,6 @@ WEEKLY ON TUESDAYS:
 ## reading
 
 read and notes for:
-- robinson
 - cox
 - krause
 - kwon
