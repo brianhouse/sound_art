@@ -168,7 +168,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Transducers](workshops/transducers/transducers.md)
-- Exercise for next class: [Resonating Bodies](exercise/resonating_bodies.md)
+- Exercise for next class: [Resonating Bodies](exercises/resonating_bodies.md)
 
 
 ### Week 7 — Fabrication
@@ -181,7 +181,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 3/13
 - Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](kwon_genealogy_of_site_specificity.pdf)
 - Shilpa Gupta, _I keep falling at you_ (2010)
-- Exercise for next class: [Cool Box](exercise/cool_box.md)
+- Exercise for next class: [Cool Box](exercises/cool_box.md)
 
 
 ### Spring Break
@@ -202,7 +202,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 <!-- prep for midterm meetings -->
 
 #### Thursday 3/28
-- Steven Feld, TBD 
+- Steven Feld, 4:15pm at the Lyceum 
 
 
 ### Week 9 — Sound Objects continued
@@ -229,7 +229,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
 - Workshop: Variable resistors
-- Exercise for next class: [Responsive Oscillators](exercise/responsive_oscillators.md)
+- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
 
 
 ### Week 11 — Sequencers

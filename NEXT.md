@@ -75,3 +75,6 @@ solder removal with those braided strips
 
 DFPLayer?
 
+need an image of the wires wrapped in the stereo plug prior to soldering
+
+
