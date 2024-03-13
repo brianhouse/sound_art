@@ -179,7 +179,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Vector Drawing](workshops/vector_drawing/vector_drawing.md) and [Laser Cutting](workshops/laser_cutting/laser_cutting.md)
 
 #### Wednesday 3/13
-- Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](kwon_genealogy_of_site_specificity.pdf)
+- Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](readings/kwon_genealogy_of_site_specificity.pdf)
 - Shilpa Gupta, _I keep falling at you_ (2010)
 - Exercise for next class: [Cool Box](exercises/cool_box.md)
 
