@@ -12,7 +12,16 @@
 1. Select `File > New` — you should see a light orange grid
 
 
-## Basic Navigation and Tools
+## Examples and Templates
+
+1. Box with puzzle sides: [box.svg](templates/box.svg)
+1. Speaker: [speaker.svg](templates/speaker.svg)
+1. Toggle switch: [toggle.svg](templates/toggle.svg)
+1. Mini Breadboard outline: [mini_breadboard.svg](templates/mini_breadboard.svg)
+
+## Guide
+
+### Basic Navigation and Tools
 
 - <img src="img/zoom.png" width=116 /> **Zoom**: The template is the same size as the draftboard—zoom in to see the small 1/8" grid. The zoom controls are in the lower right corner (just to the left of the "rotate" controls).
 
@@ -23,7 +32,7 @@
 - <img src="img/selection.png" width=28 /> **Selection**: Use the select tool to move your paths around and resize them. Clicking twice on a path will change the handles to enable rotation.
 
 
-## Layers
+### Layers
 
 The layers panel allows us to organize paths for the different functions of the laser. These are CUT (cut a line all the way through the draftboard), SCORE (go only part way), and ENGRAVE (score a shape other than a line). Primarily, we will be using CUT—note that ENGRAVE takes a very long time!
 
@@ -32,7 +41,7 @@ The layers panel allows us to organize paths for the different functions of the 
 Though these layers are labeled within our document, the Glowforge interface may or may not assign our layers to the proper functions, so make sure to check!
 
 
-## Lines and Fills
+### Lines and Fills
 
 We want all the CUTS or SCORES that we make to be thin lines, and all the engraves to be fills. We can do this with the "Fill and Stroke" panel.
 
@@ -49,9 +58,13 @@ Under stroke style, set "Width" to 0.010 for a CUT or SCORE.
 <img src="img/fill_and_stroke_3.png" width=357 />
 
 
-## Converting Objects to Paths
 
-All objects have to be converted to paths before sending the file to the Glowforge.
+<!-- ### Deleting Line Segments -->
+
+
+### Converting Objects to Paths
+
+If you use a shape tool, you'll need to covert those to paths before sending the file to the Glowforge.
 
 Look at the layers tab—everything in the layer should have a "path" icon, not a shape/object:
 
@@ -65,15 +78,6 @@ To convert an object to a path, select the layer, and then choose Path —> "Obj
 Now the symbol in the layer should have a "path" icon.
 
 <img src="img/to_path_3.png" width=357 />
-
-## Examples and Templates
-
-1. Box with puzzle sides: [box.svg](templates/box.svg)
-1. Speaker: [speaker.svg](templates/speaker.svg)
-1. Toggle switch: [toggle.svg](templates/toggle.svg)
-1. Mini Breadboard outline: [mini_breadboard.svg](templates/mini_breadboard.svg)
-
-
 
 
 

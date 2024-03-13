@@ -78,3 +78,11 @@ DFPLayer? ---> for the first "resonating body" exercise, just have them use thei
 need an image of the wires wrapped in the stereo plug prior to soldering
 
 no one made a box for "resonating body". I think I should demonstrate this with a cardboard box.
+
+
+## Laser Cutting
+
+Add to tutorial:
+- Inkscape segment deletion (make the nodes and then do control-double click)
+- Images to the glowforge instructions
+
