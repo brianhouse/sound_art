@@ -1,43 +1,65 @@
-# Inkscape
+# Vector Drawing
  
-Inkscape is a free vector graphics editor for GNU/Linux, Windows and macOS. You can download Inkscape [here](https://inkscape.org/release/inkscape-1.2.2/).
-
-A video tutorial can be found [here](https://drive.google.com/file/d/1h6DkFrqTs8azBbxr2fY-hahtvEaqBuQK/view?usp=drive_link), which you can follow as you read the instructions.
+**Inkscape** is a free vector graphics editor for GNU/Linux, Windows and macOS. You can download Inkscape [here](https://inkscape.org/release/inkscape-1.2.2/).
 
 
 ## Set Up
 
-1. Download [GlowforgeTemplate.svg](cuts/GlowforgeTemplate.svg)
+1. Download [GlowforgeTemplate.svg](templates/GlowforgeTemplate.svg)
 1. Open GlowforgeTemplate.svg using Inkscape
-1. Choose `File > Save Template...`, call it "Glowforge Template" and make sure `Set as default template` is checked
+1. Choose `File > Save Template...`, call it "GlowforgeTemplate" and make sure `Set as default template` is checked
 1. Close the file
 1. Select `File > New` — you should see a light orange grid
 
-## Examples
 
-1. Box with puzzle sides: [box.svg](cuts/box.svg)
-1. Holes that fit regular and micro servos: [servos.svg](cuts/servos.svg)
-1. Holes that fit a panel pushbutton, a potentiometer/knob, and a panel switch: [interface_elements.svg](cuts/interface_elements.svg)
-1. Holes that fit a 5mm LED and an 8mm single Neopixel: [lights.svg](cuts/lights.svg)
+## Basic Navigation and Tools
 
-## Creation
+- <img src="img/zoom.png" width=116 /> **Zoom**: The template is the same size as the draftboard—zoom in to see the small 1/8" grid. The zoom controls are in the lower right corner (just to the left of the "rotate" controls).
 
-Understand what you are planning on creating. You should know the answers to these questions: What are you making? How big will it be? What parts will be cut/engraved/scored?
+- <img src="img/snapping.png" width=38 /> **Snapping**: Turning on snapping allows you to keep your lines on the grid—very helpful for making sure parts fit together.
 
-Click the `View Objects` button in the top dashboard. A tab will pop open to the right, click the `Add Layer` button and 3 layers. Name one layer cut, one engrave, and one score. When working on your project be sure to be conscious of which layer you are working on to make sure that all engraved, cut, and scored objects are on their respective layer.
-Begin creating!
+- <img src="img/pen.png" width=29 /> and <img src="img/pen_modes.png" width=221 />  **Pen Tool**: This is the primary tool you will use to make paths—select it from the tool palette on the left. It has several modes, the most useful of which is "straight line segments":  
 
-## Formatting
-Once you have finished your drawing: Go to your Cut layer. Select all objects on this layer only: press Ctrl+ A (Win) or Command+ A (Mac). Click the `Fill and Stroke button`. A tab will pop open to the right, click `Fill` then click the X (`no paint`) under `Fill` so the objects become "hollow", this ensures that Beamzilla only cuts the perimeter of the objects. Next, click `Stroke Paint` and then the solid blue square, `Flat color`. Next, click `Stroke Style` and change the width unit to inches `in`. and change the width to 0.001. DON'T WORRY your work didn't just disappear it's still there the outline is just super thin!
+- <img src="img/selection.png" width=28 /> **Selection**: Use the select tool to move your paths around and resize them. Clicking twice on a path will change the handles to enable rotation.
 
-If you want your engraved objects to be engraved as a filled solid shape: Go to your Engrave layer. Select all objects on this layer only: press Ctrl+ A (Win) or Command+ A (Mac). Click the `Fill and Stroke` button. A tab will pop open to the right, click `Fill` then the solid blue square, `Flat color` (you can do any color). Next, click `Stroke Paint` and then the solid blue square, `Flat color`. Next, click `Stroke Style` and change the width unit to inches `in`. and change the width to 0.001. Repeat for your Score layer.
 
-If you want any objects on your engrave or score layer to be engraved/scored as lines rather than solid fill: Go to the respective layer (engrave or score). Select all the objects you wish to be made lines. Click the `Fill and Stroke` button. A tab will pop open to the right, click `Fill` then click the X (no paint). Next, click `Stroke Paint` and then the solid blue square, Flat color. Next, click `Stroke Style` and change the width unit to inches in. and change the width to 0.001
+## Layers
 
-Select all objects on all layers: press Ctrl+Alt+A (Win) or Command+Option+A (Mac). Then click `Path`, then `Object to Path`. (Beamzilla can only read Paths so all objects must be converted)
+The layers panel allows us to organize paths for the different functions of the laser. These are CUT (cut a line all the way through the draftboard), SCORE (go only part way), and ENGRAVE (score a shape other than a line). Primarily, we will be using CUT—note that ENGRAVE takes a very long time!
 
-Once you have completed all these steps you are ready to save your file! Go to `File>Save as`, save the file as an "Inkscape SVG (*.svg)"
+<img src="img/layers.png" width=370 />
 
-_You are now ready for Beamzilla!_
+Though these layers are labeled within our document, the Glowforge interface may or may not assign our layers to the proper functions, so make sure to check!
+
+
+## Lines and Fills
+
+We want all the CUTS or SCORES that we make to be thin lines, and all the engraves to be fills. We can do this with the "Fill and Stroke" panel.
+
+Under the "Fill" submenu, select "No Paint" for a CUT or SCORE or "Flat Color" for an ENGRAVE.
+
+Under the "Stroke paint" submenu, select "Flat Color" for a CUT or SCORE or "No Paint" for an ENGRAVE.
+
+Under stroke style, set the width to 0.010 for a CUT or SCORE.
+
+
+
+
+## Converting Objects to Paths
+
+All objects have to be converted to paths before sending the file to the Glowforge.
+
+
+
+## Examples and Templates
+
+1. Box with puzzle sides: [box.svg](templates/box.svg)
+1. Speaker: [speaker.svg](templates/speaker.svg)
+1. Toggle switch: [toggle.svg](templates/toggle.svg)
+1. Mini Breadboard outline: [mini_breadboard.svg](templates/mini_breadboard.svg)
+
+
+
+
 
 
