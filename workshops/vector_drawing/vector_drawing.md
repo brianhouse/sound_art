@@ -38,18 +38,33 @@ We want all the CUTS or SCORES that we make to be thin lines, and all the engrav
 
 Under the "Fill" submenu, select "No Paint" for a CUT or SCORE or "Flat Color" for an ENGRAVE.
 
+<img src="img/fill_and_stroke_1.png" width=358 />
+
 Under the "Stroke paint" submenu, select "Flat Color" for a CUT or SCORE or "No Paint" for an ENGRAVE.
 
-Under stroke style, set the width to 0.010 for a CUT or SCORE.
+<img src="img/fill_and_stroke_2.png" width=356 />
 
+Under stroke style, set "Width" to 0.010 for a CUT or SCORE.
 
+<img src="img/fill_and_stroke_3.png" width=357 />
 
 
 ## Converting Objects to Paths
 
 All objects have to be converted to paths before sending the file to the Glowforge.
 
+Look at the layers tab—everything in the layer should have a "path" icon, not a shape/object:
 
+<img src="img/to_path_1.png" width=349 />
+
+
+To convert an object to a path, select the layer, and then choose Path —> "Object to Path".
+
+<img src="img/to_path_2.png" width=227 />
+
+Now the symbol in the layer should have a "path" icon.
+
+<img src="img/to_path_3.png" width=357 />
 
 ## Examples and Templates
 

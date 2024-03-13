@@ -4,6 +4,10 @@ TBD
 
 <!-- Your final project is to create an artwork that utilizes sound and engages in sound art discourse in some way. You may use any or none of the techniques discussed in class, as long as the work shows rigorous conceptual and aesthetic development. The work may be an audio piece, video work, installation, or other form. It should connect to your studio practice and take on a topic of personal artistic concern which you should articulate in your description.
 
+
+must fully enclose the electronics
+
+
 ### Proposal
 
 On Monday 5/1 you will turn in a proposal that includes:

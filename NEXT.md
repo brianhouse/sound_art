@@ -73,8 +73,8 @@ solder removal with those braided strips
 
 ## Amps + Speakers
 
-DFPLayer?
+DFPLayer? ---> for the first "resonating body" exercise, just have them use their recorders. _then_ we introduce DFPlayer.
 
 need an image of the wires wrapped in the stereo plug prior to soldering
 
-
+no one made a box for "resonating body". I think I should demonstrate this with a cardboard box.
