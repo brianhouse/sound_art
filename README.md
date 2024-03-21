@@ -246,7 +246,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 4/22
 - Ranjit Bhatnagar, _Stone Song_ (2014)
-- Begin Synthesis project
+- Begin Final project
 
 #### Wednesday 4/24
 - Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
@@ -268,7 +268,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 14
 
 #### Monday 5/6
-- Synthesis project critique
+- Final project critique
 
 
 

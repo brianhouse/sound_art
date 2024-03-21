@@ -3,6 +3,11 @@
 MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
 
+## Readings
+
+Make them official!
+
+
 ## Presentations
 
 download material from student presentations; make sure I'm good on all the artists

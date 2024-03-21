@@ -12,6 +12,13 @@ https://www.adafruit.com/product/2716
 ...except these don't have that range. bummer.
 
 
+can I plug an electret directly into the amplifier?
+
+## reverb?
+
+that would be a cool thing to make
+
+
 ## circuits
 
 volume knob is key for controlling feedback
