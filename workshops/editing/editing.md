@@ -12,7 +12,7 @@ Drag the application from the DMG folder into the Applications folder on your co
 
 Open Audacity, and Choose "File → Import → Audio..." and select your audio file from your computer. If you get a warning dialog box about importing uncompressed audio files, choose the "safer" option and select "Don't warn again":
 
-![](media/03_00_warning_import_uncompressed_audio.png)
+![](media/0_warning_import_uncompressed_audio.png)
 
 Once you've loaded a file, save your Audacity project, "File → Save Project → Save Project". You'll get a warning telling you this saves a project, not a listenable audio file, and that's fine, that's what we want (you can click "Don't show this warning again" if you like). Save it as "edit_workshop.aup" to your computer.
 
@@ -33,7 +33,7 @@ Tools:
 - Magnifying glass(es) — you can zoom all the way in until you see the samples (or see everything in an overview)
 - Draw — if you're zoomed in, you can actually draw sample values directly!
 
-![](media/03_01_audacity.png)
+![](media/1_audacity.png)
 
 
 ## Splicing and Crossfading
@@ -42,11 +42,11 @@ So the first thing you want to do is to delete the sections you don't want to wo
 
 Use the select tool to select the audio. Then use: "Edit → Remove Special → Split Delete":
 
-![](media/03_02_splice.png)
+![](media/2_splice.png)
 
 This leaves a blank space. You can then recombine the two sections with a short _crossfade_ by select a bit of audio from each clip on either side of the gap. Then choose "Effect → Fading → Crossfade Clips"
 
-![](media/03_03_crossfade.png)
+![](media/3_crossfade.png)
 
 Crossfading is critical. We've seen that we need a smooth waveform, otherwise it will produce distortion. Making your edits this way will ensure you don't introduce more unwanted noises into your audio.
 
@@ -62,7 +62,7 @@ First we're going to run normalization.
 "Edit → Select All" (or Command-A)
 "Effect → Volume and Compression → Normalize": "Normalize stereo tracks independently" should be OFF
 
-![](media/03_04_normalize.png)
+![](media/4_normalize.png)
 
 What this does is scale everything up so that the loudest portion is at the maximum amplitude. This is important so that you use the maximum bits you have available when you change your audio. Also that the scale of your audio is aligned with other sounds and the volume controls in general, so you're not turning everything up to hear quiet sounds.
 
@@ -73,7 +73,7 @@ It could be that there is a lot of hiss in your recording because what you were 
 
 First, select a section of your audio that is representative of the noise you want to remove (it should have no other sound in it—just the noise). Then choose "Effect → Noise Removal and Repair → Noise Reduction..." Then click "Get Noise Profile", and click OK. We've now loaded in a "profile" of the noise that will be filtered out.
 
-![](media/03_05_noise_reduction.png)
+![](media/5_noise_reduction.png)
 
 Next, select the rest of the audio with "Edit → Select All" (or Command-A). Choose "Effect → Noise Removal and Repair → Noise Reduction..." again. Now we can set some parameters:
 - "Noise reduction (dB)" is the amount [12]
@@ -89,7 +89,7 @@ Select all your audio "Edit → Select All" (or Command-A)
 
 Choose "Effect → Filter Curve"
 
-![](media/03_06_equalization.png)
+![](media/6_equalization.png)
 
 You'll see a graph similar to what we saw when we learned about the loudness curve of the human ear, and about how all microphones have their own frequency responses.
 
@@ -106,7 +106,7 @@ Select some audio, and choose "Edit → Remove Special → Split Cut". This beha
 
 Select somewhere on your new track, and choose "Edit → Paste". Your clip will appear on the new track. Grab the top of the clip to move it forward and backward in time.
 
-![](media/03_07_multitrack.png)
+![](media/7_multitrack.png)
 
 
 Note that once you create multiple tracks, "Select All" will select your entire project. To just select all the audio on one track, there is a "Select" button on the track controls. To just select a single clip, use the selection tool and double-click on the clip you want.
@@ -115,7 +115,7 @@ Note that once you create multiple tracks, "Select All" will select your entire 
 
 Now that you have audio on multiple tracks, we need to make sure that audio doesn't start or end abrubtly. For this, we can use fades. Select the beginning or end of a clip, and choose "Effect → Fading → Fade Out" or "Fade In".
 
-![](media/03_08_fading.png)
+![](media/8_fading.png)
 
 **IMPORTANT**: Every clip that is separated in a track should fade in and fade out. It makes a difference.
 
@@ -123,7 +123,7 @@ Now that you have audio on multiple tracks, we need to make sure that audio does
 
 If audio on two different tracks overlaps, you will hear them at the same time. The controls on the left of the tracks allow us to adjust the relative gain (aka volume) as well as the stereo position between left and right. Distributing clips at various points across the stereo field will make a much more immersive result.
 
-![](media/03_09_mixing.png)
+![](media/9_mixing.png)
 
 ## Additional Effects
 

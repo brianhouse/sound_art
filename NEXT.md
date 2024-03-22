@@ -7,6 +7,7 @@ MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
 Make them official!
 
+Fred Moten?
 
 ## Presentations
 
@@ -50,7 +51,8 @@ https://www.richardmudhar.com/blog/2022/07/piezo-contact-microphone-preamp-for-p
 
 show the images on the display as I go around
 
-are there electrets? or no?
+
+CAN WE DO SOMETHING WITH ELECTRETS?
 
 
 ## Editing / Arranging
@@ -78,7 +80,7 @@ solder removal with those braided strips
 
 ## Amps + Speakers
 
-DFPLayer? ---> for the first "resonating body" exercise, just have them use their recorders. _then_ we introduce DFPlayer.
+DFPLayer? ---> for the first "resonating body" exercise, just have them use their recorders. _then_ we introduce DFPlayer for the assignment [hmm, maybe not time for that]
 
 need an image of the wires wrapped in the stereo plug prior to soldering
 
