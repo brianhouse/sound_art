@@ -16,6 +16,11 @@ download material from student presentations; make sure I'm good on all the arti
 go through Moodle to add the "slides such as Keynote" phrase
 
 
+chavez was great, but what about Victoria Chen??
+
+Christian Marclay? 
+
+
 ## Intro
 
 can the intro be a way of teaching transduction, rather than listening? use bodies to make a recording system?
@@ -86,6 +91,21 @@ need an image of the wires wrapped in the stereo plug prior to soldering
 
 no one made a box for "resonating body". I think I should demonstrate this with a cardboard box.
 
+### strategies that came up that I noted:
+dampening
+intimacy
+directionality
+frequency choice -- treble vs bass
+personification
+found objects 
+movement
+vibration of other moving
+cymatocs 
+different pitch resonates
+signifying 
+enclosures?
+surface moving
+
 
 ## Laser Cutting
 
@@ -93,3 +113,7 @@ Add to tutorial:
 - Inkscape segment deletion (make the nodes and then do control-double click)
 - Images to the glowforge instructions
 
+
+### more on circuits
+
+https://eater.net/8bit

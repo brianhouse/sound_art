@@ -193,7 +193,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Present Boxes
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Maria Chavez, _Of Technique: Chance Procedures on Turntable_ (2012)
-- Begin [Sound Object](project/sound_object.md)
+- Begin [Sound Object](projects/sound_object.md)
 
 #### Wednesday 3/27
 - Kevin Beasley, _A View of a Landscape_ (2019)
