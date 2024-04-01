@@ -1,45 +1,24 @@
+# Final Project
 
-TBD
-
-<!-- Your final project is to create an artwork that utilizes sound and engages in sound art discourse in some way. You may use any or none of the techniques discussed in class, as long as the work shows rigorous conceptual and aesthetic development. The work may be an audio piece, video work, installation, or other form. It should connect to your studio practice and take on a topic of personal artistic concern which you should articulate in your description.
-
-
-must fully enclose the electronics
+Your final project is to create an artwork that utilizes sound and engages in sound art discourse in some way. You may use any or none of the techniques discussed in class, as long as the work shows rigorous conceptual and aesthetic development. It should connect to your studio practice and take on a topic of personal artistic concern which you should articulate in your description.
 
 
 ### Proposal
 
-On Monday 5/1 you will turn in a proposal that includes:
+Prior to beginning with the project, you will turn in a proposal, which should be organized in slides and exported to PDF format. It should include:
 - your preliminary concept and any relevant illustrative material
 - how it relates to (sound) art discourse
-- how it relates to your studio practice
-- the materials you anticipate using (Pd, speakers, recorder; wood, projection, paper-maché; found objects etc)
-- technical questions that you will need to solve
-- how you would like to present the work (gallery, site-specific installation, audio piece, video, etc)
-- how you plan on documenting the work
+- how it relates to your studio practice / personal interests
+- how you will build it and what materials and tools you are planning on using
+- any technical or conceptual questions that you will need to solve
+- questions that you have for the class about your project
 
-We will discuss these proposals in class.
-
-
-### Initial experiments
-
-On Wednesday 5/3, initial experiments are due (turn these in under the "proposal" assignment)
-
-This should consistute significant work toward answering the major questions in your proposal. We will discuss these in class.
+Upload this proposal to Moodle under the section for this project. We will discuss these proposals in class.
 
 
 ### Documentation
 
-Documentation of your work will be a key component of your final grade. This is due Monday 5/8 for critique. Make sure you also have a title and description.
+In addition to presenting your artwork itself for critique in class, the final deliverable for your project will consist of a title, 3-sentence artist description, and a short documentation video. These should be uploaded to Moodle prior to the crit.
 
-If you are making an audio track, additional documentation beyond the audio is not necessary. However, images, diagrams, scores, and other material that can accompany or clarify the sonic experience is a good idea.
+Your video should be 1–2 mins long. You may use your phone, but film in **landscape**, [use AE/AF Lock](https://improvephotography.com/53127/what-is-ae-af-lock-on-an-iphone-and-how-does-that-help-my-pictures/), and use a tripod. Make use of the photo both in the back of 303. You do not need titles or a spoken explanation—just show your piece doing its thing.
 
-If you are making an installation or physical object, you must make a video. Sound in your video should get special attention—if you're not using your recorder in your piece, use it to record the sound for your video. Clean up your audio in Audacity as necessary.
-
-
-
-### Schedule
-
-We will have a preliminary critique one week (after your proposal is due, and a final critique during our exam time. Issues raised in the preliminary critique should be addressed in some way by the final. Depending on the nature of the proposals, we will organize a means of experiencing the works as intended. Documentation is due by the end of the exam period.
-
- -->

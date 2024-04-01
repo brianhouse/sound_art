@@ -53,11 +53,10 @@ digital? == measurements
 add the preamp circuit for them?
 https://www.richardmudhar.com/blog/2022/07/piezo-contact-microphone-preamp-for-plug-in-power/
 
-
 show the images on the display as I go around
 
-
 CAN WE DO SOMETHING WITH ELECTRETS?
+
 
 
 ## Editing / Arranging
@@ -71,6 +70,8 @@ a chance to have mixing feedback is a bit important
 importing multiple source files?
 
 normalize on export
+
+images for Envelopes and Pannin
 
 
 ## Soundscape
@@ -90,6 +91,11 @@ DFPLayer? ---> for the first "resonating body" exercise, just have them use thei
 need an image of the wires wrapped in the stereo plug prior to soldering
 
 no one made a box for "resonating body". I think I should demonstrate this with a cardboard box.
+
+also, how transducers are used needs to be demonstrated
+
+and maybe for that exercise we all use the same sound? eh.
+
 
 ### strategies that came up that I noted:
 dampening
@@ -113,7 +119,23 @@ Add to tutorial:
 - Inkscape segment deletion (make the nodes and then do control-double click)
 - Images to the glowforge instructions
 
+I actually wonder if laser cutting takes up too much time that could be used for electronics. not enough people are taking advantage of it anyway.
+
+
+## Sound Objects
+
+I am anticipated it really needs two full weeks, presenting on the following Monday
+which implies that using a final exam period would really help open up the final project possibilities
+
+didnt get a chance for proper desk crits (the other project either)
+
+
+maybe there's just a midterm and a final
+
 
 ### more on circuits
 
 https://eater.net/8bit
+
+solenoids could really be key. but how does that integrate? and battery power?
+

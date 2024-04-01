@@ -135,6 +135,23 @@ If you recorded your audio at 48kHz, selecting 16kHz will play back the audio at
 
 In addition, there is "Effect → Reverse", which will flip the order of samples in a clip.
 
+### Dynamic volume
+
+By crafting "envelopes," you aren't limited by the dynamics of your recordings or even the basic mixing enabled by the track controls—you can expressively alter how audio is presented to the listener.
+
+Select the envelope tool in the palette. By clicking, holding, and dragging up and down on a clip, you can see how the amplitude of the waveform is adjusted. By just clicking once, you'll create a new control point, and either side of that point can be adjusted independently. To remove a control point, simply drag it outside the track.
+
+
+### Panning
+
+Envelopes can be used to simulate a panning curve, which is otherwise missing in Audacity.
+
+To do this, we first have to separate our stereo track into two mono tracks. Do this by clicking on the name of the track and selecting "Split Stereo to Mono". As a result, each channel in the stereo track is now on its own new track.
+
+Using the track controls, pan the top one all the way to the left, and the bottom all the way to the right. This will create the same result as the original stereo track.
+
+Now we can adjust the envelopes of each side independently. If the audio envelope between the two tracks differs, we will hear the sound move through space.
+
 
 ### Reverb
 

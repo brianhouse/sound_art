@@ -213,7 +213,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Midterm Meetings
 
 #### Wednesday 4/3
-- Critique Sound Object projects
+<!-- - Critique Sound Object projects -->
+<!-- TALK ABOUT DOCUMENTATION -->
 - Camille Norment, _Plexus_ (2022)
 - Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
 
@@ -221,6 +222,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 10 — Oscillators
 
 #### Monday 4/8
+- Critique Sound Object projects
 - MSHR, _Mesh Manifold_ (2023)
 - Daniel Fishkin, _Solar Sounders_ (2021) 
 - Workshop: Oscillators
@@ -228,30 +230,29 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 4/10
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
-- Workshop: Variable resistors
-- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
-
+- Workshop: Oscillators + Variable Resistors
 
 ### Week 11 — Sequencers
 
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/17
-- Present Oscillator exercise
-- Max Neuhaus, _Times Square (the hum)_ (1977)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
 - Workshop: Sequencers
+- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
 
 ### Week 12
 
-#### Monday 4/22
+#### Monday 4/22 <!-- observation -->
+- Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
-- Begin Final project
+- Present Oscillator exercise
+- Begin [Final Project](projects/final_project.md)
 
 #### Wednesday 4/24
 - Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
 - Zimoun, cardboard box installations (2000s)
-- Proposals due
+- Final project proposals due
 
 
 ### Week 13
