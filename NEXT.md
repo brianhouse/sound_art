@@ -133,6 +133,25 @@ didnt get a chance for proper desk crits (the other project either)
 maybe there's just a midterm and a final
 
 
+
+## flow
+
+I'm wondering if bumping up the exercises a bit, include electronics along the way, and then having the Sound Object as the final. bump up the soundscape assignment a bit too, with added mics (so maybe push it back a bit). and eliminate laser cutting.
+
+artist choices and readings are banging
+
+
+and need desk crits!
+
+crit for all exercises
+
+yes, just midterm and final
+
+workshop on switches
+do a friday session on laser cutting
+
+
+
 ### more on circuits
 
 https://eater.net/8bit

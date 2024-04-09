@@ -223,12 +223,11 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 4/8
 - Critique Sound Object projects
-- MSHR, _Mesh Manifold_ (2023)
-- Daniel Fishkin, _Solar Sounders_ (2021) 
 - Workshop: Oscillators
 
 #### Wednesday 4/10
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
+- Daniel Fishkin, _Solar Sounders_ (2021)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
 - Workshop: Oscillators + Variable Resistors
 
@@ -237,6 +236,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/17
+- MSHR, _Mesh Manifold_ (2023)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
 - Workshop: Sequencers
 - Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)

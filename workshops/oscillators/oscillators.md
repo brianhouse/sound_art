@@ -1,125 +1,147 @@
 # Oscillators
 
+<!-- brush tables clean -->
+
 ## Synthesis
 
 As we have explored, sound is a phenomena that relates perception, vibration, space, and meaning. So far, working with sound has meant listening and recording acoustic signals. To do that, we've also touched eletrical analog audio by assembling microphones, speakers, and amplifiers, and even manipulated things digitally. But sound has always begun with physical movement. 
 
 However, there is another fundamental way in which sound is understood in relation to technology, and that is to create sound directly with electronics, either analog or digital. This is called synthesis. Rather than approach things using the fanciest digital signal processing software on our laptops, we will explore this using the foundational circuitry used in hardware synthesizer design. 
 
-## Circuit
+## Circuits and Knots
 
-According to the dictionary, in the general sense the word circuit means "a roughly circular line, route, or movement that starts and finishes at the same place." That applies in the electrical sense, too. A circuit is a loop, or rather, it's typically a whole knot of loops, all of which are flowing from "power" back to "ground" and making something happen along the way. Between power and ground, we use positive (+) and negative (-) to indicate the direction of the flow. 
+According to the dictionary, in the general sense the word circuit means "a roughly circular line, route, or movement that starts and finishes at the same place." That applies in the electrical sense, too. A circuit is a loop, or rather, it's typically a whole knot of loops, in which electrical current is flowing from "power" back to "ground" and making something happen along the way. Between power and ground, we use positive (+) and negative (-) to indicate the direction of the flow. 
 
-What is flowing? Electrical current (we could also think about it as electrons, but the physics is a little hairy to conceptualize as those go backwards).
+When it comes to audio, we can also think of the flow of current in terms of an audio signal. 
 
-What is flowing? Voltage.
 
-Breadboard review
+### Breadboard review
 
+A breadboard lets us experiment with circuits without soldering, which is very helpful when we're in the process of figuring things out. Let's remind ourselves how these mini breadboards work:
 
-## Preparation
+![](../amps/media/7.jpg)
 
-To make a synth, we will still need an amplifier + speaker like we've used before. The difference is that instead of an audio input jack, we will be wiring in our circuit directly. 
+![](media/connections.png)
 
-Position an amplifier breakout board at the right end of a large breadboard. We will also need a speaker. For our purposes at the moment, we will just use one, wired to the "L" output. Make the following connections to the power rail: VDD → +, GND → -.
+### Power rails
 
-To get going with power, plug in a JST breakout (making sure to align + and - to the markings on the rail), but put it all the way to the left. Use two jumper wires to bridge the two power rails so that we have + and - across the whole breadboard. Then go ahead and plug in a 3xAA battery pack.
+In addition, this time we're also going to use a power rail.
 
-[IMAGE]
+![](media/power_rail.png)
 
-Circuit-wise, what we have here is one loop that powers the amp.
+Put a JST-PH socket into your power rail, making sure to line up the + and - indicators. Now plug in a 3xAA (4.5v) battery pack. Everything we build will get power from the rail, and you can turn things on and off with the switch on the pack.
 
 
-## Volume Knob
+## Modules
 
-Next we're going create a circuit/loop that is the input signal to the amplifier. The end of that loop is ground, so let's connect L- → -.
+So we're going to be making knots of electrical loops, using breadboards. This can get extremely complex very fast. One way to make things more manageable is break things up into modules. This is a strategy that has been foundational to electronic music from pretty much the beginning.
 
-Now we need something to flow into L+. But before we do anything else, we're going to add a volume knob. These have three legs—one side is the input, the middle is the output, and the other leg is the ground. What's happening here is that our signal will come to the knob and be divided into two streams—one goes to the amp, and the other goes to ground without reaching it. Turning the knob adjusts the proportion between the two—the higher the voltage that is flowing into the amp, the higher the volume. This is called "voltage dividing".
+We're going to build each module on its own mini-breadboard. Each one will be connected to power and ground independently. And each one will take a signal as input from another module, work with it in some way, and then pass it along to the next one. So one way to think about it is that each module is its own loop/circuit between power and ground, and there's one big loop/circuit between modules with the signal. And then within the modules, there's lots of mini-loops. Knotty!
 
-A "knob" is properly known as a potentiometer (or "pot"), which is also properly known as a **voltage divider**.
 
-[IMAGE]
+### Amplifier
 
-We haven't made a circuit yet, however, because the input is still hanging. but this is where we attach our signal.
+You are already familiar with the first loop—it is an amplifier chip. However, this time we're going to power it from the power rail, we're going to add a volume knob and a low-pass filter (to protect our ears), and it will take a signal from our circuit directly.
 
+Additionally, for our purposes now we're going to stick to one channel. So we only need to wire up one speaker.
 
-## VCO
+The following diagram shows the connections. The speaker wire is left out; the red and black wires shown go to the power rail. The purple wire is the signal coming in.
 
-The **V**oltage **C**ontrolled **O**scillator is one of the most basic components of a synth. At one time, it was made with vacuum tubes or individual transistors; now, it comes as an IC (**I**ntegrated **C**ircuit) chip. We will be using the CMOS 4046, which looks like this:
+_NOTE: to make things fun later on, keep the knobs on your mini-breadboard pointing up and to the right._
 
-[4046]
 
+![](media/amp_bb.jpg)
 
-What it does (lots of things)
+<!--
 
-[square wave]
+#### Voltage dividers
 
-Each of the pins has a function
+Notice that this module uses a potentiometer
 
-[pin labels]
+-->
+<!--
 
-plug it in carefully, spanning the groove in the middle of the breadboard
-will have to bend the legs inward a little bit
+#### Capacitors and filters
 
+Notice that this module uses a capacitor. What is a capacitor?
 
-### power
+-->
 
-power and ground
+### Voltage-Controlled Oscillator (VCO)
 
+The next module is perhaps the most fundamental to synthesis: an oscillator.
 
-### freq range
+There are many ways to create oscillators. We're going to do it using an Integrated Circuit (IC) chip, in this case one called a "CD4046". What is an IC? In essence it is an elaborate switch—it turns a signal on and off.
 
-set frequency range: ground + cap	
+What does turning a signal on and off produce? A square wave.
 
-what is a capacitor?
+![](media/square_wave.jpg)
 
-### freq center
+Hook a square wave up to a speaker, and it becomes a sound wave (a rather buzzy one!).
 
-what is a resistor
+The CD4046 produces a square wave on one of its pins at a rate that depends on what is connected to the other pins. First of all, we need to connect power and ground. In addition, we'll connect:
+- a potentiometer that controls the frequency of the oscillator by varying the voltage
+- a capacitor (this controls the _range_ of the frequency)
+- a resistor (this controls the _center_ of the frequency range)
 
-leaks away to ground ... but not too much
+Because this circuit controls frequency via voltage, it's called a Voltage-Controlled Oscillator, or VCO, which is a common term in synthesis.
+ 
+Here is a diagram of the relevant pins on the CD4046:
 
-### pitch
+![](media/cd4046_pinout.jpeg)
 
-variable resistor!
+And here is our circuit:
 
-so here is where we have some fun.
+_NOTE: to make things fun later on, keep the knobs on your mini-breadboard pointing up and to the right._
 
-#### pot
+![](media/vco_bb.jpg)
 
-#### photocell
 
-sensor is between in and out, resistor is between out and ground
+Note the colors on the resistor!
 
 
-#### fsr
+After building this module, connect power and ground to your power rail. Then, connect the output wire together with the input wire of your amplifier module. Turn it on—you should hear something!
 
-### LFO?
+![](media/hookup_1.jpg)
 
+<!--
 
-## sequencer
+#### Resistors
 
+Notice that this module uses a resistor. What is a resistor?
 
+-->
 
 
 
-use the sequencer for tones and sequencing, how both?
 
-if it's driven by the oscillator, I can get tones -- I need the pot set up for that
 
-if it _drives_ the oscillator, it can gate it.
+### Sensor VCO
 
+A pot is not the only kind of voltage divider. In fact, there are many kinds of sensors that you can use. 
 
+One of these is a photovoltaic resistor, aka a photocell, that changes its resistance according to light. By combining this with a regular, static resistor, this functions similarly to a pot.
 
+![](media/vco_sensor_bb.jpg)
 
 
-building a switch:
+Another option is a Force-Sensive Resistor (FSR).
 
-strip and twist
-join the grounds
 
 
-diagrams:
+### VCO-Controlled VCO
 
-put in the 68k
-put in the filter
+What happens if you plug the output of one VCO into the potentiometer input of another VCO?
+
+**diagram goes here**
+
+![](media/hookup_2.jpg)
+
+
+## Mixer
+
+What if you want to combine the signals from two VCOs?
+
+
+![](media/hookup_3.jpg)
+
