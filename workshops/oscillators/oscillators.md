@@ -142,6 +142,11 @@ What happens if you plug the output of one VCO into the potentiometer input of a
 
 What if you want to combine the signals from two VCOs?
 
+![](media/mixer_bb.jpg)
+
 
 ![](media/hookup_3.jpg)
+
+
+
 
