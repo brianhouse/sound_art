@@ -1,3 +1,3 @@
 # Exercise: Responsive Oscillators
 
-Design a situation in which a synthesizer reacts to something happening in your everyday environment, either automatically or as something you manipulate by hand. If possible, make it.
+Working alone or in pairs, build a custom synthesizer. Use it to give a short "performance" of some kind. This could mean manipulating it directly as a "musical" instrument, incorporating it into a costume or sculpture of some kind, or making an object that responds to its environment via light and/or touch. Extra points for making the strangest sound.

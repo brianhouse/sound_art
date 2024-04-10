@@ -142,6 +142,8 @@ What happens if you plug the output of one VCO into the potentiometer input of a
 
 What if you want to combine the signals from two VCOs?
 
+Use diodes! These have a small stripe which should be on the end pointing in the direction of the current flow.
+
 ![](media/mixer_bb.jpg)
 
 

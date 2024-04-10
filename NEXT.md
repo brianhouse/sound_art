@@ -3,6 +3,11 @@
 MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
 
+chacon and french guy -- whoops I have two birds! take out chacon, this piece is not good.
+
+add theremin?
+
+
 ## Readings
 
 Make them official!
@@ -157,4 +162,9 @@ do a friday session on laser cutting
 https://eater.net/8bit
 
 solenoids could really be key. but how does that integrate? and battery power?
+
+
+
+
+
 
