@@ -161,19 +161,21 @@ didnt get a chance for proper desk crits (the other project either)
 
 ## circuits
 
+### more on circuits
+
+https://eater.net/8bit
+
+solenoids could really be key. but how does that integrate? and battery power?
+
+### now
 
 oscillators —> synthesizers
 
 the flow diagrams are a little weird if the rail-breadboard is going to be used for mixing.
 
 
+don't have the pot hanging over the edge in the diagram, they will copy that directly and make more fragile boards
 
 
-
-### more on circuits
-
-https://eater.net/8bit
-
-solenoids could really be key. but how does that integrate? and battery power?
 
 

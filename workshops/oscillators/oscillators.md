@@ -154,5 +154,38 @@ You can make this into its own module, or use the power-rail breadboard for mixi
 
 ## Sequencer
 
+Now that we're able to make sound and modulate it in various ways, it's time to introduce a sequencer.
+
+A sequencer is a mechanism that has a looping series of steps and activates them one at a time in turn. By hooking a sequencer up to one or more oscillators, we can create patterns (although we can also use sequencers to create sound directly, as we'll see).
+
+Because a sequencer is in essence a bunch of switches, we can use an IC chip very similar to our CB4046 oscillator—the CB4017.
+
+The CB4017 is a 10-step counter, which means it has 10 switches that it turns on and off in order (numbered 0 through 9). Note that because the IC is just a wrapper for a bunch of internal transistors, these 10 steps follow the needs of the internal layout rather making any sense to us on the outside in terms of how they are spatially arranged.
+
+![](media/cd4017_pinout.jpeg)
+
+
+In addition, the CB4017 has a "clock" pin. This pin takes an oscillating signal and uses it as the basis for one cycle through its steps. In other words, you'll hook an oscillator module's output up to this pin, turn the oscillator down so it's really slow, and the CB4017 will divide it into 10 steps.
+
+Except ... it doesn't have to be 10 steps, that's just a maximum. If you want, say, 8 steps, you can make a connection between that step number and the "rst" (reset) pin. So you'll get step number 0 through 7, and then step 8 (which is really the 9th step) will immediately set things back to 0.
+
+The following schematic is wired for 8-steps:
+
+![](media/sequencer_bb.jpg)
+
+Notice that we've also added an LED (small red light) to step zero so that we can see visually when the sequencer starts over. We could add an LED to every step if we wanted, but that's a lot of wiring. We always have to use a 2.2k resistor with the LED to make sure it doesn't use up all the juice we need for powering our circuit.
+
+
+<!-- 
+hook up sequencer to another oscillator's power
+...or two oscillators' powers
+-->
+
+
+<!-- 
+hook up sequencer directly to mixer (get intervals)
+-->
+
+
 
 
