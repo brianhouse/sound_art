@@ -125,10 +125,10 @@ One of these is a photovoltaic resistor, aka a photocell, that changes its resis
 ![](media/vco_sensor_bb.jpg)
 
 
-Another option is a Force-Sensive Resistor (FSR).
+Another option is a Force-Sensive Resistor (FSR), which is wired in the same way as the photocell above.
 
 
-
+<!-- 
 ### VCO-Controlled VCO
 
 What happens if you plug the output of one VCO into the potentiometer input of another VCO?
@@ -136,7 +136,7 @@ What happens if you plug the output of one VCO into the potentiometer input of a
 **diagram goes here**
 
 ![](media/hookup_2.jpg)
-
+ -->
 
 ## Mixer
 
@@ -144,11 +144,15 @@ What if you want to combine the signals from two VCOs?
 
 Use diodes! These have a small stripe which should be on the end pointing in the direction of the current flow.
 
+You can make this into its own module, or use the power-rail breadboard for mixing.
+
 ![](media/mixer_bb.jpg)
 
 
 ![](media/hookup_3.jpg)
 
+
+## Sequencer
 
 
 

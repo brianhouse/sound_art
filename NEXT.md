@@ -3,9 +3,26 @@
 MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
 
-chacon and french guy -- whoops I have two birds! take out chacon, this piece is not good.
 
-add theremin?
+
+
+## flow
+
+maybe there's just a midterm and a final
+
+I'm wondering if bumping up the exercises a bit, include electronics along the way, and then having the Sound Object as the final. bump up the soundscape assignment a bit too, with added mics (so maybe push it back a bit). and eliminate laser cutting.
+
+artist choices and readings are banging
+
+
+and need desk crits!
+
+crit for all exercises
+
+yes, just midterm and final
+
+workshop on switches
+do a friday session on laser cutting
 
 
 ## Readings
@@ -24,6 +41,11 @@ go through Moodle to add the "slides such as Keynote" phrase
 chavez was great, but what about Victoria Chen??
 
 Christian Marclay? 
+
+chacon and french guy -- whoops I have two birds! take out chacon, this piece is not good.
+
+Leon Theremin?
+
 
 
 ## Intro
@@ -135,25 +157,16 @@ which implies that using a final exam period would really help open up the final
 didnt get a chance for proper desk crits (the other project either)
 
 
-maybe there's just a midterm and a final
 
 
-
-## flow
-
-I'm wondering if bumping up the exercises a bit, include electronics along the way, and then having the Sound Object as the final. bump up the soundscape assignment a bit too, with added mics (so maybe push it back a bit). and eliminate laser cutting.
-
-artist choices and readings are banging
+## circuits
 
 
-and need desk crits!
+oscillators —> synthesizers
 
-crit for all exercises
+the flow diagrams are a little weird if the rail-breadboard is going to be used for mixing.
 
-yes, just midterm and final
 
-workshop on switches
-do a friday session on laser cutting
 
 
 
@@ -162,9 +175,5 @@ do a friday session on laser cutting
 https://eater.net/8bit
 
 solenoids could really be key. but how does that integrate? and battery power?
-
-
-
-
 
 
