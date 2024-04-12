@@ -39,7 +39,7 @@ So we're going to be making knots of electrical loops, using breadboards. This c
 We're going to build each module on its own mini-breadboard. Each one will be connected to power and ground independently. And each one will take a signal as input from another module, work with it in some way, and then pass it along to the next one. So one way to think about it is that each module is its own loop/circuit between power and ground, and there's one big loop/circuit between modules with the signal. And then within the modules, there's lots of mini-loops. Knotty!
 
 
-### Amplifier
+## Amplifier
 
 You are already familiar with the first loop—it is an amplifier chip. However, this time we're going to power it from the power rail, we're going to add a volume knob and a low-pass filter (to protect our ears), and it will take a signal from our circuit directly.
 
@@ -47,7 +47,7 @@ Additionally, for our purposes now we're going to stick to one channel. So we on
 
 The following diagram shows the connections. The speaker wire is left out; the red and black wires shown go to the power rail. The purple wire is the signal coming in.
 
-_NOTE: to make things fun later on, keep the knobs on your mini-breadboard pointing up and to the right._
+_NOTE: to be able to attach the modules together later in a consistent way, keep the knobs on your mini-breadboard pointing up and to the right._
 
 
 ![](media/amp_bb.jpg)
@@ -67,7 +67,7 @@ Notice that this module uses a capacitor. What is a capacitor?
 
 -->
 
-### Voltage-Controlled Oscillator (VCO)
+## Voltage-Controlled Oscillator (VCO)
 
 The next module is perhaps the most fundamental to synthesis: an oscillator.
 
@@ -80,9 +80,9 @@ What does turning a signal on and off produce? A square wave.
 Hook a square wave up to a speaker, and it becomes a sound wave (a rather buzzy one!).
 
 The CD4046 produces a square wave on one of its pins at a rate that depends on what is connected to the other pins. First of all, we need to connect power and ground. In addition, we'll connect:
-- a potentiometer that controls the frequency of the oscillator by varying the voltage
-- a capacitor (this controls the _range_ of the frequency)
-- a resistor (this controls the _center_ of the frequency range)
+- a potentiometer that will control the frequency of the oscillator by varying the voltage
+- a capacitor that controls the ratio between voltage and frequency
+- a resistor that sets the _maximum_ frequency (we'll leave the minimum set to zero)
 
 Because this circuit controls frequency via voltage, it's called a Voltage-Controlled Oscillator, or VCO, which is a common term in synthesis.
  
@@ -92,12 +92,12 @@ Here is a diagram of the relevant pins on the CD4046:
 
 And here is our circuit:
 
-_NOTE: to make things fun later on, keep the knobs on your mini-breadboard pointing up and to the right._
+_NOTE: to be able to attach the modules together later in a consistent way, keep the knobs on your mini-breadboard pointing up and to the right._
 
 ![](media/vco_bb.jpg)
 
 
-Note the colors on the resistor!
+Note the colors on the resistor! This needs to be 10kΩ of resistance.
 
 
 After building this module, connect power and ground to your power rail. Then, connect the output wire together with the input wire of your amplifier module. Turn it on—you should hear something!
@@ -149,7 +149,7 @@ You can make this into its own module, or use the power-rail breadboard for mixi
 ![](media/mixer_bb.jpg)
 
 
-![](media/hookup_3.jpg)
+![](media/hookup_3.png)
 
 
 ## Sequencer
@@ -173,19 +173,48 @@ The following schematic is wired for 8-steps:
 
 ![](media/sequencer_bb.jpg)
 
-Notice that we've also added an LED (small red light) to step zero so that we can see visually when the sequencer starts over. We could add an LED to every step if we wanted, but that's a lot of wiring. We always have to use a 2.2k resistor with the LED to make sure it doesn't use up all the juice we need for powering our circuit.
+Notice that we've also added an LED (small red light) to step zero so that we can see visually when the sequencer starts over. We could add an LED to every step if we wanted, but that's a lot of wiring. We always have to use a 2.2kΩ resistor with the LED to make sure it doesn't use up all the juice we need for powering our circuit.
+
+Ok, so how do we use this?
+
+### Sequencing a VCO
+
+The most straightforward use is to use the sequencer to turn on and off an oscillator. This means we will need _two_ oscillator modules—one to use as the clock, and one to be the signal that is turned on and off.
+
+Note that we're connecting the signal output on the 0-step pin of the sequencer to the **power** of the VCO.
+
+![](media/hookup_4.png)
+
+Now, this will just turn the VCO on for step 0 of the sequence. What if we want to turn it on for another step?
+
+In this case, we need a diode mixer module. We connect **two** outputs from the sequencer from the steps we want to the mixer. The result then goes to the power.
+
+![](media/hookup_5.png)
+
+If you have an LED on step 0, you'll notice that step 0 produces a different pitch in the VCO. That's because some of the voltage is getting siphoned off to power the LED before it can power the VCO. You can use this to make different tones using one VCO by putting resistors prior to the mixer.
 
 
-<!-- 
-hook up sequencer to another oscillator's power
-...or two oscillators' powers
--->
+### Sequencing two VCOs
+
+Of course, we could also just sequence two (or more) VCOs directly from the sequencer.
 
 
-<!-- 
-hook up sequencer directly to mixer (get intervals)
--->
+![](media/hookup_6.png)
 
+
+### Using sequencers as tone generators
+
+Another option that pushes the definition of "sequencer" a bit is to use the CB4017 as a tone generator. If you just route a step output directly to your amplifier, you'll hear a tone, albeit one at a frequency that is a fraction of the clock VCO. That fraction depends on which step you've wired to be the reset step.
+
+The opportunity here is that with **two** sequencers set to different fractions, you can get musical intervals (you may have noticed this is tricky with pots, sensors, and regular resistors).
+
+In this case, you need to connect the clock VCO to both sequencers (you don't need a mixer for this, just connect them on a breadboard), and then mix the output of both sequencers together.
+
+
+![](media/hookup_7.png)
+
+
+What intervals do you get?
 
 
 

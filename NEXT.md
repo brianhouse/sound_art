@@ -176,6 +176,8 @@ the flow diagrams are a little weird if the rail-breadboard is going to be used 
 
 don't have the pot hanging over the edge in the diagram, they will copy that directly and make more fragile boards
 
+LFO with the other chip
+
 
 
 
