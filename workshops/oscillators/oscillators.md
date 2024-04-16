@@ -214,7 +214,16 @@ In this case, you need to connect the clock VCO to both sequencers (you don't ne
 ![](media/hookup_7.png)
 
 
-What intervals do you get?
+What intervals do you get? If one sequencer resets at 8 steps, and the other at 4, the ratio between them is 1/2, and the musical interval is a perfect fifth / sol. If the second sequencer resets at 2, then the ratio is 1/4, and you get a major third / mi. 
 
+	1/2 is a perfect fifth
+	1/3 is a perfect fourth
+	1/4 is a major third 
+	1/5 is a minor third
+	1/6 is a fourth another octave down
+	1/7 is ... ?
+	1/8 is a major second
+	1/9 is ... ?
+	1/10 is a third another octave down
 
-
+	
