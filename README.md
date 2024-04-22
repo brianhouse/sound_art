@@ -247,10 +247,10 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
 - Present Oscillator exercise
-- Begin [Final Project](projects/final_project.md)
+- Begin [Final Project](projects/final.md)
 
 #### Wednesday 4/24
-- Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
+<!-- - Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf) -->
 - Zimoun, cardboard box installations (2000s)
 - Final project proposals due
 
