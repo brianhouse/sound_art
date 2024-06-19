@@ -199,7 +199,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Kevin Beasley, _A View of a Landscape_ (2019)
 - Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
 - Present proposals for Sound Object project
-<!-- prep for midterm meetings -->
+<!-- prep for midterm meetings: ask for a self-assessment  -->
 
 #### Thursday 3/28
 - Steven Feld, 4:15pm at the Lyceum 

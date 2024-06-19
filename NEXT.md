@@ -84,6 +84,8 @@ show the images on the display as I go around
 
 CAN WE DO SOMETHING WITH ELECTRETS?
 
+http://www.openmusiclabs.com/learning/sensors/electret-microphones/
+
 
 
 ## Editing / Arranging
@@ -180,4 +182,76 @@ LFO with the other chip
 
 
 
+### 
 
+SWITCHES
+- turning things on and off with buttons, switches, and custom tin foil contacts would be very helpful
+- if this could control the audio player to do different sounds, that would be even better (gets a little bit of interaction without a microcontroller)
+
+[microcontroller class is definitely the next step, course-wise]
+
+MICS
+being able to integrate the mics and the speaker circuits would be great
+
+what does that imply? 
+- making a spring reverb, say
+- or a distortion circuit
+- tape delay (if we integrate tapes) ---> take out the field recording portion?
+
+but at the least, feedback and amplifying small mechanical sounds
+
+this requires some kind of preamp situation. would need to work with an electret and the contact at least.
+
+
+also, a mixer. with a mixer, it could work with the synth electronics.
+
+
+SWITCHES
+
+
+heat guns bend plexiglass!
+
+
+motors / servos
+
+
+
+### preamp module
+
+TS jack (different!)
+10 uF capacitor
+4049
+
+an electret works with the breakout. ideally it would be interchangeable with a version with a jack that worked on the recorder, however. but it doesn't seem to work with the preamp straightup. 
+
+
+==> piezo works with preamp
+==> electret works with plug-in power; not without
+==> coil does not work with preamp      [probably impedence?] ---> this is annoying
+==> electret does not work with preamp  [also? or?]
+==> electret with breakout _does_ work with preamp
+
+
+https://www.epanorama.net/circuits/microphone_powering.html
+
+https://www.youtube.com/watch?v=F21lvgMFglw
+
+
+I _could_ use a 9v amp. but that increases the speaker output to 20W, which gets a little too serious.
+
+
+
+### sensors
+
+integrate proximity sensor?
+
+//
+
+GO MONO in general
+
+
+build the 9v into the mic and bypass plug-in power
+
+this is only elegant if I can get the inductor to work with the preamp 
+
+so ... better preamp

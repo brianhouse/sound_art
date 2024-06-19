@@ -12,16 +12,5 @@ read and notes for:
 - henriques
 
 
-## content
 
-workshops:
-- desoldering!
-- enclosure design?
-- electronics??? + lights?
-
-exercises:
-- electronics??
-
-projects:
-- Sythesis / Final
-
+Susan Daniels — link to resources for giving presentations
