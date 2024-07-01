@@ -1,6 +1,6 @@
-# ARHA 292: INTRODUCTION TO SOUND ART
+# ARHA 1XX: INTRODUCTION TO SOUND ART
 
-Monday / Wednesday 9:00–11:00  
+Monday / Wednesday 1:00–3:00pm
 Fayerweather 303
 
 Prof. Brian House (he/him)  
@@ -72,12 +72,12 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 1 — Listening & Hearing
 
-#### Monday 1/29
+#### Monday 1/27
 - Course introduction
 - Workshop: [Listening](workshops/listening.md)
 
 
-#### Wednesday 1/31
+#### Wednesday 1/29
 - Reading due: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
 <!-- brief reading discussion -->
 - Christine Sun Kim, _Captioning the City_ (2021)
@@ -89,7 +89,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 2 — Acoustic Recording
 
-#### Monday 2/5
+#### Monday 2/3
 <!-- Rick Mears! Director of Environmental Health and Safety -->
 <!-- sign up for presentations now if you forgot -->
 <!-- didn't have time for talking about recording because check-out + safety took so long --> 
@@ -100,7 +100,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Recording](workshops/recording/recording.md)
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
-#### Wednesday 2/7
+#### Wednesday 2/5
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Listen to Capturing Place exercise  <!-- play the full minute of each one -->
 - Workshop: [Editing](workshops/editing.md)
@@ -111,7 +111,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 3 — Beyond Acoustics
 
-#### Monday 2/12
+#### Monday 2/10
 <!-- Heather brings keys -->
 <!-- barely fits, time wise -->
 - Listen to Editing exercise
@@ -121,7 +121,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Soldering](workshops/soldering/soldering.md) and [Contact Microphones](workshops/contact_mics/contact_mics.md)
 
 
-#### Wednesday 2/14
+#### Wednesday 2/12
 <!-- go over lab rules -->
 - Reading due: [Brandon Labelle, "Auditory Relations" (2006)](readings/labelle_auditory_relations.pdf)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
@@ -131,14 +131,14 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 4 — Soundscapes
 
-#### Monday 2/19
+#### Monday 2/17
 - Listen to Non-Acoustic Vignette <!-- full, discuss details cold -->
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - Begin [Soundscape](projects/soundscape.md) project <!-- desk crits -->
 <!-- finish up any outstanding issues building piezos etc -->
 
 
-#### Wednesday 2/21
+#### Wednesday 2/19
 - Reading due: [Dylan Robinson, "Hungry Listening" (2020)](readings/robinson_hungry_listening.pdf)
 - Ernst Karel, _Heard Laboratories_ (2010)
 - Present proposals for Soundscape project <!-- worth doing and takes awhile -->
@@ -148,23 +148,23 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 5 — Soundscapes continued
 
-#### Monday 2/26
+#### Monday 2/24
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
 - Reading due: [Bernie Krause, "The Niche Hypothesis" (1987)](readings/krause_niche_hypothesis.pdf)
 - Work time
 
-#### Wednesday 2/28
+#### Wednesday 2/26
 - Critique Soundscape projects
 
 
 ### Week 6 — Amplification
 
-#### Monday 3/4
+#### Monday 3/3
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
 - Workshop: [Assembling an Amplifier and Speakers](workshops/amps/amps.md)
 
-#### Wednesday 3/6
+#### Wednesday 3/5
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Transducers](workshops/transducers/transducers.md)
@@ -173,12 +173,12 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 7 — Fabrication
 
-#### Monday 3/11
+#### Monday 3/10
 - Present Resonators
 - Alvin Lucier, _I Am Sitting in a Room_ (1969)
 - Workshop: [Vector Drawing](workshops/vector_drawing/vector_drawing.md) and [Laser Cutting](workshops/laser_cutting/laser_cutting.md)
 
-#### Wednesday 3/13
+#### Wednesday 3/12
 - Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](readings/kwon_genealogy_of_site_specificity.pdf)
 - Shilpa Gupta, _I keep falling at you_ (2010)
 - Exercise for next class: [Cool Box](exercises/cool_box.md)
@@ -189,30 +189,27 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 8
 
-#### Monday 3/25 — Sound Objects
+#### Monday 3/24 — Sound Objects
 - Present Boxes
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Maria Chavez, _Of Technique: Chance Procedures on Turntable_ (2012)
 - Begin [Sound Object](projects/sound_object.md)
 
-#### Wednesday 3/27
+#### Wednesday 3/26
 - Kevin Beasley, _A View of a Landscape_ (2019)
 - Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
 - Present proposals for Sound Object project
 <!-- prep for midterm meetings: ask for a self-assessment  -->
 
-#### Thursday 3/28
-- Steven Feld, 4:15pm at the Lyceum 
-
 
 ### Week 9 — Sound Objects continued
 
-#### Monday 4/1
+#### Monday 3/31
 - Nam June Paik, _Random Access_ (1963)
 - Work time
 - Midterm Meetings
 
-#### Wednesday 4/3
+#### Wednesday 4/2
 <!-- - Critique Sound Object projects -->
 <!-- TALK ABOUT DOCUMENTATION -->
 - Camille Norment, _Plexus_ (2022)
@@ -221,11 +218,11 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 10 — Synthesizers
 
-#### Monday 4/8
+#### Monday 4/7
 - Critique Sound Object projects
 - Workshop: [Oscillators](workshops/oscillators/oscillators.md)
 
-#### Wednesday 4/10
+#### Wednesday 4/9
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
@@ -233,23 +230,24 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 11 — Sequencers
 
-#### Monday — No Class (April Break)
-
-#### Wednesday 4/17
+#### Monday 4/14
 - MSHR, _Mesh Manifold_ (2023)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
 - Workshop: [Sequencers](workshops/oscillators/oscillators.md)
 - Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
 
-### Week 12
-
-#### Monday 4/22 <!-- observation -->
+#### Monday 4/16
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
 - Present Oscillator exercise
 - Begin [Final Project](projects/final.md)
 
-#### Wednesday 4/24
+
+### Week 12
+
+#### Monday — No Class (April Break)
+
+#### Wednesday 4/23
 <!-- - Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf) -->
 - Zimoun, cardboard box installations (2000s)
 - Final project proposals due
@@ -257,18 +255,18 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 13
 
-#### Monday 4/29
+#### Monday 4/28
 - Céleste Boursier-Mougenot, _From Here to Ear_ (1999)
 - Work time
 
-#### Wednesday 5/1
+#### Wednesday 4/30
 - Felix Hess, _It's in the Air_ (2008)
 - Work time
 
 
 ### Week 14
 
-#### Monday 5/6
+#### Monday 5/5
 - Final project critique
 
 
