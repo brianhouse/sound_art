@@ -4,14 +4,11 @@
 - MAX98306 solid-state amplifier breakout board (pre-soldered)
 - JST jack breakout board
 - Speakers (4Ω or higher and rated for at least 3W)
-- 1/8" TRS audio jack (panel mount)
 - 18 or 20 gauge speaker wire
 - Solid-core wires (red, black, green)
 - Mini breadboard
 - 3x AA battery holder
 - 3x AA batteries
-- 1/8" TRS (stereo) audio cable
-- Audio player of some kind with a 1/8" jack
 
 ### Tools
 - Coarse wire strippers (yellow band)
@@ -46,23 +43,6 @@ To wire a speaker, we use speaker wire, which is really two stranded wires stuck
 1. Repeat for a second speaker.
 
 
-## Prepare the jack
-
-A TRS jack is the counterpart to a TRS (stereo) cable. Inside the socket, it connects to the Tip, Ring, and Sleeve of the plug and routes these out to leads to which we can attach wires.
-
-1. If your jack is in the package and it has a loose nut, you might want to screw that on now so it doesn't get lost.
-1. Cut a matching length of red, black, and green wires. The length will depend on what you need for your project.
-1. Strip 1/4" off of one end of all the wires, and 3/8" off of the other. Note that this wire is solid core 22 gauge wire—use the appropriate hole on the fine wire strippers.
-![](media/4.jpg)
-
-1. Loop the exposed end of the black wire through the hole of the longest lead on the jack, and solder it. Once again, the joint should not move once it's soldered, and the hole on the jack should be completely filled. You will probably have to use helping hands.
-![](media/5.jpg)
-
-1. Do the same for the other wires. It doesn't matter (for now) which color wire is connected to which tab.
-1. Cut off any excess exposed core from the wires. Be careful that no wire is in danger of touching another.
-![](media/6.jpg)
-
-
 ## Putting it all together
 
 Everything will be assembled on a breadboard. A breadboard is a helpful tool for prototyping and making quick connections—every row of holes is eletrically connected, so by inserting wires into the holes, a circuit can be made without soldering. This is especially helpful with "breakout boards" that have a row of pins. Inserting a wire in the row next to a pin makes a connection.
@@ -75,15 +55,6 @@ Everything will be assembled on a breadboard. A breadboard is a helpful tool for
 
 1. With a mini screwdriver, make sure the terminal blocks on the breakout board are open. Don't use any force with these, as they are easy to break. Insert the ends of each set of speaker wires into the holes, matching black to - and red to + as labeled on the board, and gently tighten the screws to secure them. There shouldn't be too much exposed copper wire, and be certain that there is no danger of any two speaker wires touching (if they do, this is likely the end of the amp: 0Ω). Trim the wires if necessary. There should be no loose strands.
 ![](media/9.jpg)
-
-1. Prepare a short black jumper wire with 1/4" stripped on both ends.
-![](media/10.jpg)
-
-1. Insert the green wire of the jack into a hole on the row next to the pin labeled L+
-1. Insert the red wire from the jack into a hole on the row next to the pin labeled R+
-1. Insert the black wire from the jack into a hole on the row next to the pin labeled L-
-1. Finally, use the short jumper wire to connect L- to R-
-![](media/11.jpg)
 
 1. Plug the JST jack breakboard into the breadboard such that the + pin lines up with VDD on the amplifier board and the - pin lines up with GND. This will result in the edges of the boards being flush with one another. Be careful to get this right, as putting this in the wrong place can potentially fry the amp.
 ![](media/12.jpg)

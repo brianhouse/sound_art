@@ -1,4 +1,4 @@
-# ARHA 1XX: INTRODUCTION TO SOUND ART
+# ARHA/MUSI 191: INTRODUCTION TO SOUND ART
 
 Monday / Wednesday 1:00–3:00pm
 Fayerweather 303
@@ -10,7 +10,7 @@ Fayerweather 308
 
 
 ## Course Description
-This course explores sound as a medium of art-making with a rich history and radical potential within contemporary culture. Techniques covered will include listening exercises and non-musical scores, creative manipulation of analog media, and building lo-fi electronics. Accompanying readings draw from acoustic ecology, critical sound studies, and media theory to contextualize collective exploration. Students will be expected to create studio-based art for critique. No musical experience is required.
+This course explores sound as a medium of art-making with a rich history and radical potential within contemporary culture. Techniques covered will include listening exercises and non-musical scores, creative manipulation of analog media, and building lo-fi electronics. Accompanying readings draw from acoustic ecology, critical sound studies, afro-futurism, and media theory to contextualize collective exploration. Students will be expected to create studio-based art for critique. No musical experience is required.
 
 #### Objectives
 - Incorporate sound and listening into studio practice
@@ -32,6 +32,8 @@ You will complete three larger projects over the course of the semester, each of
 
 ### Presentations
 Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then precede to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
+
+For assistance developing presentation skills, students should reach out to [Susan Daniels](https://www.amherst.edu/academiclife/support/writingcenter/public-speaking) at the Writing Center.
 
 ### Reading
 Many classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready—post these on Moodle ahead of the class session. 
@@ -134,129 +136,128 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 2/17
 - Listen to Non-Acoustic Vignette <!-- full, discuss details cold -->
 - Janet Cardiff, _Her Long Black Hair_ (2004)
-- Begin [Soundscape](projects/soundscape.md) project <!-- desk crits -->
-<!-- finish up any outstanding issues building piezos etc -->
-
+- Ernst Karel, _Heard Laboratories_ (2010)
+- Workshop: [Electrets](workshops/electrets/electrets.md)
 
 #### Wednesday 2/19
 - Reading due: [Dylan Robinson, "Hungry Listening" (2020)](readings/robinson_hungry_listening.pdf)
-- Ernst Karel, _Heard Laboratories_ (2010)
-- Present proposals for Soundscape project <!-- worth doing and takes awhile -->
-<!-- have some recordings ready for editing in class next time -->
-
+- TBD ** <!-- indigenous -->
+- Begin [Soundscape](projects/soundscape.md) project <!-- desk crits -->
+<!-- finish up any outstanding issues building piezos etc -->
 
 
 ### Week 5 — Soundscapes continued
 
 #### Monday 2/24
+- Alvin Lucier, _I Am Sitting in a Room_ (1969)
+- Present proposals for Soundscape project <!-- worth doing and takes awhile -->
+- Work time
+
+#### Wednesday 2/26
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
 - Reading due: [Bernie Krause, "The Niche Hypothesis" (1987)](readings/krause_niche_hypothesis.pdf)
 - Work time
 
-#### Wednesday 2/26
-- Critique Soundscape projects
+
+### Week 6 — Fabrication
+
+#### Monday 3/10
+- Critique Soundscape project 
 
 
-### Week 6 — Amplification
-
-#### Monday 3/3
+#### Wednesday 3/12
+- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
 - Workshop: [Assembling an Amplifier and Speakers](workshops/amps/amps.md)
 
-#### Wednesday 3/5
-- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
+
+### Week 7 — Amplification
+
+#### Monday 3/3
+- Shilpa Gupta, _I keep falling at you_ (2010)
 - David Tudor, _Rainforest_ (1968)
-- Workshop: [Transducers](workshops/transducers/transducers.md)
+- Workshop: [Enclosures](workshops/enclosures/enclosures.md)
 - Exercise for next class: [Resonating Bodies](exercises/resonating_bodies.md)
 
-
-### Week 7 — Fabrication
-
-#### Monday 3/10
-- Present Resonators
-- Alvin Lucier, _I Am Sitting in a Room_ (1969)
-- Workshop: [Vector Drawing](workshops/vector_drawing/vector_drawing.md) and [Laser Cutting](workshops/laser_cutting/laser_cutting.md)
-
-#### Wednesday 3/12
-- Reading due: [Miwon Kwon, "Genealogy of Site Specificity"](readings/kwon_genealogy_of_site_specificity.pdf)
-- Shilpa Gupta, _I keep falling at you_ (2010)
-- Exercise for next class: [Cool Box](exercises/cool_box.md)
-
+#### Wednesday 3/5
+- Present Resonating Bodies exercise
 
 ### Spring Break
 
-
-### Week 8
-
-#### Monday 3/24 — Sound Objects
-- Present Boxes
-- Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
-- Maria Chavez, _Of Technique: Chance Procedures on Turntable_ (2012)
-- Begin [Sound Object](projects/sound_object.md)
-
-#### Wednesday 3/26
-- Kevin Beasley, _A View of a Landscape_ (2019)
-- Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
-- Present proposals for Sound Object project
-<!-- prep for midterm meetings: ask for a self-assessment  -->
-
-
-### Week 9 — Sound Objects continued
-
-#### Monday 3/31
-- Nam June Paik, _Random Access_ (1963)
-- Work time
-- Midterm Meetings
-
-#### Wednesday 4/2
-<!-- - Critique Sound Object projects -->
-<!-- TALK ABOUT DOCUMENTATION -->
-- Camille Norment, _Plexus_ (2022)
-- Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
-
-
-### Week 10 — Synthesizers
+### Week 8 — Oscillators
 
 #### Monday 4/7
-- Critique Sound Object projects
-- Workshop: [Oscillators](workshops/oscillators/oscillators.md)
+- Workshop: [Oscillators](workshops/synths/oscillators.md)
 
 #### Wednesday 4/9
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Daniel Fishkin, _Solar Sounders_ (2021)
-- Raven Chacon, _While Contemplating Their Fate In The Stars, The Twins Surround The Enemy_ (2004)
-- Workshop: [Oscillators + Variable Resistors](workshops/oscillators/oscillators.md)
+- MSHR, _Mesh Manifold_ (2023)
+- Workshop: [Oscillators + Variable Resistors](workshops/synths/oscillators.md)
 
-### Week 11 — Sequencers
+
+### Week 9 — Sequencers
 
 #### Monday 4/14
-- MSHR, _Mesh Manifold_ (2023)
+- Ryoji Ikeda, _Transinfinite_ (2011)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
-- Workshop: [Sequencers](workshops/oscillators/oscillators.md)
-- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
+- Workshop: [Sequencers](workshops/synths/sequencers.md)
 
-#### Monday 4/16
+
+#### Wednesday 4/16
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
-- Present Oscillator exercise
-- Begin [Final Project](projects/final.md)
+- Workshop: [Sensors and Switches](workshops/synths/sensors.md)
+- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
+<!-- prep for midterm meetings: ask for a self-assessment  -->
 
+
+### Week 10
+
+#### Monday 3/31
+- Nam June Paik, _Random Access_ (1963)
+- Present Oscillator exercise
+- Work time
+- Midterm Meetings
+
+
+#### Wednesday 4/2
+
+- Camille Norment, _Plexus_ (2022)
+- Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
+- Begin [Sound Object](projects/sound_object.md)
+- Work time
+
+
+### Week 10
+
+#### Monday 3/24 — Sound Objects
+- Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
+- Victoria Chen, _Needle Nails_ (2021)
+- Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
+- Work time
+
+
+#### Wednesday 3/26
+- Kevin Beasley, _A View of a Landscape_ (2019)
+- Present proposals for Sound Object project
 
 ### Week 12
 
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/23
-<!-- - Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf) -->
+- Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
 - Zimoun, cardboard box installations (2000s)
-- Final project proposals due
+- Work time
 
 
 ### Week 13
 
 #### Monday 4/28
 - Céleste Boursier-Mougenot, _From Here to Ear_ (1999)
+- Workshop: [Video documentation](workshops/documentation/documentation.md)
 - Work time
 
 #### Wednesday 4/30
@@ -267,11 +268,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 14
 
 #### Monday 5/5
-- Final project critique
-
-
-
-
-
+- Critique Sound Object projects
 
 
