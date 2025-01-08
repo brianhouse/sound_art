@@ -30,7 +30,7 @@
 Questions before we get into the syllabus?
 
 ## Moodle + Syllabus
-- Moodle used primarily to collect assignments
+- Moodle used primarily to collect assignments, you'll need the syllabus for the schedule
 - If you go to that now, we'll look at the syllabus
 - If you notice, this is a link to Github, which is a coding platform that I use to manage all my materials. This is the definitive schedule that has links to all the exercises and projects.
 

@@ -2,6 +2,7 @@
 
 - e-Reserves
 - MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
+- eventually add "must attend first class" to description
 
 ## flow
 
@@ -14,6 +15,9 @@
 
 - download material from student presentations; make sure I'm good on all the artists. put this in a public folder?
 - go through Moodle to add the "slides such as Keynote" phrase
+
+- reconcile list of artists with syllabus
+
 
 ## projects
 

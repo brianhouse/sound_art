@@ -42,7 +42,7 @@ Many classes will include discussion of short texts that address conceptual issu
 Attending all class sessions is mandatory, and motivated and mindful participation in crit and classroom discussion is expected.
 
 ### Grading
-In this course, you are expected to earnestly engage in the practice of studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product. If you use the assignments and class sessions as opportunities to practice studio _practice_, you will be fine. You will get feedback via peer critique, which you are expected to take into account in your future work. Midway through the semester, students will meet individually with the professor to track their progress.
+In this course, you are expected to earnestly engage in the practice of studio artmaking, and doing so is the basis of your grade at the discretion of the professor. In other words, your grade is about process, not about product—use the assignments and class sessions as opportunities for studio _practice_ (and completing all work on time and participating in class is mandatory). Beyond grades, your work will be evaluated subjectively via peer critique and feedback from the instructor, and you are expected to incorporate that feedback into your future work while pursuing your own creative direction. Midway through the semester, students will meet individually with the professor to track their progress.
 
 
 ## Policies
@@ -50,11 +50,11 @@ In this course, you are expected to earnestly engage in the practice of studio a
 ### Values
 It is my intent to lead a course that serves students from diverse backgrounds and perspectives, and that our varied life experiences may be a common benefit. Content in this studio art course may at times challenge our aesthetic and/or ethical values; free exchange of ideas and critique is encouraged and expected, but harassment and disrespect will not be tolerated. During class discussion and critique we aim to be mindful and generous in our interactions and to make everyone feel heard.
 
-### Access to 303
-While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. We will choose designated open studio hours in the first week. Keys to 303 will be distributed to all students after Add/Drop.
-
 ### Dynamic Syllabus
 The version of this syllabus posted online will be updated periodically and is the definitive version. It is your responsibility to consult it and stay up-to-date.
+
+### Access to 303 and Working Together
+While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. While 303 will be open any time class is not being held, we will also choose designated co-working time in the first week to encourage synchrony. Keys to 303 will be distributed to all students after Add/Drop. In addition, there is a forum on Moodle for students to post questions for each other
 
 ### Technology
 This course requires a personal laptop—recent hardware and MacOS is preferred (Windows and Linux are also fine; Chromebooks will not work). If you do not have access to a laptop, you will need to make arrangements to borrow one for the course. It is expected that you will not use your laptop for other purposes while in class. The use of phones in class is not permitted.
@@ -80,6 +80,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 1/29
+<!-- print Oliveros! -->
 - Reading due: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
 <!-- brief reading discussion -->
 - Christine Sun Kim, _Captioning the City_ (2021)
