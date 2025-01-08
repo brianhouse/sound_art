@@ -20,6 +20,10 @@ Once you've loaded a file, save your Audacity project, "File â†’ Save Project â†
 
 (Also saving. I have a twitch at this point to hit Command-S, and it's one that you should develop. Save your project file.)
 
+<img src="media/00_devices.png" width=500 />
+
+One last note! If you're going to be using headphones to edit (which you should), plug your headphones (or connect via Bluetooth) _before_ launching Audacity. You can change the output device using the "Audio Setup" button, but Audacity won't add your headphones to the list if they're not present when it launches.
+
 ## Lay of the land
 
 Ok, so what do we have here?
@@ -117,7 +121,7 @@ Now that you have audio on multiple tracks, we need to make sure that audio does
 
 ![](media/8_fading.png)
 
-**IMPORTANT**: Every clip that is separated in a track should fade in and fade out. It makes a difference.
+**IMPORTANT**: Every clip that is separated in a track should fade in and fade out. This prevents a faint "click" that is the result of an interrupted waveform. Getting rid of these will make a big difference.
 
 ### Basic Mixing
 
@@ -141,6 +145,9 @@ By crafting "envelopes," you aren't limited by the dynamics of your recordings o
 
 Select the envelope tool in the palette. By clicking, holding, and dragging up and down on a clip, you can see how the amplitude of the waveform is adjusted. By just clicking once, you'll create a new control point, and either side of that point can be adjusted independently. To remove a control point, simply drag it outside the track.
 
+![](media/10_envelopes.png)
+
+
 
 ### Panning
 
@@ -148,10 +155,19 @@ Envelopes can be used to simulate a panning curve, which is otherwise missing in
 
 To do this, we first have to separate our stereo track into two mono tracks. Do this by clicking on the name of the track and selecting "Split Stereo to Mono". As a result, each channel in the stereo track is now on its own new track.
 
+![](media/11_1_panning.png)
+
 Using the track controls, pan the top one all the way to the left, and the bottom all the way to the right. This will create the same result as the original stereo track.
 
 Now we can adjust the envelopes of each side independently. If the audio envelope between the two tracks differs, we will hear the sound move through space.
 
+![](media/11_2_panning.png)
+
+To finish, combine the two tracks back to a single stereo track.
+
+![](media/11_3_panning.png)
+
+![](media/11_4_panning.png)
 
 ### Reverb
 

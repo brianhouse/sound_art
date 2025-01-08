@@ -16,15 +16,14 @@ electromagnetism is so central, we need to see an electromagnet.
 
 have a demo file for this! I did it without hearing anything, which was ridiculous
 
-note the headphone quirk where it doesnt recognize the device
-
-a chance to have mixing feedback is a bit important
-
 importing multiple source files?
 
 normalize on export
 
-images for Envelopes and Panning
+
+
+a chance to have mixing feedback is a bit important
+
 
 
 ## Amps + Speakers
