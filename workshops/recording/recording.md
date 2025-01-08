@@ -10,48 +10,53 @@ Though we often use "analog" today to indicate anything that isn't "digital"—i
 
 Take vinyl records. The groove in the record is analogous to the shape of the sound waves. There are two sound waves for stereo records, one on each side of the groove—"stereo" just means two sound files for a pair of speakers.
 
-![](media/record_waves.png)
+![](media/1_record_waves.png)
 
-[Record electron microscope](media/record.mp4)
+[Record electron microscope](media/2_record.mp4)
 
 When the needle moves, it moves a magnet. When a magnet moves near a _voice coil_, a small electrical signal is created. This signal is then amplified and activates another coil, which pulls a speaker diaphragm toward another magnet. (this diagram is slightly wrong in that it shows the diaphragm attached to the magnet, while it is actually attached to the coil, since coils are lighter).
 
-![](media/record_transduction.png)
+![](media/3_record_transduction.png)
 
 One again, this process of conversion between media is called _transduction_. When a sound has become an electrical signal is when we start to call it _audio_.
 
 Note that a vinyl record works like this for playback—_recording_ a record is the exact same thing, but in reverse. A microphone is, in essence, the same thing as a speaker (and you can use speakers as microphones and microphones as speakers). And a special needle cuts a groove into the vinyl platter (this is the master, or dubplate -- subsequent records are "pressed" with an inverse mould of the original).
 
-![](media/record_transduction_2.png)
+![](media/4_record_transduction_2.png)
 
-Point being, all analog media involve some chain of transduction. Before electricity, you just had to make sound loud enough that it would cut the record with direct vibrations.
+This reversibility is an essential feature of transduction. (Demonstration of headphones as microphones).
 
-![](media/pre_electric.jpg)
+The term "audio" in the analog sense refers to electrical signal that fluctuates in a way that is analogous to a sound wave—and which is then transduced into one (whether or not it _originated_ as one).
 
-Magnetic tape, on the other hand, stores the magnetic signature of the electrical signal itself.
+Turntables aside, magnetic tape is an analog medium that stores the magnetic signature of the electrical signal itself, which it can then reproduce.
+
+But all analog media involve some chain of transduction, even without electricity. Before electricity, you just had to make sound loud enough that the medium would be cut directly with mechanical vibrations.
+
+![](media/5_pre_electric.jpg)
+
 
 
 ### Digital
 
 Digital media break the chain of transduction, because they encode signals symbolically. That's not to say that digital media aren't material, but there's no longer a one-to-one relationship between what is on the recording media and the sound wave it produces.
 
-![](media/adc.png)
+![](media/6_adc.png)
 
-An "analog-digital-converter", or _ADC_, samples an electrical signal into discrete numerical values.
+An "analog-digital-converter", or _ADC_, samples an electrical signal into discrete numerical values. In other words, digital == measurements.
 
-![](media/digital_signal.png)
+![](media/7_digital_signal.png)
 
 Digital audio always has these jagged edges, at least when it's stored as information. To become sound again, it's converted back into an electrical signal, which smooths it out.
 
 The _sampling rate_ is how often the signal is sampled.
 
-![](media/sampling_rate.png)
+![](media/8_sampling_rate.png)
 
 You need a sampling rate that is _twice_ the highest frequency of the sound you are sampling. Since the human range of hearing is (approximately in a normative case) 20kHz, you need a sampling rate of at least 40kHz to satisfy the ear. CDs support a sampling rate of 44.1kHz; for digital audio today, 48kHz is a better standard. Higher than that is only really useful if you're going to process the sound later, or slow it down—just like with a digital image higher resolution lets you zoom in or apply more convincing effects.
 
 The _bit depth_ is how accurately each sample measures the wave.
 
-![](media/bit_depth.jpg)
+![](media/9_bit_depth.jpg)
 
 Bit depth is important because it establishes what the _dynamic range_ is, which is the difference between the softest and the loudest sounds that are sampled. A low bit depth means there's not much range, and things can start sounding mechanical or robotic. Bit depth is measured in bits per sample—how many 0s and 1s are used to represent each sample. 16 bits has long been the standard in digital audio, but 24-bits is a better standard for recording because it is more forgiving when it comes to picking up sounds at different amplitudes.
 
@@ -71,13 +76,13 @@ The best format for our purposes is going to be a **48kHz 24-bit WAV**.
 
 As discussed, a microphone is just a diaphragm sensitive enough to move with the air that is attached to an electrical voice coil. When the coil moves relative to a stationary magnet, an small electrical signal is created.
 
-![](media/microphone.jpg)
+![](media/10_microphone.jpg)
 
 That's the basic setup. But microphones can be built in many different ways that give them different capabilities and characters.
 
-For example,just like the human ear, microphones are not equally sensitive to all frequencies. A mic with a very flat frequency response curve is "transparent", while one that has a bumpy one will have more character.
+For example, just like the human ear, microphones are not equally sensitive to all frequencies. A mic with a very flat frequency response curve is "transparent", while one that has a bumpy one will have more character.
 
-![](media/frequency_response.png)
+![](media/11_frequency_response.png)
 
 The difference in frequency response between mics comes from all the small contingencies in its manufacture that add up. No microphone is perfectly constructed (and of course, the more expensive the microphone, the greater its _fidelity_ to what our ears would hear).
 

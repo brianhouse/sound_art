@@ -1,22 +1,21 @@
 # TODO
 
-- e-Reserves
 - MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 - eventually add "must attend first class" to description
+- print Oliveros and audiometry_chart
 
 ## flow
 
 - when do midterm meetings happen??
 - add crits
 - add desk crits
+- check presentation schedule
 
 
 ## presentations
 
 - download material from student presentations; make sure I'm good on all the artists. put this in a public folder?
 - go through Moodle to add the "slides such as Keynote" phrase
-
-- reconcile list of artists with syllabus
 
 
 ## projects
@@ -29,6 +28,10 @@
 
 
 ## workshops
+
+- recording workshop
+    - test headphone as mic
+    - test electromagnet
 
 - documentation!
 

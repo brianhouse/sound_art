@@ -6,15 +6,20 @@
 music. composition. internal structure. and/or sonification and data manipulation. this _is_ really "materiality of sound" as much as possible: recording and digital editing, amplification and speakers, electronic synthesis (pushing the recording off the computer would complete that)
 
 
-## artists
+## more/other artists
 
 - Abu Hamdan
 
 
-## readings
+## more/other readings
 
 - feld
 - moten
+
+
+### building a recorder
+
+tin foil cylinder?
 
 
 ### tape players / loops

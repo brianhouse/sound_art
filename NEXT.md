@@ -1,32 +1,15 @@
 # Next
 
 
-
 ## Intro
-
-can the intro be a way of teaching transduction, rather than listening? use bodies to make a recording system?
-
-/
-
-or, there chould be something more interesting about the size and nature of sound waves. could that be the hand-on workshop?
 
 
 
 ## Recording
 
-without numbers, the graphics arent in order so it's a problem to show them -- number everything!
+ideally, replace this with building something.
 
-but regardless, this kind of sucked. it needs to be at the least a physical demonstration with a turntable. 
-
-electromagnetism is so central, also, we need to see an electromagnet.
-
-What is Audio! electrical signal that fluctuates in a way that is analogous to a sound wave — and which is then transferred into one (whether or not it originated as one)
-
-digital? == measurements
-
-
-==> should actually spend time to respond (not necessarily critique) the exercises (what are we hearing?)
-
+electromagnetism is so central, we need to see an electromagnet.
 
 
 ## Editing / Arranging
@@ -41,7 +24,7 @@ importing multiple source files?
 
 normalize on export
 
-images for Envelopes and Pannin
+images for Envelopes and Panning
 
 
 ## Amps + Speakers
