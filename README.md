@@ -171,7 +171,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
 - Workshop: [Assembling an Amplifier and Speakers](workshops/modules/amp.md) and an [Audio Player](workshops/modules/player.md)
-
+- **Homework for next class**: Bring a small cardboard box
 
 ### Week 7 — Amplification
 
