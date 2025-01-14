@@ -10,6 +10,7 @@
 - Mini breadboard
 - 3x AA battery holder
 - 3x AA batteries
+- [Player module](amp.md)
 
 ### Tools
 - Coarse wire strippers (yellow band)

@@ -3,6 +3,7 @@
 ### Materials
 - DFR0768 Player Pro media player (pre-soldered)
 - USB-C cable
+- Button (optional)
 - Mini breadboard
 - [Amplifier module](amp.md)
 
@@ -30,6 +31,8 @@ The player will run through all the files in the folder and then repeat them.
 
 ## Playing
 
+Hook your player up to an [amplifier module](amp.md).
+
 Once powered, the DFPlayer needs a "push" to begin playing, and it will pause if it receives another push. You can do this manually using the onboard switch or by adding a button:
 
 ![](media/player_button_bb.jpg)
@@ -38,15 +41,15 @@ Once powered, the DFPlayer needs a "push" to begin playing, and it will pause if
 When the button is pressed, it connects the KEY pin of the DFPlayer to ground, which activates the Play/Pause function. <!-- wire your own buttons -->
 
 
-
+<!-- 
 ## More information
 
-https://wiki.dfrobot.com/DFPlayer_PRO_SKU_DFR0768
+https://wiki.dfrobot.com/DFPlayer_PRO_SKU_DFR0768 -->
 
 <!--
 Disabling the prompt and changing default volume:
 
-- Wire VIN (red), GND (black), RX (to TX orange), and TX (to RX yellow) to FTDI cable
+- Wire VIN –> ftdi red, GND –> ftdi black, RX -> ftdi orange (TX), and TX -> ftdi yellow (RX)
 - Use the Arduino IDE
 - Select "Arduino Pro or Pro Mini" for the board
 - Choose the port
@@ -54,7 +57,7 @@ Disabling the prompt and changing default volume:
 - Select "Both NL & CR" and 115200 baud
 - type `AT` should response `OK`    
 - then `AT+PROMPT=OFF`
-- then `AT+VOL=7` (0-10 or ?)
-- then `AT+PLAYMODE=1` -- repeat all in folder
+- then `AT+VOL=10` (0-10 or ?)
+- then `AT+PLAYMODE=2` -- repeat all in folder
 -->
 
