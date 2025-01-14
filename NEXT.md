@@ -24,25 +24,7 @@ a chance to have mixing feedback is a bit important
 
 no one made a box for "resonating body". I think I should demonstrate this with a cardboard box.
 
-also, how transducers are used needs to be demonstrated -- or skip them
-
 and maybe for that exercise we all use the same sound? eh.
-
-
-### strategies that came up that I noted:
-dampening
-intimacy
-directionality
-frequency choice -- treble vs bass
-personification
-found objects 
-movement
-vibration of other moving
-cymatocs 
-different pitch resonates
-signifying 
-enclosures?
-surface moving
 
 
 

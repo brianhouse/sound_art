@@ -4,7 +4,6 @@
 - Piezo element
 - 1/8" TS (mono) audio cable
 - Electrical Tape
-- Can of Plasti-Dip
 - Tack
 
 ### Tools
@@ -16,8 +15,8 @@
 ## Instructions
 1. Look at your cable. It has two sections on its plug, separated by a black band: the Tip and the Sleeve (hence TS). Internally, they are connected to an inner insulated wire surrounded by an outer wire. We're going to use these to make a circuit with piezo element.
 1. Cut the audio cable in half (share with your partner).
-![](media/contact_mic_1.jpg)
-1. Using the coarse wire strippers (yellow band) strip 2" off the outer insulation (use the third largest hole on the strippers). Be gentle, because you don't want to damage what's inside. If you do, just make a clean cut and start over.
+![](../contact_mics/media/contact_mic_1.jpg)
+1. Using the coarse wire strippers (yellow band) strip 1.5" off the outer insulation (use the third largest hole on the strippers). Be gentle, because you don't want to damage what's inside. If you do, just make a clean cut and start over.
 ![](media/contact_mic_2.jpg)
 ![](media/contact_mic_3.jpg)
 1. Twist the strands of the outer shielding together to form a wire. 

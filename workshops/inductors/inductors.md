@@ -30,7 +30,7 @@
 ![](media/5.jpg)
 1. Cut the audio cable in half (share with your partner). Slip a 3" length of heat shrink tubing over the end.
 ![](media/6.jpg)
-1. Follow the remaining instructions for prepare the ends of the audio cable from the instructions for [building contact mics](../contact_mics/contact_mics.md), and solder each lead of your inductor to the wires of the cable (polarity doesn't matter).
+1. Follow the first several instructions for [building contact mics](../contact_mics/contact_mics.md) to prepare the ends of the audio cable. Instead of using a piezo, solder each lead of your inductor to the wires of the cable (polarity doesn't matter).
 ![](media/7.jpg)
 1. Wrap a small piece of electrical tape around the joint with the inner wire. Make sure you cover everything between the white insulation and the enamel—you're preventing the two wires from making an electrical connection. Don't do both wires, because you'll need this to fit into the heat shrink.
 ![](media/8.jpg)

@@ -95,7 +95,7 @@ TS jack (different!)
 10 uF capacitor
 4049
 
-an electret works with the breakout. ideally it would be interchangeable with a version with a jack that worked on the recorder, however. but it doesn't seem to work with the preamp straightup. 
+an electret works with the breakout. ideally it would be interchangeable with a version with a jack that worked on the recorder, however. but it doesn't seem to work with the preamp straight up. 
 
 player:
 ==> works without preamp. good to go.
@@ -127,7 +127,6 @@ I _could_ use a 9v amp. but that increases the speaker output to 20W, which gets
 
 so:
 --> test if 9v electret works (stereo or not, then?) into the recorder and the MAX
---> test if the inductor works with the 9v amp ==> could be motivation to swap everything
 --> see if a stronger preamp can be made that works with the inductor
 
 

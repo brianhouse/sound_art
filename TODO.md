@@ -50,12 +50,6 @@ read and notes for:
 
 - modules
 
-    - amp
-        - redo, make it mono ---> so they make a mono amp module and a player module, and then they can reuse those (lose the capacitor?)
-
-    - player
-        - need photo
-
     - sequencers
         - break out
 

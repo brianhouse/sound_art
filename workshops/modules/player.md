@@ -57,7 +57,15 @@ Disabling the prompt and changing default volume:
 - Select "Both NL & CR" and 115200 baud
 - type `AT` should response `OK`    
 - then `AT+PROMPT=OFF`
-- then `AT+VOL=10` (0-10 or ?)
-- then `AT+PLAYMODE=2` -- repeat all in folder
+- then `AT+VOL=10` (0-30 or ?)
+- then `AT+PLAYMODE=2`
+- then `AT+SAVE`
+
+Playmodes:
+1: repeat one song
+2: repeat all
+3: play one song and pause
+4: Play randomly
+5: Repeat all in the folder
 -->
 
