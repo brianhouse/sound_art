@@ -176,6 +176,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 7 — Amplification
 
 #### Monday 3/3
+<!-- workshop spillover -->
 - Shilpa Gupta, _I keep falling at you_ (2010)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)

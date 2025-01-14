@@ -4,7 +4,7 @@
 - Electret element
 - 1/8" TS (mono) audio cable
 - Shielding tape
-- 3/16" shrink wrap **
+- 1/2" shrink wrap
 
 ### Tools
 - Coarse wire strippers (yellow band)

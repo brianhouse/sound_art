@@ -4,6 +4,9 @@
 - eventually add "must attend first class" to description
 - print Oliveros and audiometry_chart
 
+
+
+
 ## flow
 
 - when do midterm meetings happen??
@@ -38,18 +41,10 @@ read and notes for:
 
 ## workshops
 
-- recording workshop
-    - test headphone as mic
-
-- electret workshop
-    - good to go
-    - use a bit of electrical tape and shrink wrap
-    - binaural option with two + an adapter
 
 - enclosure workshop
 
 - modules
-
     - sequencers
         - break out
 
@@ -73,4 +68,9 @@ read and notes for:
 
 https://a.co/d/cGzAGi0
 
-electrets
+another ftdi
+colored gaff tape
+another placemat
+shielding
+bigger shrink wrapelectrets
+box cutters
