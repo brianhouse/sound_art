@@ -9,18 +9,12 @@
 
 ideally, replace this with building something.
 
-electromagnetism is so central, we need to see an electromagnet.
+electromagnetism is so central, we also need to see an electromagnet.
 
 
 ## Editing / Arranging
 
 have a demo file for this! I did it without hearing anything, which was ridiculous
-
-importing multiple source files?
-
-normalize on export
-
-
 
 a chance to have mixing feedback is a bit important
 

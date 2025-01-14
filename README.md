@@ -143,7 +143,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 2/19
 - Reading due: [Dylan Robinson, "Hungry Listening" (2020)](readings/robinson_hungry_listening.pdf)
 - TBD ** <!-- indigenous -->
-- Begin [Soundscape](projects/soundscape.md) project <!-- desk crits -->
+- Begin [Soundscape](projects/soundscape.md) project
 <!-- finish up any outstanding issues building piezos etc -->
 
 
@@ -157,7 +157,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 2/26
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
 - Reading due: [Bernie Krause, "The Niche Hypothesis" (1987)](readings/krause_niche_hypothesis.pdf)
-- Work time
+- Work time + desk crits
 
 
 ### Week 6 — Fabrication
@@ -170,7 +170,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
-- Workshop: [Assembling an Amplifier and Speakers](workshops/amps/amps.md)
+- Workshop: [Assembling an Amplifier and Speakers](workshops/modules/amp.md) and an [Audio Player](workshops/modules/player.md)
 
 
 ### Week 7 — Amplification
@@ -189,13 +189,13 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 8 — Oscillators
 
 #### Monday 4/7
-- Workshop: [Oscillators](workshops/synths/oscillators.md)
+- Workshop: [Oscillators](workshops/modules/oscillators.md)
 
 #### Wednesday 4/9
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - MSHR, _Mesh Manifold_ (2023)
-- Workshop: [Oscillators + Variable Resistors](workshops/synths/oscillators.md)
+- Workshop: [Oscillators + Variable Resistors](workshops/modules/oscillators.md)
 
 
 ### Week 9 — Sequencers
@@ -203,13 +203,13 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/14
 - Ryoji Ikeda, _Transinfinite_ (2011)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
-- Workshop: [Sequencers](workshops/synths/sequencers.md)
+- Workshop: [Sequencers](workshops/modules/sequencers.md)
 
 
 #### Wednesday 4/16
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
-- Workshop: [Sensors and Switches](workshops/synths/sensors.md)
+- Workshop: [Sensors and Switches](workshops/modules/sensors.md)
 - Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
 <!-- prep for midterm meetings: ask for a self-assessment  -->
 

@@ -21,6 +21,4 @@ Upload this proposal to Moodle under the section for this project. We will discu
 
 ### Documentation
 
-In addition to presenting your artwork itself for critique in class, the final deliverable for your project will consist of a title, 3-sentence artist description, and a short documentation video. These should be uploaded to Moodle prior to the crit.
-
-Your video should be 1–2 mins long. You may use your phone, but film in **landscape**, [use AE/AF Lock](https://improvephotography.com/53127/what-is-ae-af-lock-on-an-iphone-and-how-does-that-help-my-pictures/), and use a tripod. Make use of the photo both in the back of 303. You do not need titles or a spoken explanation—just show your piece doing its thing.
+In addition to presenting your artwork itself for critique in class, the final deliverable for your project will consist of a title, 3-sentence artist description, and a short [documentation video](../workshops/documentation/documentation.md). These should be uploaded to Moodle prior to the crit.

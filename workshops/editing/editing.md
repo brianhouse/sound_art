@@ -40,7 +40,7 @@ Tools:
 ![](media/1_audacity.png)
 
 
-## Splicing and Crossfading
+## Splicing and crossfading
 
 So the first thing you want to do is to delete the sections you don't want to work with. This could be because there is an unwanted "clip" or "rumble" in that section, or it could be that it's just not a section you're interested in. **This wont affect the original audio file**—that's why we saved this as an audio project.
 
@@ -63,15 +63,15 @@ Once we have a clean take, with all the clicks removed, we're going to do some m
 
 First we're going to run normalization.
 
-"Edit → Select All" (or Command-A)
-"Effect → Volume and Compression → Normalize": "Normalize stereo tracks independently" should be OFF
+- "Edit → Select All" (or Command-A) to select the whole session
+- "Effect → Volume and Compression → Normalize": "Normalize stereo tracks independently" should be OFF
 
 ![](media/4_normalize.png)
 
 What this does is scale everything up so that the loudest portion is at the maximum amplitude. This is important so that you use the maximum bits you have available when you change your audio. Also that the scale of your audio is aligned with other sounds and the volume controls in general, so you're not turning everything up to hear quiet sounds.
 
 
-### Noise Reduction
+### Noise reduction
 
 It could be that there is a lot of hiss in your recording because what you were trying to capture wasn't loud enough. Or maybe there's the sound of machinery in the background, or some other consistent, unwanted noise. It's not always possible to get rid of this, but sometimes it is.
 
@@ -123,11 +123,16 @@ Now that you have audio on multiple tracks, we need to make sure that audio does
 
 **IMPORTANT**: Every clip that is separated in a track should fade in and fade out. This prevents a faint "click" that is the result of an interrupted waveform. Getting rid of these will make a big difference.
 
-### Basic Mixing
+### Basic mixing
 
 If audio on two different tracks overlaps, you will hear them at the same time. The controls on the left of the tracks allow us to adjust the relative gain (aka volume) as well as the stereo position between left and right. Distributing clips at various points across the stereo field will make a much more immersive result.
 
 ![](media/9_mixing.png)
+
+### Importing additional audio 
+
+Additional audio files can be imported into your session using "File → Import  → Audio...". Audacity will automatically create a new track for the imported audio.
+
 
 ## Additional Effects
 
@@ -185,4 +190,6 @@ By now you have noticed that there are other effects that we haven't talked abou
 
 ## Exporting
 
-Choose "File → Export Audio" and select "MP3 File". Include your name in the title of the file.
+Choose "File → Export Audio..." and select "MP3 File". Include your name in the title of the file. Choose "Stereo", "48000 Hz", "Preset", and "Excessive, 320kps" for the best quality export.
+
+

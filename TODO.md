@@ -12,10 +12,19 @@
 - check presentation schedule
 
 
+## reading
+
+read and notes for:
+- cox
+- krause
+- kwon
+- henriques
+
+
+
 ## presentations
 
 - download material from student presentations; make sure I'm good on all the artists. put this in a public folder?
-- go through Moodle to add the "slides such as Keynote" phrase
 
 
 ## projects
@@ -31,9 +40,6 @@
 
 - recording workshop
     - test headphone as mic
-    - test electromagnet
-
-- documentation!
 
 - electret workshop
     - good to go
@@ -42,30 +48,31 @@
 
 - enclosure workshop
 
-- Soldering
-    - solder removal with those braided strips
+- modules
 
-- amp/player workshop
-    - redo, make it mono
+    - amp
+        - redo, make it mono ---> so they make a mono amp module and a player module, and then they can reuse those (lose the capacitor?)
 
-- LFO
-    - (probably hidden / optional)
+    - player
+        - need photo
 
-- sequencers
-    - break out
+    - sequencers
+        - break out
 
 - sensors and switches
 
 
+/
 
-## reading
+- LFO
+    - (probably hidden / optional)
 
-read and notes for:
-- cox
-- krause
-- kwon
-- henriques
 
+- Soldering
+    - solder removal with those braided strips
+
+
+- improve documentation
 
 
 ## supplies
