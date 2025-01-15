@@ -1,24 +1,19 @@
 # Introduction to Sound Art
 
-
 ## what's left out
-
 music. composition. internal structure. and/or sonification and data manipulation. this _is_ really "materiality of sound" as much as possible: recording and digital editing, amplification and speakers, electronic synthesis (pushing the recording off the computer would complete that)
 
-
 ## more/other artists
-
 - Abu Hamdan
 
-
 ## more/other readings
-
 - feld
 - moten
 
 
-### building a recorder
+## new workshops
 
+### building a recorder
 tin foil cylinder?
 
 
@@ -33,8 +28,7 @@ this is also ideal:
 https://www.bhphotovideo.com/c/product/330021-REG/Hamilton_HA_802_HA_802_1_Watt.html
 
 
-
-## infrasound/ultrasound
+### infrasound/ultrasound
 
 mems!
 
@@ -46,32 +40,33 @@ https://www.adafruit.com/product/2716
 ...except these don't have that range. bummer.
 
 
-## reverb?
-
-that would be a cool thing to make
-
-
-### sensors
-
-integrate proximity sensor?
-
-
-### solenoids 
-
-could really be key. but how does that integrate? and battery power?
-
-
-### FM transmitter
-
-pirate radio!
-
-
 ### contact mics
-
 add the preamp circuit for them?
 https://www.richardmudhar.com/blog/2022/07/piezo-contact-microphone-preamp-for-plug-in-power/
 
 
+
+### reverb?
+that would be a cool thing to make
+
+
+## solenoids 
+could really be key. but how does that integrate? and battery power?
+
+
+## FM transmitter
+pirate radio!
+
+
+
+## synthesis modules
+
+### LFO
+using that original chip
+
+
+### sensors
+integrate proximity sensor?
 
 ### preamp integration
 
@@ -89,7 +84,18 @@ this requires some kind of preamp situation. would need to work with an electret
 also, a mixer. with a mixer, it could work with the synth electronics.
 
 
-#### testing
+
+
+
+## other 
+improve documentation workshop
+
+
+
+
+# testing
+
+## preamp
 
 TS jack (different!)
 10 uF capacitor
@@ -128,11 +134,6 @@ I _could_ use a 9v amp. but that increases the speaker output to 20W, which gets
 so:
 --> test if 9v electret works (stereo or not, then?) into the recorder and the MAX
 --> see if a stronger preamp can be made that works with the inductor
-
-
-
-
-
 
 
 

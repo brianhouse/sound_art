@@ -1,4 +1,4 @@
-# Oscillators
+# Oscillator
 
 ### Materials
 - CD4046 chip
@@ -7,11 +7,11 @@
 - .1µF capacitor
 - Assorted jumper wires
 - Mini [breadboard](breadboard.md)
-- [Amplifier module](amp.md) + powerpack
+- [Amplifier module](amp.md) w/ powerpack and power rail
 
 Optional:
 - Photocell
-- 2.2kΩ resistor
+- 2.2kΩ resistor (red-red-red-gold)
 - Diodes
 
 

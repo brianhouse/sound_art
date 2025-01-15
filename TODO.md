@@ -2,23 +2,20 @@
 
 - MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 - eventually add "must attend first class" to description
-/
+
+first day:
 - print Oliveros and audiometry_chart
-/
+
+materials:
 - have cardboard on hand
 
 
+## prep
 
-## flow
-
-- when do midterm meetings happen??
-- add crits
-- add desk crits
 - check presentation schedule
 
 
 ## reading
-
 read and notes for:
 - cox
 - krause
@@ -26,33 +23,14 @@ read and notes for:
 - henriques
 
 
-
 ## presentations
-
 - download material from student presentations; make sure I'm good on all the artists. put this in a public folder?
-
 
 
 ## workshops
 
-- modules
-    - sequencers
-        - break out
-
 - sensors and switches
 
-
-/
-
-- LFO
-    - (probably hidden / optional)
-
-
-- Soldering
-    - solder removal with those braided strips
-
-
-- improve documentation
 
 
 ## supplies

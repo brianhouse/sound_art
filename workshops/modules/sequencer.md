@@ -1,3 +1,22 @@
+# Sequencer
+
+### Materials
+- CB4017 chip
+- 2.2kΩ resistor (red-red-red-gold)
+- LED
+- Assorted jumper wires
+- Mini [breadboard](breadboard.md)
+- [Amplifier module](amp.md) w/ powerpack and power rail
+
+Optional:
+- [oscillators](oscillator.md)
+
+
+## Preparation
+
+Get started with [synthesis](synthesis.md) and [oscillators](oscillator.md).
+
+
 ## Sequencer
 
 Now that we're able to make sound and modulate it in various ways, it's time to introduce a sequencer.

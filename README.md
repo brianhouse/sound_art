@@ -230,6 +230,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
 - Begin [Sound Object](projects/sound_object.md)
 - Work time
+<!-- - Midterm Meetings continued -->
 
 
 ### Week 10
