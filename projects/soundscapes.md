@@ -1,6 +1,6 @@
 # Soundscapes
 
-Choose a "site" (whether this is a physical location, an activity, a set of objects, a concept, etc), listen to it, and record its sounds. Produce a stereo audio experience that interprets these materials for a listener. Your piece must have a title. Prior to the project due date, you will turn in a proposal (see below).
+Choose a "site" (whether this is a physical location, an activity, a set of objects, a concept, etc), listen to it, and record its sounds. Use custom microphones if needed. Produce a stereo audio experience that interprets these materials for a listener. Your piece must have a title. Prior to the project due date, you will turn in a proposal (see below).
 
 You must exclusively use your own recordings and use Audacity to edit and arrange them. The final piece should be between 3 and 5 minutes long. Upload your final piece to Moodle as a 320kbps MP3 by resubmitting the assignment in Moodle.
 

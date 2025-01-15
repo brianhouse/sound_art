@@ -1,3 +1,7 @@
 # Exercise: Resonating Bodies
 
-Using your amplifier + speaker and an audio player, experiment how different materials, surfaces, objects, and enclosures affect the sound that is produced. Find, make, or modify a particularly resonant or interesting sounding way to materially enhance a sound coming from your speaker and demonstrate it for the class.
+Make a sound by creating two elements: an audio recording and a custom speaker enclosure through which to play it. 
+
+Your audio and the enclosure should be made specifically for each other. That could mean that the way the enclosure acoustically modifies or enhances the audio is critical to how we hear it. It could also mean that the materials used to make the enclosure are related to the content of the audio thematically. Or, sound and enclosure could be made to specifically relate to the human body in a particular way.
+
+Bring your creation to class for a listening session.

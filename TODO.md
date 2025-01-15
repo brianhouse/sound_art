@@ -2,8 +2,10 @@
 
 - MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 - eventually add "must attend first class" to description
+/
 - print Oliveros and audiometry_chart
-
+/
+- have cardboard on hand
 
 
 
@@ -30,19 +32,8 @@ read and notes for:
 - download material from student presentations; make sure I'm good on all the artists. put this in a public folder?
 
 
-## projects
-
-- bump up the soundscape assignment a bit too, with added mics
-
-## exercises
-
-- bigger osc exercise?
-
 
 ## workshops
-
-
-- enclosure workshop
 
 - modules
     - sequencers
@@ -74,3 +65,4 @@ another placemat
 shielding
 bigger shrink wrapelectrets
 box cutters
+

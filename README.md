@@ -171,11 +171,11 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
 - Workshop: [Assembling an Amplifier and Speakers](workshops/modules/amp.md) and an [Audio Player](workshops/modules/player.md)
-- **Homework for next class**: Bring a small cardboard box
 
 ### Week 7 — Amplification
 
 #### Monday 3/3
+<!-- have cardboard on hand -->
 <!-- workshop spillover -->
 - Shilpa Gupta, _I keep falling at you_ (2010)
 - David Tudor, _Rainforest_ (1968)
@@ -190,13 +190,13 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 8 — Oscillators
 
 #### Monday 4/7
-- Workshop: [Oscillators](workshops/modules/oscillators.md)
+- Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
 #### Wednesday 4/9
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - MSHR, _Mesh Manifold_ (2023)
-- Workshop: [Oscillators + Variable Resistors](workshops/modules/oscillators.md)
+- Workshop: [Oscillators + Variable Resistors](workshops/modules/oscillator.md)
 
 
 ### Week 9 — Sequencers
@@ -204,7 +204,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/14
 - Ryoji Ikeda, _Transinfinite_ (2011)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
-- Workshop: [Sequencers](workshops/modules/sequencers.md)
+- Workshop: [Sequencers](workshops/modules/sequencer.md)
 
 
 #### Wednesday 4/16
@@ -219,7 +219,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 3/31
 - Nam June Paik, _Random Access_ (1963)
-- Present Oscillator exercise
+- Present Responsive Oscillators exercise
 - Work time
 - Midterm Meetings
 

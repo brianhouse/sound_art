@@ -7,7 +7,7 @@
 - 18 or 20 gauge speaker wire
 - Potentiometer (knob)
 - Assorted jumper wires
-- Mini breadboard
+- Mini [breadboard](breadboard.md)
 - 3x AA battery holder
 - 3x AA batteries
 - [Player module](player.md)
@@ -52,12 +52,7 @@ To wire a speaker, we use speaker wire, which is really two stranded wires stuck
 
 ## Prepare the amplifier
 
-Everything will be assembled on a breadboard. A breadboard is a helpful tool for prototyping and making quick connections—every row of holes is eletrically connected, so by inserting wires into the holes, a circuit can be made without soldering. This is especially helpful with "breakout boards" that have a row of pins. Inserting a wire in the row next to a pin makes a connection.
-![](media/amp_4.jpg)
-
-1. Use screws, the adhesive backing, or some other method to attach the breadboard where you need it. Or just leave it loose if you are prototyping.
-
-1. Insert the MAX98306 circuit board into the breadboard. Leave as much room as possible along the side with the pins so that you have room to plug things in; also leave space to the left of the board for additional electronics.
+1. Insert the MAX98306 circuit board into a breadboard (see [how breadboards work](breadboard.md)). Leave as much room as possible along the side with the pins so that you have room to plug things in; also leave space to the left of the board for additional electronics.
 ![](media/amp_5.jpg)
 
 1. With a mini screwdriver, make sure the terminal blocks on the breakout board are open. Don't use any force with these, as they are easy to break. Insert the ends of each set of speaker wires into the holes, matching black to - and red to + as labeled on the board, and gently tighten the screws to secure them. There shouldn't be too much exposed copper wire, and be certain that there is no danger of any two speaker wires touching (if they do, this is likely the end of the amp: 0Ω). Trim the wires if necessary. There should be no loose strands.
