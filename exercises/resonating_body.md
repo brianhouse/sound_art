@@ -1,4 +1,4 @@
-# Exercise: Resonating Bodies
+# Exercise: Resonating Body
 
 Make a sound by creating two elements: an audio recording and a custom speaker enclosure through which to play it. 
 

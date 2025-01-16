@@ -11,15 +11,12 @@ materials:
 
 
 ## prep
-
 - check presentation schedule
 
 
 ## reading
 read and notes for:
 - cox
-- krause
-- kwon
 - henriques
 
 
@@ -29,7 +26,10 @@ read and notes for:
 
 ## workshops
 
+- have a demo file for mixing! I did it without hearing anything, which was ridiculous
+
 - sensors and switches
+what is this? they have a light sensor. the switch is for on/off. ah, but switches can also make connections. maybe it's just switches.
 
 
 

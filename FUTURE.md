@@ -5,6 +5,7 @@ music. composition. internal structure. and/or sonification and data manipulatio
 
 ## more/other artists
 - Abu Hamdan
+- Cildo Meireles (https://www.tate.org.uk/art/artworks/meireles-babel-t14041)
 
 ## more/other readings
 - feld
@@ -12,6 +13,10 @@ music. composition. internal structure. and/or sonification and data manipulatio
 
 
 ## new workshops
+
+### recording
+electromagnetism is so central, we also need to see an electromagnet.
+
 
 ### building a recorder
 tin foil cylinder?

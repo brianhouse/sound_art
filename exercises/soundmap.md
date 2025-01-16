@@ -1,4 +1,4 @@
-# Exercise: Soundmaps
+# Exercise: Soundmap
 
 For this exercise, you will visually represent your sonic environment.
 

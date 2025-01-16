@@ -1,4 +1,4 @@
-# Soundscapes
+# Soundscape
 
 Choose a "site" (whether this is a physical location, an activity, a set of objects, a concept, etc), listen to it, and record its sounds. Use custom microphones if needed. Produce a stereo audio experience that interprets these materials for a listener. Your piece must have a title. Prior to the project due date, you will turn in a proposal (see below).
 

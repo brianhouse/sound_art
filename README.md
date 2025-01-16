@@ -86,7 +86,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Christine Sun Kim, _Captioning the City_ (2021)
 - Workshop: [Hearing](workshops/hearing/hearing.md) <!-- audiometry first; pass out Oliveros now so waiters have something to do -->
 - In-class reading: [Pauline Oliveros, "Deep Listening", excerpts (2003)](readings/oliveros_deep_listening.pdf)
-- Exercise for next class: [Soundmaps](exercises/soundmaps.md)
+- Exercise for next class: [Soundmap](exercises/soundmap.md)
 <!-- sign up for presentations now in class!! -->
 
 
@@ -117,7 +117,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 2/10
 <!-- Heather brings keys -->
 <!-- barely fits, time wise -->
-- Listen to Editing exercise
+- Listen to Acoustic Vignettes
 - Stephen Vitiello, _World Trade Center Recordings_ (1999)
 - What is a "circuit"?
 - Soldering overview
@@ -135,7 +135,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 4 — Soundscapes
 
 #### Monday 2/17
-- Listen to Non-Acoustic Vignette <!-- full, discuss details cold -->
+- Listen to Non-Acoustic Vignettes <!-- full, discuss details cold -->
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - Ernst Karel, _Heard Laboratories_ (2010)
 - Workshop: [Electrets](workshops/electrets/electrets.md)
@@ -162,11 +162,11 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 6 — Fabrication
 
-#### Monday 3/10
+#### Monday 3/3
 - Critique Soundscape project 
 
 
-#### Wednesday 3/12
+#### Wednesday 3/5
 - Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
@@ -174,25 +174,25 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 7 — Amplification
 
-#### Monday 3/3
+#### Monday 3/10
 <!-- have cardboard on hand -->
 <!-- workshop spillover -->
 - Shilpa Gupta, _I keep falling at you_ (2010)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)
-- Exercise for next class: [Resonating Bodies](exercises/resonating_bodies.md)
+- Exercise for next class: [Resonating Body](exercises/resonating_body.md)
 
-#### Wednesday 3/5
-- Present Resonating Bodies exercise
+#### Wednesday 3/12
+- Present Resonating Bodies
 
 ### Spring Break
 
 ### Week 8 — Oscillators
 
-#### Monday 4/7
+#### Monday 3/24
 - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
-#### Wednesday 4/9
+#### Wednesday 3/26
 - Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - MSHR, _Mesh Manifold_ (2023)
@@ -201,30 +201,30 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 9 — Sequencers
 
-#### Monday 4/14
+#### Monday 3/31
 - Ryoji Ikeda, _Transinfinite_ (2011)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
 - Workshop: [Sequencers](workshops/modules/sequencer.md)
 
 
-#### Wednesday 4/16
+#### Wednesday 4/2
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
 - Workshop: [Sensors and Switches](workshops/modules/sensors.md)
-- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillators.md)
+- Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillator.md)
 <!-- prep for midterm meetings: ask for a self-assessment  -->
 
 
 ### Week 10
 
-#### Monday 3/31
+#### Monday 4/7
 - Nam June Paik, _Random Access_ (1963)
-- Present Responsive Oscillators exercise
+- Present Responsive Oscillators
 - Work time
 - Midterm Meetings
 
 
-#### Wednesday 4/2
+#### Wednesday 4/9
 
 - Camille Norment, _Plexus_ (2022)
 - Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
@@ -235,14 +235,14 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 10
 
-#### Monday 3/24 — Sound Objects
+#### Monday 4/14 — Sound Objects
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Victoria Chen, _Needle Nails_ (2021)
 - Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
 - Work time
 
 
-#### Wednesday 3/26
+#### Wednesday 4/16
 - Kevin Beasley, _A View of a Landscape_ (2019)
 - Present proposals for Sound Object project
 
