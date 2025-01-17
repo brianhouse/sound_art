@@ -33,6 +33,8 @@ You will complete three larger projects over the course of the semester, each of
 ### Presentations
 Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then precede to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
 
+Material for some of the artists is online [here](https://drive.google.com/drive/folders/1-6ahKmQYCKO24DA45h7uZsKFngLRaR-8?usp=sharing)
+
 For assistance developing presentation skills, students should reach out to [Susan Daniels](https://www.amherst.edu/academiclife/support/writingcenter/public-speaking) at the Writing Center.
 
 ### Reading
@@ -142,7 +144,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 2/19
 - Reading due: [Dylan Robinson, "Hungry Listening" (2020)](readings/robinson_hungry_listening.pdf)
-- TBD ** <!-- indigenous -->
+- Nathan Young, _Nkwiluntamen_ (2024)
 - Begin [Soundscape](projects/soundscape.md) project
 <!-- finish up any outstanding issues building piezos etc -->
 

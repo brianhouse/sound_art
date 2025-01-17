@@ -10,10 +10,6 @@ materials:
 - have cardboard on hand
 
 
-## prep
-- check presentation schedule
-
-
 ## reading
 read and notes for:
 - cox
@@ -22,6 +18,18 @@ read and notes for:
 
 ## presentations
 - download material from student presentations; make sure I'm good on all the artists. put this in a public folder?
+
+need:
+gupta
+acoustico
+fishkin
+paik
+celeste
+hess
+beasley
+bhatnagar
+ikeda
+tudor
 
 
 ## workshops
@@ -35,12 +43,13 @@ what is this? they have a light sensor. the switch is for on/off. ah, but switch
 
 ## supplies
 
-https://a.co/d/cGzAGi0
+4046
+4017
 
-another ftdi
-colored gaff tape
-another placemat
-shielding
-bigger shrink wrapelectrets
-box cutters
+mono cables
+
+
+VLA!!
+
+
 
