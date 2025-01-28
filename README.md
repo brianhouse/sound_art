@@ -83,7 +83,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 1/29
 <!-- print Oliveros! -->
-- Reading due: [Mara Mills, "Deafness" (2015)](readings/mills_deafness.pdf)
+- Reading due: Mara Mills, "Deafness" (2015)
 <!-- brief reading discussion -->
 - Christine Sun Kim, _Captioning the City_ (2021)
 - Workshop: [Hearing](workshops/hearing/hearing.md) <!-- audiometry first; pass out Oliveros now so waiters have something to do -->
@@ -109,7 +109,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Listen to Capturing Place exercise  <!-- play the full minute of each one -->
 - Workshop: [Editing](workshops/editing.md)
-- Reading due: [Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)](readings/westerkamp_soundscape_composition.pdf)
+- Reading due: Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
 - Exercise for next class: [Acoustic Vignette](exercises/acoustic_vignette.md)
 
@@ -128,7 +128,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 2/12
 <!-- go over lab rules -->
-- Reading due: [Brandon Labelle, "Auditory Relations" (2006)](readings/labelle_auditory_relations.pdf)
+- Reading due: Brandon Labelle, "Auditory Relations" (2006)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
 - Workshop: [Inductors](workshops/inductors/inductors.md)
 - Exercise for next class: [Non-Acoustic Vignette](exercises/non-acoustic_vignette.md) 
@@ -143,7 +143,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Electrets](workshops/electrets/electrets.md)
 
 #### Wednesday 2/19
-- Reading due: [Dylan Robinson, "Hungry Listening" (2020)](readings/robinson_hungry_listening.pdf)
+- Reading due: Dylan Robinson, "Hungry Listening" (2020)
 - Nathan Young, _Nkwiluntamen_ (2024)
 - Begin [Soundscape](projects/soundscape.md) project
 <!-- finish up any outstanding issues building piezos etc -->
@@ -158,7 +158,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Wednesday 2/26
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
-- Reading due: [Bernie Krause, "The Niche Hypothesis" (1987)](readings/krause_niche_hypothesis.pdf)
+- Reading due: Bernie Krause, "The Niche Hypothesis" (1987)
 - Work time + desk crits
 
 
@@ -169,7 +169,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 3/5
-- Reading due: [Seth Cluett, "The Loudspeaker in Art Practice" (2019)](readings/cluett_the_loudspeaker.pdf)
+- Reading due: Seth Cluett, "The Loudspeaker in Art Practice" (2019)
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
 - Workshop: [Assembling an Amplifier and Speakers](workshops/modules/amp.md) and an [Audio Player](workshops/modules/player.md)
@@ -195,7 +195,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
 #### Wednesday 3/26
-- Reading due: [Tara Rodgers, "Synthesis" (2015)](readings/rodgers_synthesis.pdf)
+- Reading due: Tara Rodgers, "Synthesis" (2015)
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - MSHR, _Mesh Manifold_ (2023)
 - Workshop: [Oscillators + Variable Resistors](workshops/modules/oscillator.md)
@@ -229,7 +229,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 4/9
 
 - Camille Norment, _Plexus_ (2022)
-- Reading due: [Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)](readings/henriques_sonic_dominance.pdf)
+- Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)
 - Begin [Sound Object](projects/sound_object.md)
 - Work time
 <!-- - Midterm Meetings continued -->
@@ -240,7 +240,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 4/14 — Sound Objects
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Victoria Chen, _Needle Nails_ (2021)
-- Reading due: [Christoph Cox, "Sound Art in America" (2019)](readings/cox_sound_art_in_america.pdf)
+- Reading due: Christoph Cox, "Sound Art in America" (2019)
 - Work time
 
 
@@ -253,7 +253,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/23
-- Reading due: [Kim Cascone, "The Aesthetics of Failure" (2000)](readings/cascone_aesthetics_of_failure.pdf)
+- Reading due: Kim Cascone, "The Aesthetics of Failure" (2000)
 - Zimoun, cardboard box installations (2000s)
 - Work time
 
