@@ -95,9 +95,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 2 — Acoustic Recording
 
 #### Monday 2/3
-<!-- Rick Mears! Director of Environmental Health and Safety -->
+<!-- Rick Mears! Director of Environmental Health and Safety (30) -->
 <!-- sign up for presentations now if you forgot -->
-<!-- didn't have time for talking about recording because check-out + safety took so long --> 
 - Check out TASCAM recorders
 - [Critique](resources/crit_guidelines.md) Soundmaps
 <!-- wont usually critique exercises, but this is practice -->
@@ -106,6 +105,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
 #### Wednesday 2/5
+<!-- sign up for TWO presentations NOW! -->
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Listen to Capturing Place exercise  <!-- play the full minute of each one -->
 - Workshop: [Editing](workshops/editing.md)
@@ -162,7 +162,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Work time + desk crits
 
 
-### Week 6 — Fabrication
+### Week 6 — Soundscapes continued
 
 #### Monday 3/3
 - Critique Soundscape project 
@@ -184,7 +184,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)
 - Exercise for next class: [Resonating Body](exercises/resonating_body.md)
 
-#### Wednesday 3/12
+#### Wednesday 3/12  <!-- NO CLASS, PROF OUT -->
 - Present Resonating Bodies
 
 ### Spring Break
@@ -192,6 +192,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 8 — Oscillators
 
 #### Monday 3/24
+<!-- present resonating bodies -->
 - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
 #### Wednesday 3/26

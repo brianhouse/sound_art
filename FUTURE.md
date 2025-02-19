@@ -6,6 +6,8 @@ music. composition. internal structure. and/or sonification and data manipulatio
 ## more/other artists
 - Abu Hamdan
 - Cildo Meireles (https://www.tate.org.uk/art/artworks/meireles-babel-t14041)
+- scanner, by the code of soil (2020)
+- jana winderen, spring broom in the marginal ice zone (2017)
 
 ## more/other readings
 - feld

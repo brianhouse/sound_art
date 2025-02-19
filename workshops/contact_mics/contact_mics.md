@@ -11,6 +11,7 @@
 - Fine wire strippers (red band)
 - Soldering stations (w/ smoke extractors and "helping hands")
 - Scissors
+- Hot glue gun
 
 ## Instructions
 1. Look at your cable. It has two sections on its plug, separated by a black band: the Tip and the Sleeve (hence TS). Internally, they are connected to an inner insulated wire surrounded by an outer wire. We're going to use these to make a circuit with piezo element.

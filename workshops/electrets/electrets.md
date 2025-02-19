@@ -41,7 +41,9 @@
 
 Your electret mic may be used as an external input to the DR-05X via the jack at the top of the unit between the built-in mics.
 
-The electret mic is just a single signal, so you'll want to switch to "MONO" under "Menu → REC SETTING → TYPE" on your recorder (remember to switch it back if you're going to return to the built-in mics!).
+However, the electret requires power from the recorder, which you have to have turned on. Go to "Menu → REC SETTING → MIC POWER" and switch it to "ON".
+
+In addition, the electret mic is just a single signal, so you'll want to switch to "MONO" under "Menu → REC SETTING → TYPE" on your recorder (remember to switch it back if you're going to return to the built-in mics!).
 
 Other than that, all the same recording procedures apply as in the standard [recording_checklist](../workshops/recording_checklist.md).
 
