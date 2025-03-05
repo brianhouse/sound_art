@@ -184,15 +184,15 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)
 - Exercise for next class: [Resonating Body](exercises/resonating_body.md)
 
-#### Wednesday 3/12  <!-- NO CLASS, PROF OUT -->
-- Present Resonating Bodies
+#### Wednesday 3/12
+NO CLASS
 
 ### Spring Break
 
 ### Week 8 — Oscillators
 
 #### Monday 3/24
-<!-- present resonating bodies -->
+- Present Resonating Bodies
 - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
 #### Wednesday 3/26
