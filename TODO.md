@@ -42,14 +42,3 @@ what is this? they have a light sensor. the switch is for on/off. ah, but switch
 
 
 ## supplies
-
-4046
-4017
-
-mono cables
-
-
-VLA!!
-
-
-

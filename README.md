@@ -213,7 +213,8 @@ NO CLASS
 #### Wednesday 4/2
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
-- Workshop: [Sensors and Switches](workshops/modules/sensors.md)
+- Synthesizer workshop finish-up
+<!-- - Workshop: [Sensors and Switches](workshops/modules/sensors.md) -->
 - Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillator.md)
 <!-- prep for midterm meetings: ask for a self-assessment  -->
 

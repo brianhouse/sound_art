@@ -4,4 +4,6 @@
 media files aren't ordered
 
 
-elecgtret needs power!
+electret needs power!
+
+https://shilpagupta.com/singing-cloud/
