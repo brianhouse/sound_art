@@ -223,23 +223,24 @@ NO CLASS
 
 #### Monday 4/7
 - Nam June Paik, _Random Access_ (1963)
+- Reading due: Miwon Kwon, "Genealogy of Site Specificity" (2004) <!-- put this in the next class -->
 - Present Responsive Oscillators
-- Work time
+- Work time                        <!-- on what? -->
 - Midterm Meetings
 
 
 #### Wednesday 4/9
 
 - Camille Norment, _Plexus_ (2022)
-- Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)
-- Begin [Sound Object](projects/sound_object.md)
+- Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003) <!-- move down -->
+- Begin [Final Project](projects/final.md)
 - Work time
 <!-- - Midterm Meetings continued -->
 
 
 ### Week 10
 
-#### Monday 4/14 — Sound Objects
+#### Monday 4/14  <!-- niko visit -->
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Victoria Chen, _Needle Nails_ (2021)
 - Reading due: Christoph Cox, "Sound Art in America" (2019)
@@ -248,14 +249,14 @@ NO CLASS
 
 #### Wednesday 4/16
 - Kevin Beasley, _A View of a Landscape_ (2019)
-- Present proposals for Sound Object project
+- Present proposals for final projects
 
 ### Week 12
 
 #### Monday — No Class (April Break)
 
 #### Wednesday 4/23
-- Reading due: Kim Cascone, "The Aesthetics of Failure" (2000)
+- Reading due: Kim Cascone, "The Aesthetics of Failure" (2000) <!-- put up in synthesis section -->
 - Zimoun, cardboard box installations (2000s)
 - Work time
 
@@ -275,6 +276,6 @@ NO CLASS
 ### Week 14
 
 #### Monday 5/5
-- Critique Sound Object projects
+- Critique Final projects
 
 
