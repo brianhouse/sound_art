@@ -2,8 +2,9 @@
 
 reading changes in syllabus notes
 
-Stone song is weak
+Stone song is weak, swap with more circuits
 
+need the Kwon on reserve
 
 
 
@@ -36,7 +37,7 @@ have a couple of soldered oscillators to use for testing
 add some other sensor (bend sensor would be cool and easy)
 
 
-– what happens if the sequencer is attached to the VCO in instead of power? that's more consistent. for even just on/off I mean
+– what happens if the sequencer is attached to the VCO in instead of power? that's more consistent. for even just on/off I mean -- yes, that works and is better.
 
 –> add the pitch control multiple resistors from a sequencer to single oscillator (add this to sequencer tutorial, lose the chord thing: they should have two oscillators and one sequencer)
 

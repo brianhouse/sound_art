@@ -225,7 +225,7 @@ NO CLASS
 - Nam June Paik, _Random Access_ (1963)
 - Reading due: Miwon Kwon, "Genealogy of Site Specificity" (2004) <!-- put this in the next class -->
 - Present Responsive Oscillators
-- Work time                        <!-- on what? -->
+- Begin [Final Project](projects/final.md)
 - Midterm Meetings
 
 
@@ -233,7 +233,6 @@ NO CLASS
 
 - Camille Norment, _Plexus_ (2022)
 - Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003) <!-- move down -->
-- Begin [Final Project](projects/final.md)
 - Work time
 <!-- - Midterm Meetings continued -->
 
@@ -244,12 +243,14 @@ NO CLASS
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Victoria Chen, _Needle Nails_ (2021)
 - Reading due: Christoph Cox, "Sound Art in America" (2019)
-- Work time
+- Present proposals for final projects
 
 
 #### Wednesday 4/16
 - Kevin Beasley, _A View of a Landscape_ (2019)
-- Present proposals for final projects
+- Present proposals continued
+- Work time
+
 
 ### Week 12
 
