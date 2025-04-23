@@ -248,8 +248,10 @@ NO CLASS
 
 #### Wednesday 4/16
 - Kevin Beasley, _A View of a Landscape_ (2019)
-- Present proposals continued
+- Present proposals continued <!-- Rachel + Tyler -->
 - Work time
+<!-- - Midterm Meetings continued -->
+
 
 
 ### Week 12

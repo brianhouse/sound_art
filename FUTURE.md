@@ -35,6 +35,11 @@ this is also ideal:
 https://www.bhphotovideo.com/c/product/330021-REG/Hamilton_HA_802_HA_802_1_Watt.html
 
 
+### records
+
+https://hackaday.com/2022/11/01/reproducing-vinyl-records-in-resin/
+
+
 ### infrasound/ultrasound
 
 mems!

@@ -7,6 +7,8 @@ Stone song is weak, swap with more circuits
 need the Kwon on reserve
 
 
+midterm evaluation form
+
 
 # workshops
 
