@@ -7,7 +7,16 @@ Stone song is weak, swap with more circuits
 need the Kwon on reserve
 
 
-midterm evaluation form
+midterm evaluation form with self-evaluation
+
+need to state that presentations should be on their own laptops
+
+
+final project doesn't work without having a wip presentation, otherwise they don't do the work. could even add another unit if I dont do that.
+
+# presentations
+
+bibliography / how did you learn this stuff?
 
 
 # workshops
@@ -44,3 +53,5 @@ add some other sensor (bend sensor would be cool and easy)
 –> add the pitch control multiple resistors from a sequencer to single oscillator (add this to sequencer tutorial, lose the chord thing: they should have two oscillators and one sequencer)
 
 --> make the exercise to make a song. with a sequencer and pitch along with an LFO, that's totally feasible
+
+we dont have an LFO. do we?

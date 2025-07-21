@@ -1,7 +1,7 @@
 # Introduction to Sound Art
 
 ## what's left out
-music. composition. internal structure. and/or sonification and data manipulation. this _is_ really "materiality of sound" as much as possible: recording and digital editing, amplification and speakers, electronic synthesis (pushing the recording off the computer would complete that)
+music. composition. internal structure. and/or sonification and data manipulation. this is really "materiality of sound" as much as possible: recording and digital editing, amplification and speakers, electronic synthesis (pushing the recording off the computer would complete that)
 
 ## more/other artists
 - Abu Hamdan
