@@ -38,7 +38,7 @@ Material for some of the artists is online [here](https://drive.google.com/drive
 For assistance developing presentation skills, students should reach out to [Susan Daniels](https://www.amherst.edu/academiclife/support/writingcenter/public-speaking) at the Writing Center.
 
 ### Reading
-Many classes will include discussion of short texts that address conceptual issues in sound art. You are required to read them before class and have questions and comments ready—post these on Moodle ahead of the class session. 
+Many classes will include discussion of short texts that address conceptual issues in sound art. Reading is due on the day where the text is listed; a reading response must be submitted before class via Moodle. This can be a question raised by the text, a critique of it, a link to related artistic work, or some other brief comment which can stimulate our discussion.
 
 ### Participation
 Attending all class sessions is mandatory, and motivated and mindful participation in crit and classroom discussion is expected.
@@ -56,7 +56,7 @@ It is my intent to lead a course that serves students from diverse backgrounds a
 The version of this syllabus posted online will be updated periodically and is the definitive version. It is your responsibility to consult it and stay up-to-date.
 
 ### Access to 303 and Working Together
-While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. While 303 will be open any time class is not being held, we will also choose designated co-working time in the first week to encourage synchrony. Keys to 303 will be distributed to all students after Add/Drop. In addition, there is a forum on Moodle for students to post questions for each other
+While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. While 303 will be open any time class is not being held, we will also choose designated co-working time in the first week to encourage synchrony. Keys to 303 will be distributed to all students after Add/Drop. In addition, there is a forum on Moodle for students to post questions for each other.
 
 ### Technology
 This course requires a personal laptop—recent hardware and MacOS is preferred (Windows and Linux are also fine; Chromebooks will not work). If you do not have access to a laptop, you will need to make arrangements to borrow one for the course. It is expected that you will not use your laptop for other purposes while in class. The use of phones in class is not permitted.
