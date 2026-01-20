@@ -1,13 +1,14 @@
 # Introduction to Sound Art
 
-## what's left out
-music. composition. internal structure. and/or sonification and data manipulation. this is really "materiality of sound" as much as possible: recording and digital editing, amplification and speakers, electronic synthesis (pushing the recording off the computer would complete that)
+## concept
+"materiality of sound" as much as possible: recording and digital editing, amplification and speakers, electronic synthesis (pushing the recording off the computer would complete that)
 
 ## more/other artists
 - Abu Hamdan
 - Cildo Meireles (https://www.tate.org.uk/art/artworks/meireles-babel-t14041)
 - scanner, by the code of soil (2020)
 - jana winderen, spring broom in the marginal ice zone (2017)
+- lozano-hemmer, Volute
 
 ## more/other readings
 - feld

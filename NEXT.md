@@ -3,6 +3,7 @@
 reading changes in syllabus notes
 
 Stone song is weak, swap with more circuits
+- [Soundwall](https://vimeo.com/19780802) (Peter Vogel, 2009)
 
 need the Kwon on reserve
 
@@ -46,6 +47,8 @@ maybe unnecessary?
 have a couple of soldered oscillators to use for testing
 
 add some other sensor (bend sensor would be cool and easy)
+
+sensor module?
 
 
 – what happens if the sequencer is attached to the VCO in instead of power? that's more consistent. for even just on/off I mean -- yes, that works and is better.

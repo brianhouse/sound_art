@@ -25,20 +25,20 @@ This course explores sound as a medium of art-making with a rich history and rad
 Over the course of the semester, there will be many hands-on workshops in class. These workshops provide a material understanding of the subject matter and establish the technical skills that you will apply to your projects.
 
 ### Exercises
-Most workshops conclude with exercise to be done as homework. You will present these exercises to the class in the following class session, but they will not be critiqued. Your attention should be on technical experimentation and development rather than demonstrating a particular concept. Audio exercises will need to be turned in via Moodle; physical objects must be brought to the classroom as well as video documentation uploaded to Moodle. No late exercises will be accepted.
+Most workshops conclude with an exercise to be done as homework. You will present these exercises to the class in the following class session, but they will not be critiqued. Your attention should be on technical experimentation and development rather than demonstrating a particular concept. Audio exercises will need to be turned in via Moodle; physical objects must be brought to the classroom as well as video documentation uploaded to Moodle. No late exercises will be accepted.
 
 ### Projects
 You will complete two larger projects over the course of the semester, each of which will use a different technical approach as developed in the workshops and exercises. These projects must have a strong conceptual component as informed by the readings and artistic examples discussed in class. These projects will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. All projects must be well documented. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### Presentations
-Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then precede to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
+Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then proceed to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
 
 Material for some of the artists is online [here](https://drive.google.com/drive/folders/1-6ahKmQYCKO24DA45h7uZsKFngLRaR-8?usp=sharing)
 
 For assistance developing presentation skills, students should reach out to [Susan Daniels](https://www.amherst.edu/academiclife/support/writingcenter/public-speaking) at the Writing Center.
 
 ### Reading
-Many classes will include discussion of short texts that address conceptual issues in sound art. Reading is due on the day where the text is listed; a reading response must be submitted before class via Moodle. This can be a question raised by the text, a critique of it, a link to related artistic work, or some other brief comment which can stimulate our discussion.
+Many classes will include discussion of short texts that address conceptual issues in sound art. Reading is due on the day where the text is listed; a reading response must be submitted before class via Moodle. This can be a question raised by the text, a critique of it, a link to related artistic work, or some other brief comment that can stimulate our discussion.
 
 ### Participation
 Attending all class sessions is mandatory, and motivated and mindful participation in crit and classroom discussion is expected.
@@ -50,13 +50,13 @@ In this course, you are expected to earnestly engage in the practice of studio a
 ## Policies
 
 ### Values
-It is my intent to lead a course that serves students from diverse backgrounds and perspectives, and that our varied life experiences may be a common benefit. Content in this studio art course may at times challenge our aesthetic and/or ethical values; free exchange of ideas and critique is encouraged and expected, but harassment and disrespect will not be tolerated. During class discussion and critique we aim to be mindful and generous in our interactions and to make everyone feel heard.
+It is my intent to lead a course that serves students from diverse backgrounds and perspectives, and that our varied life experiences may be a common benefit. Content in this studio art course may at times challenge our aesthetic and/or ethical values; free exchange of ideas and critique is encouraged and expected, but harassment and disrespect will not be tolerated. During class discussion and critique, we aim to be mindful and generous in our interactions and to make everyone feel heard.
 
 ### Dynamic Syllabus
 The version of this syllabus posted online will be updated periodically and is the definitive version. It is your responsibility to consult it and stay up-to-date.
 
 ### Access to 303 and Working Together
-While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. While 303 will be open any time class is not being held, we will also choose designated co-working time in the first week to encourage synchrony. Keys to 303 will be distributed to all students after Add/Drop. In addition, there is a forum on Moodle for students to post questions for each other.
+While all students must complete their own work, you are encouraged to help each other. To facilitate collective learning, students are also able to work in Fayerweather 303 outside of class hours. While 303 will be open any time class is not being held, we will also choose a designated co-working time in the first week to encourage synchrony. Keys to 303 will be distributed to all students after Add/Drop. In addition, there is a forum on Moodle for students to post questions for each other.
 
 ### Technology
 This course requires a personal laptop—recent hardware and MacOS is preferred (Windows and Linux are also fine; Chromebooks will not work). If you do not have access to a laptop, you will need to make arrangements to borrow one for the course. It is expected that you will not use your laptop for other purposes while in class. The use of phones in class is not permitted.
@@ -65,7 +65,7 @@ This course requires a personal laptop—recent hardware and MacOS is preferred 
 I strive to make this course welcoming to all students. If you have a documented disability that requires accommodations, you will need to register with [Accessibility Services](https://www.amherst.edu/offices/student-affairs/accessibility-services) for coordination of your academic accommodations. Once you have your accommodations in place, I will be glad to meet with you to discuss the best implementation of your accommodations.
 
 ### Honor Code and Academic Integrity
-By enrolling in the course, you agree to uphold the principles set forth in the College’s [Honor Code](https://www.amherst.edu/offices/student-affairs/community-standards/intellectual-responsibility-and-plagiarism), including the Statement of Intellectual Responsibility, the Statement of Respect for Persons, and the Statement of Freedom of Expression and Dissent. The work submitted in this course must be conceived of and produced by you. Sampling audio is an inherent part of sound art, and learning from and incorporating code from other sources is a natural part of programming. However, you must demonstrate understanding and intentionality in your work, and you may not copy and paste others' work wholesale. Always credit your sources and inspirations and be confident in your original concepts.
+By enrolling in the course, you agree to uphold the principles set forth in the College’s [Honor Code](https://www.amherst.edu/offices/student-affairs/community-standards/intellectual-responsibility-and-plagiarism), including the Statement of Intellectual Responsibility, the Statement of Respect for Persons, and the Statement of Freedom of Expression and Dissent. The work submitted in this course must be conceived of and produced by you. Sampling audio is an inherent part of sound art, and learning from and incorporating code from other sources is a natural part of programming. However, you must demonstrate understanding and intentionality in your work, and you may not copy and paste others' work wholesale. Always credit your sources and inspirations, and be confident in your original concepts.
 
 ### Settler Responsibility
 Our college is named after a white colonizer and is built in the Kwinitekw Valley on Nonotuck land; we are here because of the sacrifices forced upon indigenous peoples. As artists working with technology, we must be aware of and resist the many ways it capitalizes upon and perpetuates violence toward marginalized people.  
@@ -76,12 +76,12 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 1 — Listening & Hearing
 
-#### Monday 1/27
+#### Monday 1/26
 - Course introduction
 - Workshop: [Listening](workshops/listening.md)
 
 
-#### Wednesday 1/29
+#### Wednesday 1/28
 <!-- print Oliveros! -->
 - Reading due: Mara Mills, "Deafness" (2015)
 <!-- brief reading discussion -->
@@ -94,29 +94,28 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 2 — Acoustic Recording
 
-#### Monday 2/3
+#### Monday 2/2
 <!-- Rick Mears! Director of Environmental Health and Safety (30) -->
 <!-- sign up for presentations now if you forgot -->
 - Check out TASCAM recorders
 - [Critique](resources/crit_guidelines.md) Soundmaps
-<!-- wont usually critique exercises, but this is practice -->
-- Rebecca Belmore, _Wave Sound_ (2017)  <!-- sculpture -->
+- Rebecca Belmore, _Wave Sound_ (2017)
 - Workshop: [Recording](workshops/recording/recording.md)
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
-#### Wednesday 2/5
+#### Wednesday 2/4
 <!-- sign up for TWO presentations NOW! -->
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
 - Listen to Capturing Place exercise  <!-- play the full minute of each one -->
-- Workshop: [Editing](workshops/editing.md)
 - Reading due: Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
+- Workshop: [Editing](workshops/editing.md)
 - Exercise for next class: [Acoustic Vignette](exercises/acoustic_vignette.md)
 
 
 ### Week 3 — Beyond Acoustics
 
-#### Monday 2/10
+#### Monday 2/9
 <!-- Heather brings keys -->
 <!-- barely fits, time wise -->
 - Listen to Acoustic Vignettes
@@ -126,7 +125,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Soldering](workshops/soldering/soldering.md) and [Contact Microphones](workshops/contact_mics/contact_mics.md)
 
 
-#### Wednesday 2/12
+#### Wednesday 2/11
 <!-- go over lab rules -->
 - Reading due: Brandon Labelle, "Auditory Relations" (2006)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
@@ -136,27 +135,27 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 4 — Soundscapes
 
-#### Monday 2/17
+#### Monday 2/16
 - Listen to Non-Acoustic Vignettes <!-- full, discuss details cold -->
 - Janet Cardiff, _Her Long Black Hair_ (2004)
 - Ernst Karel, _Heard Laboratories_ (2010)
 - Workshop: [Electrets](workshops/electrets/electrets.md)
 
-#### Wednesday 2/19
-- Reading due: Dylan Robinson, "Hungry Listening" (2020)
+#### Wednesday 2/18
 - Nathan Young, _Nkwiluntamen_ (2024)
+- Reading due: Dylan Robinson, "Hungry Listening" (2020)
 - Begin [Soundscape](projects/soundscape.md) project
 <!-- finish up any outstanding issues building piezos etc -->
 
 
 ### Week 5 — Soundscapes continued
 
-#### Monday 2/24
+#### Monday 2/23
 - Alvin Lucier, _I Am Sitting in a Room_ (1969)
 - Present proposals for Soundscape project <!-- worth doing and takes awhile -->
 - Work time
 
-#### Wednesday 2/26
+#### Wednesday 2/25
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
 - Reading due: Bernie Krause, "The Niche Hypothesis" (1987)
 - Work time + desk crits
@@ -164,93 +163,96 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 ### Week 6 — Soundscapes continued
 
-#### Monday 3/3
+#### Monday 3/2
 - Critique Soundscape project 
 
 
-#### Wednesday 3/5
-- Reading due: Seth Cluett, "The Loudspeaker in Art Practice" (2019)
+#### Wednesday 3/4
 - Robert Morris, _Box with the Sound of its Own Making_ (1961)
 - Tristan Perich, _Microtonal Wall_ (2016)
+- Reading due: Seth Cluett, "The Loudspeaker in Art Practice" (2019)
 - Workshop: [Assembling an Amplifier and Speakers](workshops/modules/amp.md) and an [Audio Player](workshops/modules/player.md)
 
 ### Week 7 — Amplification
 
-#### Monday 3/10
+#### Monday 3/9
 <!-- have cardboard on hand -->
 <!-- workshop spillover -->
-- Shilpa Gupta, _I keep falling at you_ (2010)
+- Shilpa Gupta, _Singing Cloud_ (2009)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)
 - Exercise for next class: [Resonating Body](exercises/resonating_body.md)
 
-#### Wednesday 3/12
-NO CLASS
+#### Wednesday 3/11
+???
+<!-- possibly begin oscillators if Mark's not free, otherwise Mark -->
+
 
 ### Spring Break
 
 ### Week 8 — Oscillators
 
-#### Monday 3/24
+#### Monday 3/23
+- _Between Systems and Grounds_ at the Powerhouse
 - Present Resonating Bodies
 - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
-#### Wednesday 3/26
-- Reading due: Tara Rodgers, "Synthesis" (2015)
+#### Wednesday 3/25
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - MSHR, _Mesh Manifold_ (2023)
+- Reading due: Tara Rodgers, "Synthesis" (2015)
 - Workshop: [Oscillators + Variable Resistors](workshops/modules/oscillator.md)
 
 
 ### Week 9 — Sequencers
 
-#### Monday 3/31
-- Ryoji Ikeda, _Transinfinite_ (2011)
+#### Monday 3/30
+- Ryoji Ikeda, _The_Transfinite_ (2011)
 - Santiago Reyes Villaveces, _Fósil Acoústico_ (2022)
 - Workshop: [Sequencers](workshops/modules/sequencer.md)
 
 
-#### Wednesday 4/2
+#### Wednesday 4/1
 - Max Neuhaus, _Times Square (the hum)_ (1977)
 - Ranjit Bhatnagar, _Stone Song_ (2014)
 - Synthesizer workshop finish-up
 <!-- - Workshop: [Sensors and Switches](workshops/modules/sensors.md) -->
+- Reading due: Kim Cascone, "The Aesthetics of Failure" (2000)
 - Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillator.md)
 <!-- prep for midterm meetings: ask for a self-assessment  -->
 
 
 ### Week 10
 
-#### Monday 4/7
+#### Monday 4/6
 - Nam June Paik, _Random Access_ (1963)
-- Reading due: Miwon Kwon, "Genealogy of Site Specificity" (2004) <!-- put this in the next class -->
 - Present Responsive Oscillators
 - Begin [Final Project](projects/final.md)
 - Midterm Meetings
 
 
-#### Wednesday 4/9
-
+#### Wednesday 4/8
 - Camille Norment, _Plexus_ (2022)
-- Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003) <!-- move down -->
+- Reading due: Miwon Kwon, "Genealogy of Site Specificity" (2004)
 - Work time
 <!-- - Midterm Meetings continued -->
 
 
 ### Week 10
 
-#### Monday 4/14  <!-- niko visit -->
+#### Monday 4/13
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
 - Victoria Chen, _Needle Nails_ (2021)
-- Reading due: Christoph Cox, "Sound Art in America" (2019)
 - Present proposals for final projects
 
 
-#### Wednesday 4/16
+#### Wednesday 4/15
 - Kevin Beasley, _A View of a Landscape_ (2019)
-- Present proposals continued <!-- Rachel + Tyler -->
+- Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)
+<!-- - Present proposals continued -->
 - Work time
 <!-- - Midterm Meetings continued -->
+
 
 
 
@@ -258,28 +260,28 @@ NO CLASS
 
 #### Monday — No Class (April Break)
 
-#### Wednesday 4/23
-- Reading due: Kim Cascone, "The Aesthetics of Failure" (2000) <!-- put up in synthesis section -->
+#### Wednesday 4/22
+- Reading due: Christoph Cox, "Sound Art in America" (2019)
 - Zimoun, cardboard box installations (2000s)
 - Work time
 
 
 ### Week 13
 
-#### Monday 4/28
+#### Monday 4/27
 - Céleste Boursier-Mougenot, _From Here to Ear_ (1999)
 - Workshop: [Video documentation](workshops/documentation/documentation.md)
 - Work time
 
-#### Wednesday 4/30
+#### Wednesday 4/29
 - Felix Hess, _It's in the Air_ (2008)
-- Evaluations
+<!-- - Evaluations -->
 - Work time
 
 
 ### Week 14
 
-#### Monday 5/5
+#### Monday 5/4
 - Critique Final projects
 
 
