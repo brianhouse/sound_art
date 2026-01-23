@@ -1,7 +1,5 @@
 # readings
 
-reading changes in syllabus notes
-
 Stone song is weak, swap with more circuits
 - [Soundwall](https://vimeo.com/19780802) (Peter Vogel, 2009)
 
@@ -11,7 +9,6 @@ need the Kwon on reserve
 midterm evaluation form with self-evaluation
 
 need to state that presentations should be on their own laptops
-
 
 final project doesn't work without having a wip presentation, otherwise they don't do the work. could even add another unit if I dont do that.
 

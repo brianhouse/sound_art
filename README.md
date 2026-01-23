@@ -31,7 +31,7 @@ Most workshops conclude with an exercise to be done as homework. You will presen
 You will complete two larger projects over the course of the semester, each of which will use a different technical approach as developed in the workshops and exercises. These projects must have a strong conceptual component as informed by the readings and artistic examples discussed in class. These projects will be [critiqued by the class](https://github.com/brianhouse/sound_art/blob/master/resources/crit_guidelines.md). While there are technical and conceptual parameters for each project, you are expected to experiment and to develop a personal artistic trajectory. All projects must be well documented. As work is evaluated via in-class crit, no late work can be accepted.
 
 ### Presentations
-Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then proceed to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class.
+Over the course of the semester, each student will give **TWO** 10-minute presentations on an influential work of sound art as listed in the syllabus. These presentations, which must be organized in 5–10 slides (Google Slides, Keynote, PowerPoint, etc), should give a quick overview of the context in which the artist is working and then proceed to show the piece, explain how it works, and discuss its influence. Students should comment thoughtfully on how the work relates to the themes discussed in class as well as to their own practices and conclude with a few questions to kick off a brief conversation. Students will [sign up to present](https://docs.google.com/spreadsheets/d/1CPhcVVAViKSFwn7ufwh85ftbyqVCAH1wuNkG5fgo7ps/edit) on an artwork on a first-come, first-served basis. Slides should be turned in on Moodle prior to class, and students will present using their own computers.
 
 Material for some of the artists is online [here](https://drive.google.com/drive/folders/1-6ahKmQYCKO24DA45h7uZsKFngLRaR-8?usp=sharing)
 
@@ -184,8 +184,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Exercise for next class: [Resonating Body](exercises/resonating_body.md)
 
 #### Wednesday 3/11
-???
-<!-- possibly begin oscillators if Mark's not free, otherwise Mark -->
+- Visit from Marc Edwards
+- Present Resonating Bodies
 
 
 ### Spring Break
@@ -194,7 +194,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 3/23
 - _Between Systems and Grounds_ at the Powerhouse
-- Present Resonating Bodies
 - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
 
 #### Wednesday 3/25
