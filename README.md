@@ -1,6 +1,6 @@
 # ARHA/MUSI 191: INTRODUCTION TO SOUND ART
 
-Monday / Wednesday 1:00–3:00pm
+Monday / Wednesday 1:05–3:05pm
 Fayerweather 303
 
 Prof. Brian House (he/him)  
@@ -95,7 +95,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 2 — Acoustic Recording
 
 #### Monday 2/2
-<!-- Rick Mears! Director of Environmental Health and Safety (30) -->
 <!-- sign up for presentations now if you forgot -->
 - Check out TASCAM recorders
 - [Critique](resources/crit_guidelines.md) Soundmaps
@@ -104,8 +103,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Exercise for next class: [Capturing Place](exercises/capturing_place.md)
 
 #### Wednesday 2/4
-<!-- sign up for TWO presentations NOW! -->
 - Annea Lockwood, _A Sound Map of the Hudson River_ (1989) <!-- play in beginning -->
+<!-- sign up for TWO presentations NOW! -->
 - Listen to Capturing Place exercise  <!-- play the full minute of each one -->
 - Reading due: Hildegard Westerkamp, "Linking Soundscape Composition and Acoustic Ecology" (2002)
 - Hildegard Westerkamp, _Beneath the Forest Floor_ (1991)
@@ -116,7 +115,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 3 — Beyond Acoustics
 
 #### Monday 2/9
-<!-- Heather brings keys -->
+<!-- Rick Mears! Director of Environmental Health and Safety (30) -->
 <!-- barely fits, time wise -->
 - Listen to Acoustic Vignettes
 - Stephen Vitiello, _World Trade Center Recordings_ (1999)
@@ -126,6 +125,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 
 #### Wednesday 2/11
+<!-- Heather brings keys -->
 <!-- go over lab rules -->
 - Reading due: Brandon Labelle, "Auditory Relations" (2006)
 - Christina Kubisch, _Electrical Walks_ (1970s–)
@@ -151,14 +151,16 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 5 — Soundscapes continued
 
 #### Monday 2/23
-- Alvin Lucier, _I Am Sitting in a Room_ (1969)
-- Present proposals for Soundscape project <!-- worth doing and takes awhile -->
-- Work time
+- SNOW DAY
+<!-- - Alvin Lucier, _I Am Sitting in a Room_ (1969) -->
+<!-- - Present proposals for Soundscape project -->
+<!-- - Work time -->
 
 #### Wednesday 2/25
 - John Luther Adams, _The Place Where You Go to Listen_ (2006)
+- Alvin Lucier, _I Am Sitting in a Room_ (1969)
 - Reading due: Bernie Krause, "The Niche Hypothesis" (1987)
-- Work time + desk crits
+- Work time + desk crits <!-- go around an respond to each proposal -->
 
 
 ### Week 6 — Soundscapes continued
@@ -176,8 +178,10 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 ### Week 7 — Amplification
 
 #### Monday 3/9
+<!-- Niko visit! -->
 <!-- have cardboard on hand -->
 <!-- workshop spillover -->
+<!-- does feedback work with microphones? -->
 - Shilpa Gupta, _Singing Cloud_ (2009)
 - David Tudor, _Rainforest_ (1968)
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)

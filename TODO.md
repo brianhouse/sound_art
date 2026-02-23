@@ -1,16 +1,23 @@
 # TODO
 
+- MAKE SURE REGISTRATION IS NO PERMISSION
 - MAKE SURE ADDING THE CLASS IN ADD/DROP REQUIRES PERMISSION
 
-confirm mark edwards
-
-first day:
+second day:
 - print Oliveros and audiometry_chart
 
 materials:
 - have cardboard on hand
 
-demo file for mixing
+
+can plug in the mics direct to the amplifiers? play with feedback?
+
+
+## knowledge
+
+better on electromagnets
+
+for recording, a demonstration of transduction!
 
 
 ## reading
