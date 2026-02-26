@@ -191,6 +191,10 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Workshop: [Enclosures](workshops/enclosures/enclosures.md)
 - Exercise for next class: [Resonating Body](exercises/resonating_body.md)
 
+##### Rapaport Lecture: Kevin Beasley
+- 5:30pm, Pruyne Lecture Hall, Fayerweather
+
+
 #### Wednesday 3/11
 - Visit from Marc Edwards
 - Present Resonating Bodies
