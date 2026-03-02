@@ -168,7 +168,9 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Monday 3/2
 <!-- - Critique Soundscape project  -->
 - Bernie Krause <!-- catch up -->
+<!-- where to submit soundscape projects -->
 - Work time + desk crits
+<!-- say we're going to move the next presentations -->
 
 
 #### Wednesday 3/4
@@ -198,6 +200,8 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 #### Wednesday 3/11
 - Visit from Marc Edwards
 - Present Resonating Bodies
+- Robert Morris, _Box with the Sound of its Own Making_ (1961) <!-- catch up -->
+- Tristan Perich, _Microtonal Wall_ (2016) <!-- catch up -->
 
 
 ### Spring Break

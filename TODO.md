@@ -14,6 +14,9 @@ can plug in the mics direct to the amplifiers? play with feedback?
 
 align presentation schedule with syllabus
 
+Nikita Gale - Artists
+
+
 
 ## knowledge
 
