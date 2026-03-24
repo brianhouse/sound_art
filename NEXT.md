@@ -1,14 +1,9 @@
 # readings
 
-Stone song is weak, swap with more circuits
-- [Soundwall](https://vimeo.com/19780802) (Peter Vogel, 2009)
-
-need the Kwon on reserve
 
 
 midterm evaluation form with self-evaluation
 
-need to state that presentations should be on their own laptops
 
 final project doesn't work without having a wip presentation, otherwise they don't do the work. could even add another unit if I dont do that.
 
@@ -17,15 +12,15 @@ final project doesn't work without having a wip presentation, otherwise they don
 bibliography / how did you learn this stuff?
 
 
-# workshops
+Stone song is weak, swap with more circuits
+- [Soundwall](https://vimeo.com/19780802) (Peter Vogel, 2009)
 
-## hearing
-media files aren't ordered
+
+# workshops
 
 
 ## electret
 electret needs power turned on!
-https://shilpagupta.com/singing-cloud/
 
 
 ## synths
@@ -40,6 +35,7 @@ https://www.adafruit.com/product/2236
 (maybe 9v too)
 maybe unnecessary?
 
+//
 
 have a couple of soldered oscillators to use for testing
 
@@ -48,7 +44,7 @@ add some other sensor (bend sensor would be cool and easy)
 sensor module?
 
 
-– what happens if the sequencer is attached to the VCO in instead of power? that's more consistent. for even just on/off I mean -- yes, that works and is better.
+– what happens if the sequencer is attached to the VCO in instead of power? that's more consistent. for even just on/off I mean -- yes, that works and is better. [but how then do we control the pitch?]
 
 –> add the pitch control multiple resistors from a sequencer to single oscillator (add this to sequencer tutorial, lose the chord thing: they should have two oscillators and one sequencer)
 

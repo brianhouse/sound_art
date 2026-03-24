@@ -68,16 +68,6 @@ One of these is a photovoltaic resistor, aka a photocell, that changes its resis
 Another option is a Force-Sensive Resistor (FSR), which is wired in the same way as the photocell above.
 
 
-<!-- 
-### VCO-Controlled VCO
-
-What happens if you plug the output of one VCO into the potentiometer input of another VCO?
-
-**diagram goes here**
-
-![](media/hookup_2.jpg)
- -->
-
 ## Mixer
 
 What if you want to combine the signals from two VCOs?
@@ -89,7 +79,7 @@ You can make this into its own module, or use the power-rail breadboard for mixi
 ![](media/mixer_bb.jpg)
 
 
-![](media/hookup_3.png)
+![](media/hookup_2.jpg)
 
 
 

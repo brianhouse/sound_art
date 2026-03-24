@@ -46,20 +46,23 @@ Ok, so how do we use this?
 
 The most straightforward use is to use the sequencer to turn on and off an oscillator. This means we will need _two_ oscillator modules—one to use as the clock, and one to be the signal that is turned on and off.
 
-Note that we're connecting the signal output on the 0-step pin of the sequencer to the **power** of the VCO.
+Note that we're connecting the signal output on the 0-step pin of the sequencer to the voltage divider input of the VCO.
 
-![](media/hookup_4.png)
+![](media/hookup_4.jpg)
 
-Now, this will just turn the VCO on for step 0 of the sequence. What if we want to turn it on for another step?
+Now, this will just turn the VCO on for step 0 of the sequence. But what if we want to turn it on for another step?
 
-In this case, we need a diode mixer module. We connect **two** outputs from the sequencer from the steps we want to the mixer. The result then goes to the power.
+In this case, we need mix using diodes. We will connect two or more outputs from the sequencer from each of the steps we want to the mixer. The result then goes to the input of the VCO.
 
-![](media/hookup_5.png)
+Since we may want to vary the pitch of the tone-generating oscillator, we can augment the mixer module with some voltage dividers:
 
-If you have an LED on step 0, you'll notice that step 0 produces a different pitch in the VCO. That's because some of the voltage is getting siphoned off to power the LED before it can power the VCO. You can use this to make different tones using one VCO by putting resistors prior to the mixer.
+![](media/tone_control_bb.jpg)
 
 
-### Sequencing two VCOs
+![](media/hookup_5.jpg)
+
+
+<!-- ### Sequencing two VCOs
 
 Of course, we could also just sequence two (or more) VCOs directly from the sequencer.
 
@@ -90,3 +93,4 @@ What intervals do you get? If one sequencer resets at 8 steps, and the other at 
     1/8 is a major second
     1/9 is ... ?
     1/10 is a third another octave down
+ -->
