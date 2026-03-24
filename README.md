@@ -210,12 +210,13 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 3/23
 - _Between Systems and Grounds_ at the Powerhouse
-- Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md)
+<!-- - Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md) -->
 
 #### Wednesday 3/25
 - Daniel Fishkin, _Solar Sounders_ (2021)
 - MSHR, _Mesh Manifold_ (2023)
 - Reading due: Tara Rodgers, "Synthesis" (2015)
+- Workshop: [Synthesis](workshops/modules/synthesis.md) and [Oscillators](workshops/modules/oscillator.md) <!-- catch up -->
 - Workshop: [Oscillators + Variable Resistors](workshops/modules/oscillator.md)
 
 
