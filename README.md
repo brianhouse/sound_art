@@ -235,7 +235,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 <!-- - Workshop: [Sensors and Switches](workshops/modules/sensors.md) -->
 - Reading due: Kim Cascone, "The Aesthetics of Failure" (2000)
 - Exercise for next class: [Responsive Oscillators](exercises/responsive_oscillator.md)
-<!-- prep for midterm meetings: ask for a self-assessment  -->
 
 
 ### Week 10
