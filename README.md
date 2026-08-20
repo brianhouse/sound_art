@@ -253,7 +253,7 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 <!-- - Midterm Meetings continued -->
 
 
-### Week 10
+### Week 11
 
 #### Monday 4/13
 - Mendi + Keith Obadike: _Re: Construction (for Raymon Dones)_ (2019)
@@ -266,7 +266,6 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 - Reading due: Julian Henriques, "Sonic Dominance and the Reggae Sound System Session" excerpts (2003)
 <!-- - Present proposals continued -->
 - Work time
-<!-- - Midterm Meetings continued -->
 
 
 
@@ -285,13 +284,17 @@ Our college is named after a white colonizer and is built in the Kwinitekw Valle
 
 #### Monday 4/27
 - Céleste Boursier-Mougenot, _From Here to Ear_ (1999)
+<!-- michelle make-up presentation -->
+<!-- desk crits -->
 - Workshop: [Video documentation](workshops/documentation/documentation.md)
 - Work time
 
 #### Wednesday 4/29
-- Felix Hess, _It's in the Air_ (2008)
+- Felix Hess, _It's in the Air_ (2008) <!-- michael -->
 <!-- - Evaluations -->
 - Work time
+<!-- show work to tables -->
+<!-- my CHI event -->
 
 
 ### Week 14
