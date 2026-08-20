@@ -14,6 +14,21 @@ can plug in the mics direct to the amplifiers? play with feedback?
 
 align presentation schedule with syllabus
 
+Nikita Gale - Artists
+
+
+
+## knowledge
+
+better on electromagnets
+
+for recording, a demonstration of transduction!
+
+
+## reading
+read and notes for:
+- cox
+- henriques
 
 
 ## presentations
@@ -27,3 +42,10 @@ beasley
 bhatnagar
 
 
+## workshops
+
+- sensors and switches
+what is this? they have a light sensor. the switch is for on/off. ah, but switches can also make connections. maybe it's just switches.
+
+
+## supplies
